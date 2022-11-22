@@ -1,0 +1,6688 @@
+[{
+    "coordinates": [
+        "1.345,103.863"
+    ],
+    "asn": 16276,
+    "city": "",
+    "ipv4": "51.79.142.39",
+    "ipv6": "2402:1f00:8002:100::e6",
+    "hostname": "ovh11.ring.nlnog.net",
+    "datacenter": "Singapore - SGP1"
+},
+{
+    "coordinates": [
+        "48.10882,-1.63463"
+    ],
+    "asn": 204092,
+    "city": "Rennes",
+    "ipv4": "89.234.186.121",
+    "ipv6": "2a00:5884:8204::1",
+    "hostname": "grifon01.ring.nlnog.net",
+    "datacenter": "Cogent Rennes"
+},
+{
+    "coordinates": [
+        "51.510901,-0.003482"
+    ],
+    "asn": 8426,
+    "city": "London",
+    "ipv4": "195.157.9.4",
+    "ipv6": "2001:a88:0:ff00::4",
+    "hostname": "claranet01.ring.nlnog.net",
+    "datacenter": null
+},
+{
+    "coordinates": [
+        "53.2074,6.4737"
+    ],
+    "asn": 39292,
+    "city": "Groningen",
+    "ipv4": "185.80.247.106",
+    "ipv6": "2a01:1b1:1:1::106",
+    "hostname": "duocast02.ring.nlnog.net",
+    "datacenter": "NorthC Groningen"
+},
+{
+    "coordinates": [
+        "51.347304,-0.480730"
+    ],
+    "asn": 31463,
+    "city": "Byfleet",
+    "ipv4": "46.245.255.5",
+    "ipv6": "2a00:1c18:0:101::5",
+    "hostname": "4ddc01.ring.nlnog.net",
+    "datacenter": "Byfleet, West Byfleet, Surrey KT14 7JU, Great Britain"
+},
+{
+    "coordinates": [
+        "52.247083,6.001165"
+    ],
+    "asn": 203993,
+    "city": "Apeldoorn",
+    "ipv4": "185.54.92.71",
+    "ipv6": "2a00:8642:1000:f000::71",
+    "hostname": "steffann01.ring.nlnog.net",
+    "datacenter": "Serverius DC3 Apeldoorn"
+},
+{
+    "coordinates": [
+        "25.782389,-80.193111"
+    ],
+    "asn": 20080,
+    "city": "Miami",
+    "ipv4": "190.103.186.186",
+    "ipv6": "2800:bc0:0:10::186",
+    "hostname": "ampath01.ring.nlnog.net",
+    "datacenter": "Equinix Miami"
+},
+{
+    "coordinates": [
+        "47.4495228,8.540425400000004"
+    ],
+    "asn": 59414,
+    "city": "Rumlang",
+    "ipv4": "5.102.147.137",
+    "ipv6": "2a06:c01:1:1104::9389:137",
+    "hostname": "cloudscale01.ring.nlnog.net",
+    "datacenter": "e-shelter Switzerland"
+},
+{
+    "coordinates": [
+        "50.101886,14.39173"
+    ],
+    "asn": 2852,
+    "city": "Prague",
+    "ipv4": "78.128.211.50",
+    "ipv6": "2001:718:1:1f:50:56ff:feee:50",
+    "hostname": "cesnet01.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "34.0533447265625,-118.24234771728516"
+    ],
+    "asn": 16509,
+    "city": "Los Angeles",
+    "ipv4": "70.224.199.231",
+    "ipv6": "2600:1f1f:92d:8100::22",
+    "hostname": "amazon22.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "49.01222,8.40815"
+    ],
+    "asn": 34878,
+    "city": "Karlsruhe",
+    "ipv4": "129.13.55.214",
+    "ipv6": "2a00:1398:200:601::10",
+    "hostname": "kit01.ring.nlnog.net",
+    "datacenter": "SCC - Steinbuch Centre for Computing, Engesserstrasse 2, 76131 Karlsruhe, Germany"
+},
+{
+    "coordinates": [
+        "51.531654,-0.257503"
+    ],
+    "asn": 63949,
+    "city": "London",
+    "ipv4": "139.162.229.237",
+    "ipv6": "2a01:7e00::f03c:91ff:febb:800c",
+    "hostname": "linode07.ring.nlnog.net",
+    "datacenter": "Equinix LD9"
+},
+{
+    "coordinates": [
+        "51.98754,5.93230"
+    ],
+    "asn": 59545,
+    "city": "Zoetermeer",
+    "ipv4": "92.63.161.60",
+    "ipv6": "2a01:a680:a1:10:1:60::",
+    "hostname": "vertixo01.ring.nlnog.net",
+    "datacenter": "Colocenter, NL"
+},
+{
+    "coordinates": [
+        "-29.725754,31.065165"
+    ],
+    "asn": 37668,
+    "city": "Umhlanga",
+    "ipv4": "196.10.55.133",
+    "ipv6": "2001:43f8:1f5:a00::133",
+    "hostname": "inxza03.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "53.858024,-9.279904"
+    ],
+    "asn": 39093,
+    "city": "Castlebar",
+    "ipv4": "88.81.97.211",
+    "ipv6": "2a02:3d8:0:10::211",
+    "hostname": "westnet01.ring.nlnog.net",
+    "datacenter": null
+},
+{
+    "coordinates": [
+        "41.875998,-88.248779"
+    ],
+    "asn": 63311,
+    "city": "West Chicago",
+    "ipv4": "204.130.133.181",
+    "ipv6": "2607:fae0:f202:44c::181",
+    "hostname": "20c01.ring.nlnog.net",
+    "datacenter": "New Continuum Data Centers West Chicago, IL 60185"
+},
+{
+    "coordinates": [
+        "1.324256,103.891800"
+    ],
+    "asn": 63949,
+    "city": "Singapore",
+    "ipv4": "103.3.60.146",
+    "ipv6": "2400:8901::f03c:91ff:fe37:a150",
+    "hostname": "linode01.ring.nlnog.net",
+    "datacenter": "Pacnet/Telstra SGCS2, 110 Paya Lebar Road, Level 8, Singapore 409009"
+},
+{
+    "coordinates": [
+        "41.862632,-87.666924"
+    ],
+    "asn": 25697,
+    "city": "Chicago",
+    "ipv4": "38.100.118.29",
+    "ipv6": "2605:7380:1000:1310:a8aa:aaff:fea0:23a4",
+    "hostname": "upcloud04.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "51.347629,-0.479842"
+    ],
+    "asn": 56730,
+    "city": "Byfleet",
+    "ipv4": "134.0.17.134",
+    "ipv6": "2a03:b980:c037::",
+    "hostname": "wirehive01.ring.nlnog.net",
+    "datacenter": "4D Data Centres Limited, Byfleet, Surrey KT14, United Kingdom"
+},
+{
+    "coordinates": [
+        "33.001062,-96.963478"
+    ],
+    "asn": 11734,
+    "city": "Lewisville",
+    "ipv4": "199.189.66.254",
+    "ipv6": "2607:f148:4000:3::4",
+    "hostname": "connectria02.ring.nlnog.net",
+    "datacenter": "Lewisville, TX"
+},
+{
+    "coordinates": [
+        "48.133333,11.566667"
+    ],
+    "asn": 5539,
+    "city": "Munich",
+    "ipv4": "195.30.193.17",
+    "ipv6": "2001:608:1:151::17",
+    "hostname": "spacenet01.ring.nlnog.net",
+    "datacenter": null
+},
+{
+    "coordinates": [
+        "49.877636,8.654469"
+    ],
+    "asn": 6766,
+    "city": "Darmstadt",
+    "ipv4": "82.195.73.60",
+    "ipv6": "2001:67c:2ed8::60:0",
+    "hostname": "chaosdarmstadt01.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "49.78751,6.08961"
+    ],
+    "asn": 29169,
+    "city": "Bissen",
+    "ipv4": "46.226.109.152",
+    "ipv6": "2001:4b98:dc2:41:216:3eff:feca:f683",
+    "hostname": "gandi02.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "37.471829,-121.920299"
+    ],
+    "asn": 60011,
+    "city": "Fremont",
+    "ipv4": "185.101.97.120",
+    "ipv6": "2a06:1c80:3::4:1",
+    "hostname": "mythicbeasts03.ring.nlnog.net",
+    "datacenter": "Hurricane Electric Fremont 2"
+},
+{
+    "coordinates": [
+        "48.92777778,2.35111111"
+    ],
+    "asn": 29169,
+    "city": "Saint-Denis",
+    "ipv4": "92.243.16.165",
+    "ipv6": "2001:4b98:dc0:43:216:3eff:fe18:c91a",
+    "hostname": "gandi01.ring.nlnog.net",
+    "datacenter": "Equinix PA3"
+},
+{
+    "coordinates": [
+        "35.584732,139.748758"
+    ],
+    "asn": 12041,
+    "city": "Ota",
+    "ipv4": "199.19.52.229",
+    "ipv6": "2001:500:a:500::229",
+    "hostname": "afilias03.ring.nlnog.net",
+    "datacenter": "Equinix TY1"
+},
+{
+    "coordinates": [
+        "51.930219,4.413842"
+    ],
+    "asn": 24586,
+    "city": "Rotterdam",
+    "ipv4": "46.22.180.60",
+    "ipv6": "2001:4c10::2:59:0:60",
+    "hostname": "intermax01.ring.nlnog.net",
+    "datacenter": "Bytesnet Rotterdam (NL)"
+},
+{
+    "coordinates": [
+        "51.1861667,007.2269722"
+    ],
+    "asn": 60316,
+    "city": "Remscheid",
+    "ipv4": "185.33.216.100",
+    "ipv6": "2a04:5a00:5a00:10d3::500:1",
+    "hostname": "rgi01.ring.nlnog.net",
+    "datacenter": "RGI Datacenter Remscheid"
+},
+{
+    "coordinates": [
+        "46.936647,7.429907"
+    ],
+    "asn": 15576,
+    "city": "Berne",
+    "ipv4": "212.103.89.212",
+    "ipv6": "2a00:c38:2::212",
+    "hostname": "nts01.ring.nlnog.net",
+    "datacenter": null
+},
+{
+    "coordinates": [
+        "60.173324,24.941025"
+    ],
+    "asn": 202053,
+    "city": "Helsinki",
+    "ipv4": "185.26.50.99",
+    "ipv6": "2a04:3540:1000:310:a8aa:aaff:fea0:350d",
+    "hostname": "upcloud01.ring.nlnog.net",
+    "datacenter": "Upcloud Oy, Lauttasaari"
+},
+{
+    "coordinates": [
+        "47.1744,8.5233"
+    ],
+    "asn": 34288,
+    "city": "Zug",
+    "ipv4": "85.158.27.42",
+    "ipv6": "2001:4b20:100:205::42",
+    "hostname": "kantonsschulezug01.ring.nlnog.net",
+    "datacenter": null
+},
+{
+    "coordinates": [
+        "44.4182748,26.0967539"
+    ],
+    "asn": 48112,
+    "city": "Bucharest",
+    "ipv4": "185.173.16.145",
+    "ipv6": "2a0b:2f00:0:234::145",
+    "hostname": "xindi01.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "50.11648,8.72594"
+    ],
+    "asn": 44066,
+    "city": "Frankfurt",
+    "ipv4": "212.224.84.34",
+    "ipv6": "2a01:7e0:fc:1:212:224:84:34",
+    "hostname": "firstcolo01.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "54.384,18.638"
+    ],
+    "asn": 34681,
+    "city": "",
+    "ipv4": "193.32.86.6",
+    "ipv6": "2a0f:5701:3200:23::1",
+    "hostname": "hlit01.ring.nlnog.net",
+    "datacenter": "ART-NET DC"
+},
+{
+    "coordinates": [
+        "52.2412598,5.1693086"
+    ],
+    "asn": 207375,
+    "city": "",
+    "ipv4": "45.145.108.80",
+    "ipv6": "2a0e:fdc0:200:31::20",
+    "hostname": "fibo01.ring.nlnog.net",
+    "datacenter": "Cellnex Media Gateway Hilversum"
+},
+{
+    "coordinates": [
+        "-17.8319711,31.0519865"
+    ],
+    "asn": 30844,
+    "city": "Harare",
+    "ipv4": "41.60.207.30",
+    "ipv6": "2a01:410:1:4003:41:60:207:30",
+    "hostname": "liquidtelecom01.ring.nlnog.net",
+    "datacenter": "ZOL Eastgate, 3rd Floor, Green Bridge East Gate, Harare"
+},
+{
+    "coordinates": [
+        "52.027374,5.624321"
+    ],
+    "asn": 34942,
+    "city": "Ede",
+    "ipv4": "193.189.139.240",
+    "ipv6": "2a06:340::240",
+    "hostname": "vivor01.ring.nlnog.net",
+    "datacenter": "BIT-2B Ede"
+},
+{
+    "coordinates": [
+        "52.2812515,4.765042699999981"
+    ],
+    "asn": 202053,
+    "city": "Schiphol-Rijk",
+    "ipv4": "94.237.47.105",
+    "ipv6": "2a04:3544:1000:1510:d42a:dcff:fe53:7f9",
+    "hostname": "upcloud05.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "59.329323,18.068581"
+    ],
+    "asn": 16509,
+    "city": "Stockholm",
+    "ipv4": "13.49.16.77",
+    "ipv6": "2a05:d016:4e7:cc00::19",
+    "hostname": "amazon19.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "39.9075000,116.3972300"
+    ],
+    "asn": 16509,
+    "city": "Beijing",
+    "ipv4": "54.223.49.236",
+    "ipv6": "2400:7fc0:8d8f:5000::10",
+    "hostname": "amazon10.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "51.220669,7.639515"
+    ],
+    "asn": 203593,
+    "city": "",
+    "ipv4": null,
+    "ipv6": "2a06:d681::113",
+    "hostname": "telemark01.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "-27.46,153.02"
+    ],
+    "asn": 4764,
+    "city": "Brisbane City",
+    "ipv4": "119.18.35.7",
+    "ipv6": "2403:5800:700:16::1",
+    "hostname": "aussiebb02.ring.nlnog.net",
+    "datacenter": "NextDC B1"
+},
+{
+    "coordinates": [
+        "52.4658322,13.3696673"
+    ],
+    "asn": 201701,
+    "city": "Berlin",
+    "ipv4": "185.66.195.243",
+    "ipv6": "2a03:2260:2000:1::3",
+    "hostname": "freifunkrl01.ring.nlnog.net",
+    "datacenter": "Speedbone Berlin"
+},
+{
+    "coordinates": [
+        "51.496119,-0.0747634"
+    ],
+    "asn": 12488,
+    "city": "London",
+    "ipv4": "185.53.57.183",
+    "ipv6": "2a03:2800:500::70",
+    "hostname": "krystal01.ring.nlnog.net",
+    "datacenter": "Netwise House"
+},
+{
+    "coordinates": [
+        "-36.849316,174.765472"
+    ],
+    "asn": 136557,
+    "city": "Waitemata",
+    "ipv4": "163.47.21.112",
+    "ipv6": "2404:f780:5:a1f::b71b:4a7",
+    "hostname": "hostuniversal02.ring.nlnog.net",
+    "datacenter": "DataCentre220"
+},
+{
+    "coordinates": [
+        "49.8039584,-97.1477005"
+    ],
+    "asn": 16796,
+    "city": "Winnipeg",
+    "ipv4": "216.73.73.230",
+    "ipv6": "2620:b0:0:4::4",
+    "hostname": "merlin01.ring.nlnog.net",
+    "datacenter": "University of Manitoba"
+},
+{
+    "coordinates": [
+        "40.722529,-73.632961"
+    ],
+    "asn": 27257,
+    "city": "Garden City",
+    "ipv4": "174.137.148.20",
+    "ipv6": "2604:9e00:0001:010c:0000:0000:0000:0005",
+    "hostname": "webair01.ring.nlnog.net",
+    "datacenter": null
+},
+{
+    "coordinates": [
+        "50.98707,2.12554"
+    ],
+    "asn": 16276,
+    "city": "Gravelines",
+    "ipv4": "37.187.111.58",
+    "ipv6": "2001:41d0:a:643a::137",
+    "hostname": "ovh01.ring.nlnog.net",
+    "datacenter": "GRA1"
+},
+{
+    "coordinates": [
+        "40.784501,-74.065119"
+    ],
+    "asn": 202053,
+    "city": "",
+    "ipv4": "209.151.152.165",
+    "ipv6": "2605:7380:8000:1000:d42a:dcff:fe53:664c",
+    "hostname": "upcloud09.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "10.324207,123.908805"
+    ],
+    "asn": 63927,
+    "city": "Cebu City",
+    "ipv4": "43.226.6.82",
+    "ipv6": "2401:da80:1000:2::9",
+    "hostname": "rise01.ring.nlnog.net",
+    "datacenter": "Crown 7 Business Center, Pope John Paul II Ave., Cebu City, Cebu"
+},
+{
+    "coordinates": [
+        "50.11529469499107,8.722994327545166"
+    ],
+    "asn": 8426,
+    "city": "Frankfurt",
+    "ipv4": "195.38.140.4",
+    "ipv6": "2a00:1798:fff0::4",
+    "hostname": "claranet02.ring.nlnog.net",
+    "datacenter": null
+},
+{
+    "coordinates": [
+        "52.332872,4.919522"
+    ],
+    "asn": 20769,
+    "city": "Amsterdam",
+    "ipv4": "91.208.87.80",
+    "ipv6": "2a04:a500:1337:764:91:208:87:80",
+    "hostname": "quanza01.ring.nlnog.net",
+    "datacenter": "euNetworks"
+},
+{
+    "coordinates": [
+        "52.25,21"
+    ],
+    "asn": 16276,
+    "city": "Warszawa",
+    "ipv4": "51.83.250.206",
+    "ipv6": "2001:41d0:601:2000::8cc",
+    "hostname": "ovh09.ring.nlnog.net",
+    "datacenter": "Warsaw - WAW1"
+},
+{
+    "coordinates": [
+        "51,0"
+    ],
+    "asn": 60672,
+    "city": "Wealden",
+    "ipv4": "193.192.2.132",
+    "ipv6": "2a10:6740::4:beef",
+    "hostname": "serverchoice01.ring.nlnog.net",
+    "datacenter": "ServerChoice SC-1"
+},
+{
+    "coordinates": [
+        "-36.909603,174.8106"
+    ],
+    "asn": 45179,
+    "city": "Maungakiekie-Tamaki",
+    "ipv4": "120.138.30.57",
+    "ipv6": "2403:7000:8000:700::b6",
+    "hostname": "sitehost01.ring.nlnog.net",
+    "datacenter": "SiteHost Datacenter, Penrose, Auckland"
+},
+{
+    "coordinates": [
+        "35.686,139.689"
+    ],
+    "asn": 59105,
+    "city": "",
+    "ipv4": "103.202.216.11",
+    "ipv6": "2403:bd80:c000::11",
+    "hostname": "homenoc01.ring.nlnog.net",
+    "datacenter": "Home NOC Operators Group POP03 (Nishi-Shinjuku DC)"
+},
+{
+    "coordinates": [
+        "19.07598,72.87766"
+    ],
+    "asn": 16509,
+    "city": "Mumbai",
+    "ipv4": "52.66.51.117",
+    "ipv6": "2406:da1a:1b5:8d00::12",
+    "hostname": "amazon12.ring.nlnog.net",
+    "datacenter": "Amazon"
+},
+{
+    "coordinates": [
+        "50.875236,4.499557"
+    ],
+    "asn": 39923,
+    "city": "",
+    "ipv4": "109.68.162.234",
+    "ipv6": "2a02:2a08:214::234",
+    "hostname": "unixsolutions02.ring.nlnog.net",
+    "datacenter": "Unix-Solutions Datacenter Zaventem"
+},
+{
+    "coordinates": [
+        "49.09486,8.43160"
+    ],
+    "asn": 34878,
+    "city": "Eggenstein-Leopoldshafen",
+    "ipv4": "129.13.73.30",
+    "ipv6": "2a00:1398:200:602::10",
+    "hostname": "kit02.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "52.303062,4.937775"
+    ],
+    "asn": 3333,
+    "city": "Amsterdam",
+    "ipv4": "193.0.0.180",
+    "ipv6": "2001:67c:2e8:3::c100:b4",
+    "hostname": "ripe01.ring.nlnog.net",
+    "datacenter": "Telecity 2"
+},
+{
+    "coordinates": [
+        "-36.849310,174.765470"
+    ],
+    "asn": 138398,
+    "city": "Waitemata",
+    "ipv4": "103.130.69.35",
+    "ipv6": "2403:b4c0:9000:101::35",
+    "hostname": "prodigi01.ring.nlnog.net",
+    "datacenter": "The Datacentre, 220 Queen Street, Auckland, New Zealand"
+},
+{
+    "coordinates": [
+        "47.383398,8.495548"
+    ],
+    "asn": 57118,
+    "city": "Zurich",
+    "ipv4": "185.95.216.100",
+    "ipv6": "2a05:fc80:2:21::100",
+    "hostname": "communityrack01.ring.nlnog.net",
+    "datacenter": "colozueri.ch AG"
+},
+{
+    "coordinates": [
+        "51.188271,6.867769"
+    ],
+    "asn": 39138,
+    "city": "Dusseldorf",
+    "ipv4": "31.172.10.5",
+    "ipv6": "2a01:a700:4836::1:2",
+    "hostname": "rrbone01.ring.nlnog.net",
+    "datacenter": null
+},
+{
+    "coordinates": [
+        "32.7782872,-96.7983997"
+    ],
+    "asn": 46475,
+    "city": "Dallas",
+    "ipv4": "162.253.42.201",
+    "ipv6": "2607:ff68:100:a::16d",
+    "hostname": "limestone01.ring.nlnog.net",
+    "datacenter": "Databank DFW1"
+},
+{
+    "coordinates": [
+        "52.060520,4.493260"
+    ],
+    "asn": 213035,
+    "city": "Zoetermeer",
+    "ipv4": "185.28.39.26",
+    "ipv6": "2a10:1440:0000:6:0000:0000::100",
+    "hostname": "serverion01.ring.nlnog.net",
+    "datacenter": "Colocenter"
+},
+{
+    "coordinates": [
+        "52.465907,13.369467"
+    ],
+    "asn": 6724,
+    "city": "Berlin",
+    "ipv4": "81.169.160.77",
+    "ipv6": "2a01:238:b:f034::77",
+    "hostname": "strato01.ring.nlnog.net",
+    "datacenter": null
+},
+{
+    "coordinates": [
+        "55.72760,12.37716"
+    ],
+    "asn": 60876,
+    "city": "Ballerup",
+    "ipv4": "185.24.168.23",
+    "ipv6": "2a00:7660:0:1::23",
+    "hostname": "gigabit01.ring.nlnog.net",
+    "datacenter": "InterXion"
+},
+{
+    "coordinates": [
+        "52.391224,4.665155"
+    ],
+    "asn": 60781,
+    "city": "Haarlem",
+    "ipv4": "37.48.73.130",
+    "ipv6": "2001:1af8:4700:a103:baaa::2",
+    "hostname": "leaseweb02.ring.nlnog.net",
+    "datacenter": "Evoswitch AMS1"
+},
+{
+    "coordinates": [
+        "1.322630,103.920970"
+    ],
+    "asn": 133210,
+    "city": "",
+    "ipv4": "103.255.250.213",
+    "ipv6": "2001:df1:a800:1::3",
+    "hostname": "entech01.ring.nlnog.net",
+    "datacenter": "1-Net East, Singapore"
+},
+{
+    "coordinates": [
+        "52.281142,4.765655"
+    ],
+    "asn": 20559,
+    "city": "Schiphol-Rijk",
+    "ipv4": "185.113.85.7",
+    "ipv6": "2a06:6940:1:1::412",
+    "hostname": "fundaments01.ring.nlnog.net",
+    "datacenter": "InterXion AMS7"
+},
+{
+    "coordinates": [
+        "51.910230,4.546710"
+    ],
+    "asn": 20495,
+    "city": "",
+    "ipv4": "217.148.160.201",
+    "ipv6": "2001:15c8:0:1::201",
+    "hostname": "wdsix01.ring.nlnog.net",
+    "datacenter": "Databarn Rivium"
+},
+{
+    "coordinates": [
+        "51.5115523,-0.0051103"
+    ],
+    "asn": 39192,
+    "city": "London Borough of Tower Hamlets",
+    "ipv4": "185.234.74.26",
+    "ipv6": "2a0f:5840::1a",
+    "hostname": "jacknet01.ring.nlnog.net",
+    "datacenter": "THN2 (London)"
+},
+{
+    "coordinates": [
+        "44.971344,-93.254496"
+    ],
+    "asn": 47096,
+    "city": "Minneapolis",
+    "ipv4": "192.208.55.11",
+    "ipv6": "2604:1940:0:8004::1000",
+    "hostname": "compudyne01.ring.nlnog.net",
+    "datacenter": "http://www.cologix.com/data-centers/minneapolis/"
+},
+{
+    "coordinates": [
+        "11.55810,104.92039"
+    ],
+    "asn": 7712,
+    "city": "Phnom Penh",
+    "ipv4": "118.67.200.190",
+    "ipv6": "2405:aa00:4:298::190",
+    "hostname": "sabay01.ring.nlnog.net",
+    "datacenter": "Sabay (private)"
+},
+{
+    "coordinates": [
+        "45.5581968,-73.8516466"
+    ],
+    "asn": 16509,
+    "city": "Laval",
+    "ipv4": "35.182.42.245",
+    "ipv6": "2600:1f11:2d1:6d00::13",
+    "hostname": "amazon13.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "51.903610,-8.512420"
+    ],
+    "asn": 47720,
+    "city": "Cork",
+    "ipv4": "84.39.233.185",
+    "ipv6": "2a02:2078:105:1337::2",
+    "hostname": "cloudcix01.ring.nlnog.net",
+    "datacenter": "CloudCIX Limited"
+},
+{
+    "coordinates": [
+        "47.517702,19.058264"
+    ],
+    "asn": 41075,
+    "city": "Budapest",
+    "ipv4": "88.151.99.253",
+    "ipv6": "2a01:270:91fd::1",
+    "hostname": "atw01.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "59.409581,17.949260"
+    ],
+    "asn": 213113,
+    "city": "Stockholm",
+    "ipv4": "93.177.80.137",
+    "ipv6": "2a0a:d980:3::93:177:80:137",
+    "hostname": "kamel01.ring.nlnog.net",
+    "datacenter": "Obe Kista Gate"
+},
+{
+    "coordinates": [
+        "-33.91,151.18"
+    ],
+    "asn": 4764,
+    "city": "Sydney",
+    "ipv4": "203.129.26.145",
+    "ipv6": "2403:5800:200:16::1",
+    "hostname": "aussiebb01.ring.nlnog.net",
+    "datacenter": "Equinix SY4"
+},
+{
+    "coordinates": [
+        "35.594240,-82.55790"
+    ],
+    "asn": 27446,
+    "city": "Asheville",
+    "ipv4": "72.250.243.98",
+    "ipv6": "2001:4850:2019::1",
+    "hostname": "ercwnc01.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "51.987831,5.933394"
+    ],
+    "asn": 43190,
+    "city": "Arnhem",
+    "ipv4": "77.95.252.48",
+    "ipv6": "2a00:1478:50:0:11:913:0:1",
+    "hostname": "totaalnet01.ring.nlnog.net",
+    "datacenter": null
+},
+{
+    "coordinates": [
+        "52.354626,4.961590"
+    ],
+    "asn": 63399,
+    "city": "Amsterdam",
+    "ipv4": "185.91.9.17",
+    "ipv6": "2a05:e580:0:1::2",
+    "hostname": "dialpad01.ring.nlnog.net",
+    "datacenter": "Equinix AM3"
+},
+{
+    "coordinates": [
+        "39.0222287,-77.4613288"
+    ],
+    "asn": 48328,
+    "city": "",
+    "ipv4": "199.204.15.129",
+    "ipv6": "2a02:7b02:fff::3",
+    "hostname": "retarus02.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "43.542635,1.509676"
+    ],
+    "asn": 39405,
+    "city": null,
+    "ipv4": "141.0.202.201",
+    "ipv6": "2a01:6600:10c0:808::1",
+    "hostname": "fullsave01.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "50.870398,4.476162"
+    ],
+    "asn": 50309,
+    "city": "Zaventem",
+    "ipv4": "185.160.128.147",
+    "ipv6": "2a0b:5e00:100::2",
+    "hostname": "arcadiz01.ring.nlnog.net",
+    "datacenter": "Interxion Brussel"
+},
+{
+    "coordinates": [
+        "-34.926537,138.594216"
+    ],
+    "asn": 136557,
+    "city": "Adelaide",
+    "ipv4": "103.25.56.18",
+    "ipv6": "2406:d500:2::b167:ad4d",
+    "hostname": "hostuniversal06.ring.nlnog.net",
+    "datacenter": "Colocity DC3"
+},
+{
+    "coordinates": [
+        "52.2914965,4.9504641"
+    ],
+    "asn": 25182,
+    "city": "Amsterdam",
+    "ipv4": "145.58.125.190",
+    "ipv6": "2a02:458:200:339::be",
+    "hostname": "npo01.ring.nlnog.net",
+    "datacenter": "Equinix AMS 5"
+},
+{
+    "coordinates": [
+        "50.106529,8.740370"
+    ],
+    "asn": 64475,
+    "city": "Offenbach am Main",
+    "ipv4": "185.206.209.163",
+    "ipv6": "2a0f:3786:11:1a::1",
+    "hostname": "ffam01.ring.nlnog.net",
+    "datacenter": "aixit GmbH"
+},
+{
+    "coordinates": [
+        "48.914245,2.362260"
+    ],
+    "asn": 57734,
+    "city": "Saint-Denis",
+    "ipv4": "37.49.234.137",
+    "ipv6": "2a00:a4c0:2:1::137",
+    "hostname": "franceix01.ring.nlnog.net",
+    "datacenter": "Interxion Par5"
+},
+{
+    "coordinates": [
+        "49.285840,-123.118246"
+    ],
+    "asn": 14280,
+    "city": "Vancouver",
+    "ipv4": "64.40.105.244",
+    "ipv6": "2606:6a00::a:c",
+    "hostname": "hostway01.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "40.556947,-74.484737"
+    ],
+    "asn": 20473,
+    "city": "Piscataway Township",
+    "ipv4": "45.63.14.202",
+    "ipv6": "2001:19f0:300:62a8:5400:ff:fe09:a1cd",
+    "hostname": "choopa01.ring.nlnog.net",
+    "datacenter": "Dupont Fabros NJ1"
+},
+{
+    "coordinates": [
+        "50.096741,8.629677"
+    ],
+    "asn": 28753,
+    "city": "Frankfurt",
+    "ipv4": "185.17.144.154",
+    "ipv6": "2a00:c98:2200:af0a:baaa::1",
+    "hostname": "leaseweb04.ring.nlnog.net",
+    "datacenter": "Telehouse"
+},
+{
+    "coordinates": [
+        "53.37930,-2.25855"
+    ],
+    "asn": 28792,
+    "city": "Manchester",
+    "ipv4": "80.82.242.37",
+    "ipv6": "2A01:248:FF40:500::2",
+    "hostname": "pblin01.ring.nlnog.net",
+    "datacenter": "Teledata, Manchester"
+},
+{
+    "coordinates": [
+        "52.303823,4.939355"
+    ],
+    "asn": 48635,
+    "city": "Amsterdam-Zuidoost",
+    "ipv4": "185.87.187.104",
+    "ipv6": "2a00:f10:305:0:4d8:4ff:fe00:4a0",
+    "hostname": "pcextreme03.ring.nlnog.net",
+    "datacenter": "Switch Datacenter"
+},
+{
+    "coordinates": [
+        "55.698164,37.531089"
+    ],
+    "asn": 2848,
+    "city": "Moscow",
+    "ipv4": "188.44.51.106",
+    "ipv6": "2a00:f480:0:105::bc2c:336a",
+    "hostname": "msu01.ring.nlnog.net",
+    "datacenter": "ulitsa Leninskiye Gory, Moskva, Russia"
+},
+{
+    "coordinates": [
+        "48.905224522197365,2.2583717107772827"
+    ],
+    "asn": 8426,
+    "city": "Courbevoie",
+    "ipv4": "62.240.228.4",
+    "ipv6": "2001:a70:ff:5::4",
+    "hostname": "claranet05.ring.nlnog.net",
+    "datacenter": "5-8 Energy Park, 92400 Courbevoie, France"
+},
+{
+    "coordinates": [
+        "48.9280409,2.3520485"
+    ],
+    "asn": 197133,
+    "city": "Saint-Denis",
+    "ipv4": "178.248.209.2",
+    "ipv6": "2a02:1740:1:102::b2f8:d102",
+    "hostname": "mediactive01.ring.nlnog.net",
+    "datacenter": "Equinix PA2, Paris"
+},
+{
+    "coordinates": [
+        "-23.580030,-46.641720"
+    ],
+    "asn": 57695,
+    "city": "Sao Paulo",
+    "ipv4": "45.11.105.144",
+    "ipv6": "2a0b:4341:1500:10f:5054:ff:fe75:fdcf",
+    "hostname": "misaka03.ring.nlnog.net",
+    "datacenter": "Maxihost MH1"
+},
+{
+    "coordinates": [
+        "50.107567,8.666123"
+    ],
+    "asn": 8763,
+    "city": "Frankfurt",
+    "ipv4": "81.91.160.190",
+    "ipv6": "2a02:568:100:100::5",
+    "hostname": "denic01.ring.nlnog.net",
+    "datacenter": "DENIC FRA2"
+},
+{
+    "coordinates": [
+        "51.083711,-114.13353"
+    ],
+    "asn": 15296,
+    "city": "Calgary",
+    "ipv4": "162.246.158.103",
+    "ipv6": "2605:fd00:1:1013::2",
+    "hostname": "cybera01.ring.nlnog.net",
+    "datacenter": "Cybera"
+},
+{
+    "coordinates": [
+        "50.097192,8.643944"
+    ],
+    "asn": 197965,
+    "city": "Frankfurt",
+    "ipv4": "185.176.16.202",
+    "ipv6": "2a00:4c40:2002:5::2",
+    "hostname": "ahdde01.ring.nlnog.net",
+    "datacenter": "Equinix FR7, Gutleutstrasse 310, Frankfurt am Main, Germany"
+},
+{
+    "coordinates": [
+        "-41.187501,174.946346"
+    ],
+    "asn": 24324,
+    "city": "Lower Hutt",
+    "ipv4": "124.157.73.94",
+    "ipv6": "2404:6c00:1:f::2",
+    "hostname": "kordia01.ring.nlnog.net",
+    "datacenter": null
+},
+{
+    "coordinates": [
+        "53.980114,-1.130090999999993"
+    ],
+    "asn": 35425,
+    "city": "Nether Poppleton",
+    "ipv4": "5.28.62.9",
+    "ipv6": "2001:41c9:1:41c::9",
+    "hostname": "bytemark01.ring.nlnog.net",
+    "datacenter": "Bytemark's YO26 in York"
+},
+{
+    "coordinates": [
+        "37.5652894,126.849464"
+    ],
+    "asn": 16509,
+    "city": "Seoul",
+    "ipv4": "52.79.39.89",
+    "ipv6": "2406:da12:fc3:5300::11",
+    "hostname": "amazon11.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "45.3150817,-73.8779033"
+    ],
+    "asn": 16276,
+    "city": "Beauharnois",
+    "ipv4": "192.99.153.129",
+    "ipv6": "2607:5300:101:0:0:0:0:599",
+    "hostname": "ovh04.ring.nlnog.net",
+    "datacenter": "BHS1"
+},
+{
+    "coordinates": [
+        "49.5738,11.0272"
+    ],
+    "asn": 680,
+    "city": "Erlangen",
+    "ipv4": "194.95.236.10",
+    "ipv6": "2001:638:d:c402::10",
+    "hostname": "dfn01.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "-23.33167,-46.37119"
+    ],
+    "asn": 1916,
+    "city": "Guarulhos",
+    "ipv4": "200.133.192.67",
+    "ipv6": "2001:12f0:500:1dc::1916:12",
+    "hostname": "rnp01.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "53.406871,-6.372274"
+    ],
+    "asn": 31122,
+    "city": "Dublin",
+    "ipv4": "80.93.31.245",
+    "ipv6": "2a01:258:8:6:20c:29ff:fe95:1965",
+    "hostname": "viatel01.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "59.306946,18.130274"
+    ],
+    "asn": 42708,
+    "city": "Nacka",
+    "ipv4": "46.246.31.250",
+    "ipv6": "2a00:1a28:0:4::1342",
+    "hostname": "portlane01.ring.nlnog.net",
+    "datacenter": null
+},
+{
+    "coordinates": [
+        "52.0275761,5.624112700000069"
+    ],
+    "asn": 204983,
+    "city": "",
+    "ipv4": "185.233.174.12",
+    "ipv6": "2a0c:eb00:0:f5:185:233:174:12",
+    "hostname": "cyberfusion01.ring.nlnog.net",
+    "datacenter": "BIT"
+},
+{
+    "coordinates": [
+        "55.662101,12.2991563"
+    ],
+    "asn": 204151,
+    "city": "Taastrup",
+    "ipv4": "212.237.176.70",
+    "ipv6": "2a06:4000:0:9::a",
+    "hostname": "kviknet01.ring.nlnog.net",
+    "datacenter": "GlobalConnect, Taastrup, Denmark"
+},
+{
+    "coordinates": [
+        "52.293351,4.945054"
+    ],
+    "asn": 44684,
+    "city": "Amsterdam",
+    "ipv4": "46.235.231.123",
+    "ipv6": "2a00:1098:88::9:1",
+    "hostname": "mythicbeasts02.ring.nlnog.net",
+    "datacenter": "Equinix AM5"
+},
+{
+    "coordinates": [
+        "51.3305341,12.3315662"
+    ],
+    "asn": 48111,
+    "city": "Leipzig",
+    "ipv4": "185.142.180.252",
+    "ipv6": "2a07:2ec0:2140::80:41ff:fe50:1d0a",
+    "hostname": "westnetz01.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "1.336920,103.893158"
+    ],
+    "asn": 136557,
+    "city": "",
+    "ipv4": "103.216.223.22",
+    "ipv6": "2406:d500:12:300::b7fc:def1",
+    "hostname": "hostuniversal08.ring.nlnog.net",
+    "datacenter": "Racks Central"
+},
+{
+    "coordinates": [
+        "52.356156,4.955187"
+    ],
+    "asn": 14061,
+    "city": "Amsterdam",
+    "ipv4": "188.166.37.221",
+    "ipv6": "2a03:b0c0:2:d0::2084:6001",
+    "hostname": "digitalocean03.ring.nlnog.net",
+    "datacenter": "Equinix AM3"
+},
+{
+    "coordinates": [
+        "53.246101,6.528620"
+    ],
+    "asn": 44103,
+    "city": "Groningen",
+    "ipv4": "45.146.4.19",
+    "ipv6": "2a0e:fd40:a::ffec",
+    "hostname": "bakkerit01.ring.nlnog.net",
+    "datacenter": "Digital Realty AMS (Science Park)"
+},
+{
+    "coordinates": [
+        "45.478696,9.105091"
+    ],
+    "asn": 12637,
+    "city": "Milan",
+    "ipv4": "85.94.202.10",
+    "ipv6": "2001:4b78:2100:3::1",
+    "hostname": "seeweb01.ring.nlnog.net",
+    "datacenter": null
+},
+{
+    "coordinates": [
+        "50.870572,4.47695"
+    ],
+    "asn": 34762,
+    "city": "Zaventem",
+    "ipv4": "37.148.176.54",
+    "ipv6": "2a00:1c98:10:7::2",
+    "hostname": "combell01.ring.nlnog.net",
+    "datacenter": "Interxion Brussel"
+},
+{
+    "coordinates": [
+        "-27.458248,153.031067"
+    ],
+    "asn": 4608,
+    "city": "Herston",
+    "ipv4": "203.133.248.125",
+    "ipv6": "2401:2000:6660::125",
+    "hostname": "apnic02.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "-37.822500,144.931944"
+    ],
+    "asn": 135421,
+    "city": "",
+    "ipv4": "103.219.7.241",
+    "ipv6": "2001:df2:2e00:17::7",
+    "hostname": "salkeld01.ring.nlnog.net",
+    "datacenter": "NextDC M1 - https://www.nextdc.com/data-centres/m1-melbourne-data-centre"
+},
+{
+    "coordinates": [
+        "51.511442,-0.001870"
+    ],
+    "asn": 51048,
+    "city": "London",
+    "ipv4": "31.210.24.41",
+    "ipv6": "2a03:4300:3:0:20c:29ff:fe39:d4f8",
+    "hostname": "nextconnex01.ring.nlnog.net",
+    "datacenter": "Telehouse North, London"
+},
+{
+    "coordinates": [
+        "58.934157,5.740233"
+    ],
+    "asn": 29695,
+    "city": "Stavanger",
+    "ipv4": "109.247.116.75",
+    "ipv6": "2a01:798:0:8050::75",
+    "hostname": "altibox01.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "36.142092,-5.358946"
+    ],
+    "asn": 34803,
+    "city": "Gibraltar",
+    "ipv4": "195.166.195.252",
+    "ipv6": "2a02:638:8:1::4",
+    "hostname": "sapphire01.ring.nlnog.net",
+    "datacenter": "195.166.195.252"
+},
+{
+    "coordinates": [
+        "62.239775,25.899628"
+    ],
+    "asn": 30798,
+    "city": "Jyvaskyla",
+    "ipv4": "89.236.103.78",
+    "ipv6": "2001:40e8:31:3:89:236:103:78",
+    "hostname": "tnnet01.ring.nlnog.net",
+    "datacenter": "Datavault Kanavuori (http://datavault.fi/en/)"
+},
+{
+    "coordinates": [
+        "53.4667553,-2.2941671"
+    ],
+    "asn": 41000,
+    "city": "Stretford",
+    "ipv4": "176.74.17.69",
+    "ipv6": "2a00:b980:2:4::399:9b5c",
+    "hostname": "freethought01.ring.nlnog.net",
+    "datacenter": "LDeX2"
+},
+{
+    "coordinates": [
+        "52.328409,9.783299"
+    ],
+    "asn": 24679,
+    "city": "Hanover",
+    "ipv4": "83.246.46.45",
+    "ipv6": "2a02:790:4:6::2",
+    "hostname": "hostwayde01.ring.nlnog.net",
+    "datacenter": "Hostway RZ MF29, Hanover, Germany"
+},
+{
+    "coordinates": [
+        "60.274066,5.236390"
+    ],
+    "asn": 60163,
+    "city": "Bergen",
+    "ipv4": "185.54.28.226",
+    "ipv6": "2a02:4260:1004::2",
+    "hostname": "keklolwtf01.ring.nlnog.net",
+    "datacenter": "Our own."
+},
+{
+    "coordinates": [
+        "-27.453925,153.033208"
+    ],
+    "asn": 136557,
+    "city": "Brisbane",
+    "ipv4": "45.248.77.40",
+    "ipv6": "2404:f780:4:805::567:cde5",
+    "hostname": "hostuniversal03.ring.nlnog.net",
+    "datacenter": "NextDC B2"
+},
+{
+    "coordinates": [
+        "25.776129439476414,-80.19265743297032"
+    ],
+    "asn": 47869,
+    "city": "Miami",
+    "ipv4": "208.76.54.138",
+    "ipv6": "2606:ed00:4786:43::2ec3:1c25",
+    "hostname": "netrouting05.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "51.499919,-0.011278"
+    ],
+    "asn": 8607,
+    "city": "London Borough of Tower Hamlets",
+    "ipv4": "62.121.13.4",
+    "ipv6": "2001:40a0:41:1000::4",
+    "hostname": "timico01.ring.nlnog.net",
+    "datacenter": "Digital Realty Sovereign House"
+},
+{
+    "coordinates": [
+        "52.33291,4.919461"
+    ],
+    "asn": 35470,
+    "city": "Amsterdam",
+    "ipv4": "83.96.202.8",
+    "ipv6": "2a02:348:5e6:1::a480",
+    "hostname": "cloudvps04.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "50.1106444,8.6820917"
+    ],
+    "asn": 210633,
+    "city": "Frankfurt am Main",
+    "ipv4": null,
+    "ipv6": "2a06:a005:7d0:0:1ce:1ce:babe:5",
+    "hostname": "devstorage01.ring.nlnog.net",
+    "datacenter": "MK-Netzdienste (Germany)"
+},
+{
+    "coordinates": [
+        "61.447678239890536,23.856193025038124"
+    ],
+    "asn": 203602,
+    "city": "Tampere",
+    "ipv4": "185.255.247.14",
+    "ipv6": "2a0c:61c0:ffff:fffd::beef",
+    "hostname": "mfiles01.ring.nlnog.net",
+    "datacenter": "Tampere"
+},
+{
+    "coordinates": [
+        "-23.8511719,151.2180895"
+    ],
+    "asn": 9449,
+    "city": "Gladstone",
+    "ipv4": "103.160.116.10",
+    "ipv6": "2406:e940:0:10::10",
+    "hostname": "qldvoip01.ring.nlnog.net",
+    "datacenter": "Gladstone Power Station"
+},
+{
+    "coordinates": [
+        "51.846185,4.679017"
+    ],
+    "asn": 21155,
+    "city": "Alblasserdam",
+    "ipv4": "83.96.195.104",
+    "ipv6": "2001:828:100:82:11:104:0:1",
+    "hostname": "proserve01.ring.nlnog.net",
+    "datacenter": "Dataplace, Van Coulsterweg 6, Alblasserdam, The Netherlands"
+},
+{
+    "coordinates": [
+        "45.502340,-73.567788"
+    ],
+    "asn": 1403,
+    "city": "",
+    "ipv4": "67.221.48.38",
+    "ipv6": "2606:6d00:0:302::2",
+    "hostname": "ebox02.ring.nlnog.net",
+    "datacenter": "Cologix MTL7"
+},
+{
+    "coordinates": [
+        "42.686543,23.318974"
+    ],
+    "asn": 13124,
+    "city": "",
+    "ipv4": "217.9.226.25",
+    "ipv6": "2a00:4800:20:6029::2",
+    "hostname": "a101.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "-22.954601,-43.194552"
+    ],
+    "asn": 26592,
+    "city": "Rio de Janeiro",
+    "ipv4": "187.0.196.139",
+    "ipv6": "2804:50:1:f::139",
+    "hostname": "equinixbr01.ring.nlnog.net",
+    "datacenter": "Equinix RJ1"
+},
+{
+    "coordinates": [
+        "50.4546600,30.5238000"
+    ],
+    "asn": 3326,
+    "city": "",
+    "ipv4": "88.81.224.1",
+    "ipv6": "2a01:758:fff4:2::21",
+    "hostname": "datagrouptransit01.ring.nlnog.net",
+    "datacenter": "Datagroup DC (UA, Kiev, Smolenskaya 31)"
+},
+{
+    "coordinates": [
+        "-33.924870,18.424055"
+    ],
+    "asn": 16509,
+    "city": "Cape Town",
+    "ipv4": "13.244.55.174",
+    "ipv6": "2406:da11:e0a:6700::23",
+    "hostname": "amazon23.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "33.395970,-111.970040"
+    ],
+    "asn": 53698,
+    "city": "Tempe",
+    "ipv4": "192.33.139.29",
+    "ipv6": "2604:6040:20:3003::29",
+    "hostname": "ninjaix01.ring.nlnog.net",
+    "datacenter": "EdgeConneX Tempe"
+},
+{
+    "coordinates": [
+        "51.511935,-0.002131"
+    ],
+    "asn": 20712,
+    "city": "London",
+    "ipv4": "90.155.62.240",
+    "ipv6": "2001:8b0:0:62::240",
+    "hostname": "aanet01.ring.nlnog.net",
+    "datacenter": "Telehouse North"
+},
+{
+    "coordinates": [
+        "59.924971,10.809274"
+    ],
+    "asn": 49788,
+    "city": "Oslo",
+    "ipv4": "91.90.104.206",
+    "ipv6": "2a02:d140:1:44::2",
+    "hostname": "nexthop01.ring.nlnog.net",
+    "datacenter": "Digiplex Norway AS, Selma Ellefsens vei 1, 0581 Oslo"
+},
+{
+    "coordinates": [
+        "56.06,9.98"
+    ],
+    "asn": 60422,
+    "city": "",
+    "ipv4": "185.31.77.77",
+    "ipv6": "2a00:b920:3:1337:77::77",
+    "hostname": "powerhosting01.ring.nlnog.net",
+    "datacenter": "Globalconnect Stilling, Denmark"
+},
+{
+    "coordinates": [
+        "50.119402,8.7332623"
+    ],
+    "asn": 14061,
+    "city": "Frankfurt am Main",
+    "ipv4": "165.22.22.72",
+    "ipv6": "2a03:b0c0:3:e0::251:5001",
+    "hostname": "digitalocean06.ring.nlnog.net",
+    "datacenter": "Interxion FRA8 / FRA12"
+},
+{
+    "coordinates": [
+        "52.293750,4.945510"
+    ],
+    "asn": 31673,
+    "city": "Amsterdam",
+    "ipv4": "5.39.171.10",
+    "ipv6": "2a0a:9fc0:0:1::10",
+    "hostname": "uniserver01.ring.nlnog.net",
+    "datacenter": "Equinix AM5"
+},
+{
+    "coordinates": [
+        "50.077791,14.473725"
+    ],
+    "asn": 198171,
+    "city": "Prague",
+    "ipv4": "37.46.80.118",
+    "ipv6": "2a03:b780:1:4:216:3eff:fe00:a76",
+    "hostname": "hosting90systems01.ring.nlnog.net",
+    "datacenter": "Vinohradska 190"
+},
+{
+    "coordinates": [
+        "-26.136290,28.202980"
+    ],
+    "asn": 57695,
+    "city": "",
+    "ipv4": "102.130.49.134",
+    "ipv6": "2a0b:4342:1a91:23:5054:ff:fec0:c73a",
+    "hostname": "misaka05.ring.nlnog.net",
+    "datacenter": "Teraco JB1"
+},
+{
+    "coordinates": [
+        "31.90707,35.20627"
+    ],
+    "asn": 61417,
+    "city": "",
+    "ipv4": "185.90.125.134",
+    "ipv6": "2a03:87a0:125:134::1",
+    "hostname": "pix01.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "50.102565,8.633623"
+    ],
+    "asn": 57821,
+    "city": "Frankfurt",
+    "ipv4": "193.160.39.24",
+    "ipv6": "2001:67c:26f4:16::24",
+    "hostname": "nonattached01.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "32.897200,-96.983100"
+    ],
+    "asn": 53698,
+    "city": "Irving",
+    "ipv4": "23.174.129.25",
+    "ipv6": "2604:6040:70:5::25",
+    "hostname": "ninjaix03.ring.nlnog.net",
+    "datacenter": "QTS Irving"
+},
+{
+    "coordinates": [
+        "48.147874,17.132733"
+    ],
+    "asn": 42005,
+    "city": "Bratislava",
+    "ipv4": "92.240.232.158",
+    "ipv6": "2a00:10d9:333::158",
+    "hostname": "lightstorm01.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "48.77488,9.17601"
+    ],
+    "asn": 48918,
+    "city": "Stuttgart",
+    "ipv4": "94.186.187.3",
+    "ipv6": "2a02:c98:ffff:ff00::2",
+    "hostname": "globalways01.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "45.502240,-73.567371"
+    ],
+    "asn": 14086,
+    "city": "Montreal",
+    "ipv4": "206.126.112.10",
+    "ipv6": "2620:1f:4000::10",
+    "hostname": "qix01.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "-26.146743,28.036484"
+    ],
+    "asn": 37474,
+    "city": "Sandton",
+    "ipv4": "196.10.53.5",
+    "ipv6": "2001:43f8:1f3:a00::5",
+    "hostname": "inxza01.ring.nlnog.net",
+    "datacenter": "JINX Rosebank"
+},
+{
+    "coordinates": [
+        "-31.864556,115.895997"
+    ],
+    "asn": 136557,
+    "city": "Perth",
+    "ipv4": "124.150.139.206",
+    "ipv6": "2404:f780:8:503::9d9:1b15",
+    "hostname": "hostuniversal07.ring.nlnog.net",
+    "datacenter": "NextDC P1"
+},
+{
+    "coordinates": [
+        "48.179737,16.364007"
+    ],
+    "asn": 47692,
+    "city": "Vienna",
+    "ipv4": "77.244.245.74",
+    "ipv6": "2a02:1b8:10:16::2",
+    "hostname": "nessus01.ring.nlnog.net",
+    "datacenter": null
+},
+{
+    "coordinates": [
+        "48.910160,2.368270"
+    ],
+    "asn": 205344,
+    "city": "",
+    "ipv4": "185.219.12.103",
+    "ipv6": "2a0c:bc00:2::1:6aa8",
+    "hostname": "telerys01.ring.nlnog.net",
+    "datacenter": "Equinix PA6"
+},
+{
+    "coordinates": [
+        "59.9363,10.8328"
+    ],
+    "asn": 39029,
+    "city": "Oslo",
+    "ipv4": "87.238.49.250",
+    "ipv6": "2a02:c0:200:104::1",
+    "hostname": "redpilllinpro01.ring.nlnog.net",
+    "datacenter": null
+},
+{
+    "coordinates": [
+        "43.6507533,-79.36191"
+    ],
+    "asn": 62513,
+    "city": "Old Toronto",
+    "ipv4": "170.39.230.105",
+    "ipv6": "2602:fd50:0100:0901:f485:87a2:c983:9f00",
+    "hostname": "gocode01.ring.nlnog.net",
+    "datacenter": "Equinix TR2"
+},
+{
+    "coordinates": [
+        "48.907401,2.370695"
+    ],
+    "asn": 48813,
+    "city": "",
+    "ipv4": "193.19.209.153",
+    "ipv6": "2a07:4b00:1:7::4",
+    "hostname": "enix01.ring.nlnog.net",
+    "datacenter": "Interxion PAR2"
+},
+{
+    "coordinates": [
+        "51.477844,5.439605"
+    ],
+    "asn": 202591,
+    "city": "Eindhoven",
+    "ipv4": "45.154.166.91",
+    "ipv6": "2a0f:bd00::f816:3eff:feae:82aa",
+    "hostname": "nefos01.ring.nlnog.net",
+    "datacenter": "EcoRacks"
+},
+{
+    "coordinates": [
+        "45.4974973,-73.57095879999997"
+    ],
+    "asn": 1403,
+    "city": "Montreal",
+    "ipv4": "96.127.255.91",
+    "ipv6": "2606:6d00:0:99::eb0a",
+    "hostname": "ebox01.ring.nlnog.net",
+    "datacenter": "Cologix MTL3"
+},
+{
+    "coordinates": [
+        "1.31,103.75"
+    ],
+    "asn": 37989,
+    "city": "Singapore",
+    "ipv4": "203.123.48.14",
+    "ipv6": "2405:fc00::a001",
+    "hostname": "dcsone01.ring.nlnog.net",
+    "datacenter": "214 Pandan Loop, Singapore 12840"
+},
+{
+    "coordinates": [
+        "48.704037,6.140931"
+    ],
+    "asn": 16347,
+    "city": "Maxeville",
+    "ipv4": "62.102.235.194",
+    "ipv6": "2a01:728:401:1c::194",
+    "hostname": "adista01.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "42.003056,-87.996389"
+    ],
+    "asn": 19255,
+    "city": "Elk Grove Village",
+    "ipv4": "163.237.247.17",
+    "ipv6": "2001:4978:1000::2319:17",
+    "hostname": "yourorg01.ring.nlnog.net",
+    "datacenter": null
+},
+{
+    "coordinates": [
+        "48.549998,7.973480"
+    ],
+    "asn": 15894,
+    "city": "Appenweier",
+    "ipv4": "217.28.97.8",
+    "ipv6": "2a02:ba8:97:0:250:56ff:feaf:546",
+    "hostname": "leitwerk01.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "52.34398,4.82871"
+    ],
+    "asn": 12041,
+    "city": "Amsterdam",
+    "ipv4": "199.10.66.229",
+    "ipv6": "2001:500:f1:500::229",
+    "hostname": "afilias01.ring.nlnog.net",
+    "datacenter": null
+},
+{
+    "coordinates": [
+        "49.42664,8.35917"
+    ],
+    "asn": 21473,
+    "city": "Mutterstadt",
+    "ipv4": "213.183.69.198",
+    "ipv6": "2a02:24d8:7:1c:20c:29ff:fe85:aff9",
+    "hostname": "pfalzkom01.ring.nlnog.net",
+    "datacenter": "Pfalzkom DCRN 1"
+},
+{
+    "coordinates": [
+        "50.887383,4.455481"
+    ],
+    "asn": 56837,
+    "city": "Machelen",
+    "ipv4": "86.39.65.11",
+    "ipv6": "2a00:6ec0:101:1:0:11::",
+    "hostname": "tigron01.ring.nlnog.net",
+    "datacenter": "LCL Diegem"
+},
+{
+    "coordinates": [
+        "41.055149,29.00794"
+    ],
+    "asn": 8685,
+    "city": "Istanbul",
+    "ipv4": "212.58.0.250",
+    "ipv6": "2a02:480:3411:6::3",
+    "hostname": "doruknet01.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "47.61435,-122.33852"
+    ],
+    "asn": 3130,
+    "city": "Seattle",
+    "ipv4": "147.28.0.89",
+    "ipv6": "2001:418:1::89",
+    "hostname": "rgnet01.ring.nlnog.net",
+    "datacenter": null
+},
+{
+    "coordinates": [
+        "52.027596,5.624528"
+    ],
+    "asn": 12859,
+    "city": "Ede",
+    "ipv4": "212.114.113.69",
+    "ipv6": "2001:7b8:62b:0:400:d4ff:fe72:7145",
+    "hostname": "bit01.ring.nlnog.net",
+    "datacenter": "BIT-2"
+},
+{
+    "coordinates": [
+        "50.911669,7.057272"
+    ],
+    "asn": 34011,
+    "city": "Koln",
+    "ipv4": "62.138.161.20",
+    "ipv6": "2001:1520:100::4",
+    "hostname": "godaddy01.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "60.20336,24.923601"
+    ],
+    "asn": 16302,
+    "city": "Helsinki",
+    "ipv4": "217.119.42.194",
+    "ipv6": "2a00:1190:0:1003::2",
+    "hostname": "suomi01.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "32.05315,34.879355"
+    ],
+    "asn": 61102,
+    "city": "Savyon",
+    "ipv4": "185.37.148.205",
+    "ipv6": "2a03:ff40:4ed1:cc15:185:37:148:205",
+    "hostname": "interhost01.ring.nlnog.net",
+    "datacenter": "MED-1 PT, Israel"
+},
+{
+    "coordinates": [
+        "52.3964434,4.8511319"
+    ],
+    "asn": 43350,
+    "city": "Amsterdam",
+    "ipv4": "185.107.93.26",
+    "ipv6": "2a00:1768:6000:2::5",
+    "hostname": "nforce01.ring.nlnog.net",
+    "datacenter": "Databarn, Zekeringstraat 35, 1014 BV Amsterdam"
+},
+{
+    "coordinates": [
+        "52.2444633,6.7675298"
+    ],
+    "asn": 16350,
+    "city": "",
+    "ipv4": "217.119.224.247",
+    "ipv6": "2a02:1398:800::247",
+    "hostname": "rootnl01.ring.nlnog.net",
+    "datacenter": "Previder PDC2, Hengelo, The Netherlands."
+},
+{
+    "coordinates": [
+        "52.303066,4.937898"
+    ],
+    "asn": 50295,
+    "city": "Amsterdam",
+    "ipv4": "93.187.11.10",
+    "ipv6": "2a00:1f00:dc06:11::10",
+    "hostname": "tripleit01.ring.nlnog.net",
+    "datacenter": null
+},
+{
+    "coordinates": [
+        "59.938436,10.8327772"
+    ],
+    "asn": 50304,
+    "city": "Oslo",
+    "ipv4": "91.90.46.127",
+    "ipv6": "2a02:20c8:1d:1::46:127",
+    "hostname": "blix01.ring.nlnog.net",
+    "datacenter": "HMG9, Oslo"
+},
+{
+    "coordinates": [
+        "51.499766912405946,5.456085205078125"
+    ],
+    "asn": 8426,
+    "city": "Son",
+    "ipv4": "212.61.158.6",
+    "ipv6": "2a02:830:1:4::2",
+    "hostname": "claranet03.ring.nlnog.net",
+    "datacenter": null
+},
+{
+    "coordinates": [
+        "49.8936072,-97.1451288"
+    ],
+    "asn": 395089,
+    "city": "Winnipeg",
+    "ipv4": "192.160.102.139",
+    "ipv6": "2620:132:3003:300::139",
+    "hostname": "hextet01.ring.nlnog.net",
+    "datacenter": "Les.Net YWG2"
+},
+{
+    "coordinates": [
+        "49.8706,8.6269"
+    ],
+    "asn": 62023,
+    "city": "Darmstadt",
+    "ipv4": "109.236.159.249",
+    "ipv6": "2a00:e60:7000:1::249:1",
+    "hostname": "nynex01.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "48.104700,11.600230"
+    ],
+    "asn": 48328,
+    "city": "Munich",
+    "ipv4": "94.199.91.190",
+    "ipv6": "2a02:7b01:ffe::190",
+    "hostname": "retarus01.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "-33.911790,151.193252"
+    ],
+    "asn": 136557,
+    "city": "Sydney",
+    "ipv4": "103.25.58.11",
+    "ipv6": "2406:d501::93ec:5ad1",
+    "hostname": "hostuniversal04.ring.nlnog.net",
+    "datacenter": "Equinix SY3"
+},
+{
+    "coordinates": [
+        "50.4780977,12.3351126"
+    ],
+    "asn": 56381,
+    "city": "",
+    "ipv4": "141.98.136.68",
+    "ipv6": "2a09:11c0:1200:210:ffff:ffff:8d62:8844",
+    "hostname": "level66network01.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "52.336353,4.886652"
+    ],
+    "asn": 3265,
+    "city": "Amsterdam",
+    "ipv4": "82.94.249.162",
+    "ipv6": "2001:888:2000:3e::1337",
+    "hostname": "xs4all01.ring.nlnog.net",
+    "datacenter": null
+},
+{
+    "coordinates": [
+        "52.543863,5.705141"
+    ],
+    "asn": 60404,
+    "city": "Dronten",
+    "ipv4": "5.2.79.223",
+    "ipv6": "2a04:52c0:101:8e0::10",
+    "hostname": "liteserver01.ring.nlnog.net",
+    "datacenter": "Serverius DC1, Dronten"
+},
+{
+    "coordinates": [
+        "52.356156,4.955187"
+    ],
+    "asn": 15693,
+    "city": "Amsterdam",
+    "ipv4": "46.183.250.9",
+    "ipv6": "2a01:8800:0:250::9",
+    "hostname": "businessconnect01.ring.nlnog.net",
+    "datacenter": "Equinix AM3"
+},
+{
+    "coordinates": [
+        "40.66272682132868,22.86062881197578"
+    ],
+    "asn": 8280,
+    "city": "  ",
+    "ipv4": "46.227.58.30",
+    "ipv6": "2001:1548:8000:1::27",
+    "hostname": "synapsecom02.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "52.243954,6.767229"
+    ],
+    "asn": 20847,
+    "city": "Hengelo",
+    "ipv4": "84.241.137.18",
+    "ipv6": "2001:1690:2:115::18",
+    "hostname": "previder01.ring.nlnog.net",
+    "datacenter": null
+},
+{
+    "coordinates": [
+        "51.9542499,6.3004314"
+    ],
+    "asn": 24875,
+    "city": "Doetinchem",
+    "ipv4": "89.105.199.74",
+    "ipv6": "2001:968:2000::2",
+    "hostname": "novoserve01.ring.nlnog.net",
+    "datacenter": "NovoServe Doetinchem"
+},
+{
+    "coordinates": [
+        "-34.96,138.60"
+    ],
+    "asn": 4764,
+    "city": "Adelaide",
+    "ipv4": "103.115.210.31",
+    "ipv6": "2403:5800:500:12::1",
+    "hostname": "aussiebb04.ring.nlnog.net",
+    "datacenter": "YourDC Hawthorne"
+},
+{
+    "coordinates": [
+        "-36.849346,174.765412"
+    ],
+    "asn": 45177,
+    "city": "Auckland",
+    "ipv4": "14.1.44.230",
+    "ipv6": "2401:7000:1:2::2",
+    "hostname": "vibe01.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "51.521678,-0.073020"
+    ],
+    "asn": 25160,
+    "city": "London",
+    "ipv4": "5.10.145.254",
+    "ipv6": "2a00:e340:dd:110::11",
+    "hostname": "vorboss01.ring.nlnog.net",
+    "datacenter": "Interxion LON1"
+},
+{
+    "coordinates": [
+        "50.0601492,14.5299650"
+    ],
+    "asn": 60592,
+    "city": "Praha",
+    "ipv4": "185.82.214.77",
+    "ipv6": "2a03:6920:0:2::77",
+    "hostname": "gransy01.ring.nlnog.net",
+    "datacenter": "DC ServerPark (vshosting.cz)"
+},
+{
+    "coordinates": [
+        "48.856613,2.352222"
+    ],
+    "asn": 16509,
+    "city": "Paris",
+    "ipv4": "15.236.111.211",
+    "ipv6": "2a05:d012:97b:fb00::18",
+    "hostname": "amazon18.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "53.246086,6.528518"
+    ],
+    "asn": 31477,
+    "city": "Groningen",
+    "ipv4": "89.188.27.98",
+    "ipv6": "2a01:1b0:7999:453::50",
+    "hostname": "duocast01.ring.nlnog.net",
+    "datacenter": null
+},
+{
+    "coordinates": [
+        "39.5590583,-104.8376596"
+    ],
+    "asn": 3599,
+    "city": "",
+    "ipv4": "64.73.80.140",
+    "ipv6": "2607:FEE0:A001:d::10",
+    "hostname": "cdw02.ring.nlnog.net",
+    "datacenter": "Flexential DEN11"
+},
+{
+    "coordinates": [
+        "50.930698,5.370075799999995"
+    ],
+    "asn": 9166,
+    "city": "Hasselt",
+    "ipv4": "212.113.66.22",
+    "ipv6": "2a02:239c:0:20::22",
+    "hostname": "cegeka01.ring.nlnog.net",
+    "datacenter": "Cegeka NV"
+},
+{
+    "coordinates": [
+        "49.28496,-123.114411"
+    ],
+    "asn": 36483,
+    "city": "Vancouver",
+    "ipv4": "208.70.247.50",
+    "ipv6": "2607:fcc0:2:1:208:70:247:50",
+    "hostname": "gossamerthreads01.ring.nlnog.net",
+    "datacenter": null
+},
+{
+    "coordinates": [
+        "38.0739157,23.679965"
+    ],
+    "asn": 8280,
+    "city": "   ",
+    "ipv4": "78.108.46.118",
+    "ipv6": "2001:1548:8000:1::25",
+    "hostname": "synapsecom01.ring.nlnog.net",
+    "datacenter": "SNC2 Athens Liossia"
+},
+{
+    "coordinates": [
+        "50.845177,4.724370"
+    ],
+    "asn": 39923,
+    "city": "Leuven",
+    "ipv4": "185.111.204.122",
+    "ipv6": "2a04:6480:204::122",
+    "hostname": "unixsolutions01.ring.nlnog.net",
+    "datacenter": "Unix-Solutions Datacenter Leuven"
+},
+{
+    "coordinates": [
+        "52.395855,4.841133"
+    ],
+    "asn": 34141,
+    "city": "Amsterdam",
+    "ipv4": "217.198.20.135",
+    "ipv6": "2a02:7d0:3:208:250:56ff:fe9c:1e",
+    "hostname": "in2ip01.ring.nlnog.net",
+    "datacenter": null
+},
+{
+    "coordinates": [
+        "52.391773,4.665196"
+    ],
+    "asn": 3214,
+    "city": "Haarlem",
+    "ipv4": "62.133.33.44",
+    "ipv6": "2a0c:59c0:2::44",
+    "hostname": "xtom01.ring.nlnog.net",
+    "datacenter": "Iron Mountain AMS1"
+},
+{
+    "coordinates": [
+        "51.521187,-0.62416"
+    ],
+    "asn": 14061,
+    "city": "Slough",
+    "ipv4": "139.59.170.31",
+    "ipv6": "2a03:b0c0:1:a1::1838:e001",
+    "hostname": "digitalocean01.ring.nlnog.net",
+    "datacenter": "Equinix LD5"
+},
+{
+    "coordinates": [
+        "38.254167,-85.759167"
+    ],
+    "asn": 13649,
+    "city": "Louisville",
+    "ipv4": "206.196.5.164",
+    "ipv6": "2607:f758:a080:0:250:56ff:fe85:3098",
+    "hostname": "flexential01.ring.nlnog.net",
+    "datacenter": "Flexential LOU03"
+},
+{
+    "coordinates": [
+        "49.4539333,11.0636334"
+    ],
+    "asn": 33891,
+    "city": "Nuremberg",
+    "ipv4": "82.199.134.114",
+    "ipv6": "2a01:4a0:61::2",
+    "hostname": "corebackbone01.ring.nlnog.net",
+    "datacenter": "Core-Backbone RZ1"
+},
+{
+    "coordinates": [
+        "30.245,-81.581"
+    ],
+    "asn": 19531,
+    "city": "Jacksonville",
+    "ipv4": "184.175.213.14",
+    "ipv6": "2604:4600:1c10::155",
+    "hostname": "nodesdirect01.ring.nlnog.net",
+    "datacenter": "Flexential Jacksonville"
+},
+{
+    "coordinates": [
+        "39.617880,-104.891200"
+    ],
+    "asn": 46844,
+    "city": "",
+    "ipv4": "198.148.92.142",
+    "ipv6": "2610:150:8000:59::fb67:ae24",
+    "hostname": "sharktech01.ring.nlnog.net",
+    "datacenter": "H5 Data Centers in Tech Center, Denver, Colorado."
+},
+{
+    "coordinates": [
+        "51.511539,-0.002920"
+    ],
+    "asn": 8943,
+    "city": "London",
+    "ipv4": "185.73.44.67",
+    "ipv6": "2001:ba8:0:d975::",
+    "hostname": "jump01.ring.nlnog.net",
+    "datacenter": "Telehouse North, Docklands, London, E14 2AA"
+},
+{
+    "coordinates": [
+        "59.291162,18.013662"
+    ],
+    "asn": 205069,
+    "city": "Stockholm",
+    "ipv4": "185.231.100.55",
+    "ipv6": "2a0c:5700:3133:650:f4c5:d0ff:fe0e:e3d9",
+    "hostname": "noack01.ring.nlnog.net",
+    "datacenter": "V\u00e4stberga DC Glesys/portalne"
+},
+{
+    "coordinates": [
+        "50.119871,8.735244"
+    ],
+    "asn": 12306,
+    "city": "Frankfurt am Main",
+    "ipv4": "213.83.46.196",
+    "ipv6": "2A02:02E0:0414:101::196",
+    "hostname": "plusline01.ring.nlnog.net",
+    "datacenter": "InterXion FRA5"
+},
+{
+    "coordinates": [
+        "50.09676,8.628393"
+    ],
+    "asn": 47215,
+    "city": "Frankfurt",
+    "ipv4": "109.75.188.108",
+    "ipv6": "2a00:12c0:1015:100:0:2:0:1",
+    "hostname": "filoo01.ring.nlnog.net",
+    "datacenter": null
+},
+{
+    "coordinates": [
+        "37.3382,-121.8863"
+    ],
+    "asn": 25751,
+    "city": "San Jose",
+    "ipv4": "159.127.40.236",
+    "ipv6": "2606:ae80:1413:107::2360",
+    "hostname": "epsilon01.ring.nlnog.net",
+    "datacenter": "Equinix SV1"
+},
+{
+    "coordinates": [
+        "52.393233,4.848914"
+    ],
+    "asn": 20857,
+    "city": "Amsterdam",
+    "ipv4": "149.210.130.136",
+    "ipv6": "2a01:7c8:aab1:3f8::1",
+    "hostname": "transip01.ring.nlnog.net",
+    "datacenter": "The Datacenter Group"
+},
+{
+    "coordinates": [
+        "59.2722,15.2088"
+    ],
+    "asn": 51929,
+    "city": null,
+    "ipv4": "81.94.161.36",
+    "ipv6": "2a00:7800:8000::36",
+    "hostname": "itmastaren01.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "59.26356,18.10484"
+    ],
+    "asn": 49232,
+    "city": "Stockholm",
+    "ipv4": "194.169.225.130",
+    "ipv6": "2a00:59c0:1:3::130",
+    "hostname": "rackfish01.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "40.743389,-74.007980"
+    ],
+    "asn": 397143,
+    "city": "Manhattan Community Board 4",
+    "ipv4": "23.157.160.133",
+    "ipv6": "2602:fe2e:1:a:42:82ff:fec4:401d",
+    "hostname": "neptune01.ring.nlnog.net",
+    "datacenter": "Telehouse Chelsea"
+},
+{
+    "coordinates": [
+        "47.20182,7.52878"
+    ],
+    "asn": 9044,
+    "city": "Solothurn",
+    "ipv4": "82.220.3.51",
+    "ipv6": "2001:1680:2:100:5054:ff:fef8:73a1",
+    "hostname": "solnet01.ring.nlnog.net",
+    "datacenter": null
+},
+{
+    "coordinates": [
+        "51.57907849999999,4.929288000000042"
+    ],
+    "asn": 39591,
+    "city": "Gilze en Rijen",
+    "ipv4": "79.143.213.22",
+    "ipv6": "2a00:1280:8003:78::10",
+    "hostname": "globaledc01.ring.nlnog.net",
+    "datacenter": "Global-e Datacenter"
+},
+{
+    "coordinates": [
+        "53.291844,-6.415470"
+    ],
+    "asn": 2110,
+    "city": "Dublin",
+    "ipv4": "193.95.190.213",
+    "ipv6": "2001:7c8:1000:5::213",
+    "hostname": "btireland01.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "51.2668,6.8177"
+    ],
+    "asn": 59645,
+    "city": "Dusseldorf",
+    "ipv4": "195.191.197.71",
+    "ipv6": "2a06:d1c0:dead:5::71",
+    "hostname": "fiebig01.ring.nlnog.net",
+    "datacenter": "myloc DUS1"
+},
+{
+    "coordinates": [
+        "55.72687,12.37698"
+    ],
+    "asn": 51468,
+    "city": "Ballerup",
+    "ipv4": "46.30.209.1",
+    "ipv6": "2a02:2350:1:1201::1",
+    "hostname": "one01.ring.nlnog.net",
+    "datacenter": "Interxion, Industriparken 20, 2750 Ballerup, Denmark"
+},
+{
+    "coordinates": [
+        "33.93341000,-84.21638889"
+    ],
+    "asn": 13649,
+    "city": "",
+    "ipv4": "68.64.40.68",
+    "ipv6": "2607:f758:1280:0:250:56ff:feb2:759b",
+    "hostname": "flexential04.ring.nlnog.net",
+    "datacenter": "Flexential ATL01"
+},
+{
+    "coordinates": [
+        "38.9507382,-77.3639041"
+    ],
+    "asn": 16876,
+    "city": "Reston",
+    "ipv4": "192.0.46.158",
+    "ipv6": "2620:0:2830:203::158",
+    "hostname": "icanndns02.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "51.51173,-0.00159"
+    ],
+    "asn": 209505,
+    "city": "London",
+    "ipv4": "185.250.9.236",
+    "ipv6": "2a0b:9400:1000:2::236",
+    "hostname": "unchained01.ring.nlnog.net",
+    "datacenter": "Telehouse North, London, United Kingdom"
+},
+{
+    "coordinates": [
+        "53.43333,-6.25000"
+    ],
+    "asn": 16509,
+    "city": "Dublin",
+    "ipv4": "52.210.89.115",
+    "ipv6": "2a05:d018:9f2:ed00::1:2",
+    "hostname": "amazon02.ring.nlnog.net",
+    "datacenter": null
+},
+{
+    "coordinates": [
+        "51.512078,-0.002035"
+    ],
+    "asn": 39326,
+    "city": "London",
+    "ipv4": "46.17.60.106",
+    "ipv6": "2a01:348:0:42::10",
+    "hostname": "goscomb01.ring.nlnog.net",
+    "datacenter": "Telehouse"
+},
+{
+    "coordinates": [
+        "40.830060,-74.125690"
+    ],
+    "asn": 14061,
+    "city": "",
+    "ipv4": "104.236.41.143",
+    "ipv6": "2604:a880:800:10::2f27:c001",
+    "hostname": "digitalocean04.ring.nlnog.net",
+    "datacenter": "New York, Telx Clifton"
+},
+{
+    "coordinates": [
+        "47.376050,8.489000"
+    ],
+    "asn": 57777,
+    "city": "Zurich",
+    "ipv4": "185.173.128.72",
+    "ipv6": "2a10:fc42:b::72",
+    "hostname": "massar01.ring.nlnog.net",
+    "datacenter": "Daedalean Datacenter"
+},
+{
+    "coordinates": [
+        "37.243937,-107.874365"
+    ],
+    "asn": 30688,
+    "city": "Durango",
+    "ipv4": "206.123.203.163",
+    "ipv6": "2607:6400:700:2::3163",
+    "hostname": "fasttrackcomm01.ring.nlnog.net",
+    "datacenter": "Private datacenter in Durango, CO."
+},
+{
+    "coordinates": [
+        "38.646407,-121.486335"
+    ],
+    "asn": 53698,
+    "city": "",
+    "ipv4": "23.174.128.21",
+    "ipv6": "2604:6040:50:3::21",
+    "hostname": "ninjaix02.ring.nlnog.net",
+    "datacenter": "QTS Sacramento"
+},
+{
+    "coordinates": [
+        "-34.640633,-58.404018"
+    ],
+    "asn": 16814,
+    "city": "Buenos Aires",
+    "ipv4": "190.210.175.57",
+    "ipv6": "2800:40:c06::0001",
+    "hostname": "iplan01.ring.nlnog.net",
+    "datacenter": "Ringo IDC, 2948/2950 Los Patos, Buenos Aires Technology District"
+},
+{
+    "coordinates": [
+        "37.0000,-122.0600"
+    ],
+    "asn": 5739,
+    "city": "Weihai",
+    "ipv4": "128.114.126.2",
+    "ipv6": "2607:f5f0:103:2::2",
+    "hostname": "ucsc01.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "50.1214055,8.4991086"
+    ],
+    "asn": 16509,
+    "city": "Liederbach am Taunus",
+    "ipv4": "35.158.153.153",
+    "ipv6": "2a05:d014:85b:7600::9",
+    "hostname": "amazon09.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "-27.599548,-48.522928"
+    ],
+    "asn": 11242,
+    "city": "Florianopolis",
+    "ipv4": "200.237.196.2",
+    "ipv6": "2801:80:a88:4017::2",
+    "hostname": "popsc01.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "51.501331,5.460410"
+    ],
+    "asn": 202591,
+    "city": "",
+    "ipv4": "92.119.28.43",
+    "ipv6": "2a09:b340::f816:3eff:fe67:c1ac",
+    "hostname": "nefos02.ring.nlnog.net",
+    "datacenter": "IT-Lockers"
+},
+{
+    "coordinates": [
+        "51.536571,9.923432"
+    ],
+    "asn": 41955,
+    "city": "Gottingen",
+    "ipv4": "185.199.219.126",
+    "ipv6": "2a0a:a3c0:0:d2c9::219:126",
+    "hostname": "sernet01.ring.nlnog.net",
+    "datacenter": "Bahnhofsallee 1b, 37081 Goettingen"
+},
+{
+    "coordinates": [
+        "44.490147,26.1178594"
+    ],
+    "asn": 3280,
+    "city": "",
+    "ipv4": "95.128.168.121",
+    "ipv6": "2a0b:b86::ff",
+    "hostname": "layerbridge01.ring.nlnog.net",
+    "datacenter": "LayerBridge"
+},
+{
+    "coordinates": [
+        "52.027155,5.624179"
+    ],
+    "asn": 206281,
+    "city": "Ede",
+    "ipv4": "185.104.28.190",
+    "ipv6": "2a06:2ec0:1::fffe",
+    "hostname": "vimexx01.ring.nlnog.net",
+    "datacenter": "BIT2C in Ede"
+},
+{
+    "coordinates": [
+        "22.36850,114.13528"
+    ],
+    "asn": 38008,
+    "city": "",
+    "ipv4": "103.152.35.127",
+    "ipv6": "2406:4440::127",
+    "hostname": "apernet01.ring.nlnog.net",
+    "datacenter": "Edwick Industrial Center"
+},
+{
+    "coordinates": [
+        "-34.68845,-58.31204"
+    ],
+    "asn": 7049,
+    "city": "",
+    "ipv4": "186.0.205.106",
+    "ipv6": "2800:630:830:6::2",
+    "hostname": "silica01.ring.nlnog.net",
+    "datacenter": "Sencinet Datacenter"
+},
+{
+    "coordinates": [
+        "-33.86749,151.20699"
+    ],
+    "asn": 16509,
+    "city": "Sydney",
+    "ipv4": "13.210.46.145",
+    "ipv6": "2406:da1c:1c0:fe00::8",
+    "hostname": "amazon08.ring.nlnog.net",
+    "datacenter": "54.253.117.37"
+},
+{
+    "coordinates": [
+        "51.187842,6.866248"
+    ],
+    "asn": 34225,
+    "city": "Dusseldorf",
+    "ipv4": "91.184.33.38",
+    "ipv6": "2a01:198:0:3::38",
+    "hostname": "speedpartner01.ring.nlnog.net",
+    "datacenter": null
+},
+{
+    "coordinates": [
+        "49.41022,11.13191"
+    ],
+    "asn": 12337,
+    "city": "Nuremberg",
+    "ipv4": "213.95.10.76",
+    "ipv6": "2001:780:100:115::10",
+    "hostname": "noris01.ring.nlnog.net",
+    "datacenter": "Noris Network Datacenter NBG6"
+},
+{
+    "coordinates": [
+        "52.392609,4.663706"
+    ],
+    "asn": 49453,
+    "city": "Haarlem",
+    "ipv4": "185.23.214.242",
+    "ipv6": "2a00:1678:2470:da7a::2",
+    "hostname": "globallayer01.ring.nlnog.net",
+    "datacenter": "Iron Mountain AMS01"
+},
+{
+    "coordinates": [
+        "33.926077,-118.394123"
+    ],
+    "asn": 40528,
+    "city": "El Segundo",
+    "ipv4": "192.0.33.158",
+    "ipv6": "2620:0:2d0:203::158",
+    "hostname": "icanndns01.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "40.433899,-3.62408"
+    ],
+    "asn": 202053,
+    "city": "",
+    "ipv4": "194.62.97.148",
+    "ipv6": "2a04:3542:8000:1000:d42a:dcff:fe53:3568",
+    "hostname": "upcloud12.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "53.4644732,-2.2475544000000127"
+    ],
+    "asn": 30740,
+    "city": "Manchester",
+    "ipv4": "82.219.48.9",
+    "ipv6": "2a02:b80:2:7:1::1",
+    "hostname": "exanetworks01.ring.nlnog.net",
+    "datacenter": "Telecity Group, Manchester, UK"
+},
+{
+    "coordinates": [
+        "-31.95,151.868"
+    ],
+    "asn": 45926,
+    "city": "",
+    "ipv4": "110.173.226.9",
+    "ipv6": "2403:dc00:ffff:8000::1",
+    "hostname": "webinabox01.ring.nlnog.net",
+    "datacenter": "Next DC - P2"
+},
+{
+    "coordinates": [
+        "37.723698,-122.4002447"
+    ],
+    "asn": 14061,
+    "city": "SF",
+    "ipv4": "192.241.208.19",
+    "ipv6": "2604:A880:0001:0020:0000:0000:0083:7001",
+    "hostname": "digitalocean09.ring.nlnog.net",
+    "datacenter": "Digital Realty SFR1"
+},
+{
+    "coordinates": [
+        "38.6255,-90.19525"
+    ],
+    "asn": 11734,
+    "city": "St. Louis",
+    "ipv4": "208.74.28.6",
+    "ipv6": "2607:f148:2000:5::6",
+    "hostname": "connectria03.ring.nlnog.net",
+    "datacenter": "3701 Market St. Philadelphia, PA"
+},
+{
+    "coordinates": [
+        "61.499996,21.890944"
+    ],
+    "asn": 49282,
+    "city": "",
+    "ipv4": "164.215.32.85",
+    "ipv6": "2a03:e580:10::10",
+    "hostname": "ficolo01.ring.nlnog.net",
+    "datacenter": "The Rock - Pori, https://www.ficolo.com/data-centers/the-rock/"
+},
+{
+    "coordinates": [
+        "52.392979,4.849214"
+    ],
+    "asn": 35709,
+    "city": "Amsterdam",
+    "ipv4": "95.214.17.12",
+    "ipv6": "2a09:d380:820:1::12",
+    "hostname": "trix01.ring.nlnog.net",
+    "datacenter": "TDCG-AMS"
+},
+{
+    "coordinates": [
+        "25.7758255,-80.1928077"
+    ],
+    "asn": 200837,
+    "city": "Miami",
+    "ipv4": "185.95.29.75",
+    "ipv6": "2a05:1500:0:101:4e8:a4ff:fe00:10b",
+    "hostname": "pcextreme05.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "26.1551249,50.5344606"
+    ],
+    "asn": 16509,
+    "city": "",
+    "ipv4": "157.175.30.70",
+    "ipv6": "2a05:d01e:bc9:3400::21",
+    "hostname": "amazon21.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "48.5839200,7.7455300"
+    ],
+    "asn": 8839,
+    "city": "Strasbourg",
+    "ipv4": "213.225.160.175",
+    "ipv6": "2001:810:0:14::175",
+    "hostname": "plurimedia01.ring.nlnog.net",
+    "datacenter": "SFR Strasbourg Netcenter"
+},
+{
+    "coordinates": [
+        "51.49964,-0.01074"
+    ],
+    "asn": 44684,
+    "city": "London",
+    "ipv4": "93.93.129.145",
+    "ipv6": "2a00:1098:0:80:1000:1d:0:1",
+    "hostname": "mythicbeasts01.ring.nlnog.net",
+    "datacenter": "Telecity Sovereign House (London, E14 9SD)"
+},
+{
+    "coordinates": [
+        "25.7687552,-80.19968"
+    ],
+    "asn": 6977,
+    "city": "Miami",
+    "ipv4": "23.188.16.42",
+    "ipv6": "2602:fc4b:0:3::2",
+    "hostname": "layerswitch01.ring.nlnog.net",
+    "datacenter": "Cogent Doral"
+},
+{
+    "coordinates": [
+        "48.856159,2.383434"
+    ],
+    "asn": 20766,
+    "city": "",
+    "ipv4": "80.67.163.250",
+    "ipv6": "2001:910:0:39::250",
+    "hostname": "gitoyen01.ring.nlnog.net",
+    "datacenter": "Telehouse 2 Paris Voltaire"
+},
+{
+    "coordinates": [
+        "51.496716,-0.017987"
+    ],
+    "asn": 25098,
+    "city": "London",
+    "ipv4": "213.230.217.125",
+    "ipv6": "2a01:70:1:217:2::125",
+    "hostname": "lchost01.ring.nlnog.net",
+    "datacenter": null
+},
+{
+    "coordinates": [
+        "48.30694,14.28583"
+    ],
+    "asn": 35369,
+    "city": "Linz",
+    "ipv4": "83.164.133.228",
+    "ipv6": "2a00:1860:1:3::186",
+    "hostname": "lagis01.ring.nlnog.net",
+    "datacenter": null
+},
+{
+    "coordinates": [
+        "50.25406,10.96146"
+    ],
+    "asn": 28876,
+    "city": "Coburg",
+    "ipv4": "217.24.48.97",
+    "ipv6": "2a00:9d80:9000:2::48:97",
+    "hostname": "dacor01.ring.nlnog.net",
+    "datacenter": "Dacor"
+},
+{
+    "coordinates": [
+        "51.92609,4.41863"
+    ],
+    "asn": 12902,
+    "city": "Rotterdam",
+    "ipv4": "217.77.130.230",
+    "ipv6": "2001:9c0:1:4::130:230",
+    "hostname": "luna01.ring.nlnog.net",
+    "datacenter": "RIX"
+},
+{
+    "coordinates": [
+        "55.728092,12.377482099999952"
+    ],
+    "asn": 59795,
+    "city": "",
+    "ipv4": "213.184.86.100",
+    "ipv6": "2a09:3a00:3a00::1337",
+    "hostname": "hosting4real01.ring.nlnog.net",
+    "datacenter": "Interxion Ballerup"
+},
+{
+    "coordinates": [
+        "40.7267165,-74.0075896"
+    ],
+    "asn": 29838,
+    "city": "New York",
+    "ipv4": "108.60.128.14",
+    "ipv6": "2001:1980:fc:3::2",
+    "hostname": "atlanticmetro01.ring.nlnog.net",
+    "datacenter": "325 Hudson St"
+},
+{
+    "coordinates": [
+        "38.479480,-107.8755"
+    ],
+    "asn": 394195,
+    "city": "",
+    "ipv4": "172.103.36.110",
+    "ipv6": "2606:B640:172:10::110",
+    "hostname": "clearnetworx01.ring.nlnog.net",
+    "datacenter": "Montrose, CO"
+},
+{
+    "coordinates": [
+        "51.0471725,-114.0651321"
+    ],
+    "asn": 852,
+    "city": "Calgary",
+    "ipv4": "154.11.253.242",
+    "ipv6": "2001:56A:2:3::f2",
+    "hostname": "telus01.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "44.426767,26.102538"
+    ],
+    "asn": 9009,
+    "city": "Bucharest",
+    "ipv4": "85.204.124.159",
+    "ipv6": "2a04:9dc0:0:22::c0",
+    "hostname": "mtwentyfourseven03.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "55.60587,13.00073"
+    ],
+    "asn": 29518,
+    "city": "Malmo",
+    "ipv4": "83.233.23.119",
+    "ipv6": "2a00:1598:bb2:c::61:2",
+    "hostname": "bredband201.ring.nlnog.net",
+    "datacenter": "Marinen Datacenter"
+},
+{
+    "coordinates": [
+        "60.203863,24.77146"
+    ],
+    "asn": 1741,
+    "city": "Espoo",
+    "ipv4": "193.166.255.250",
+    "ipv6": "2001:708:0:b::2",
+    "hostname": "funet01.ring.nlnog.net",
+    "datacenter": "CSC Espoo"
+},
+{
+    "coordinates": [
+        "51.523418,-0.100464"
+    ],
+    "asn": 29611,
+    "city": "London",
+    "ipv4": "217.68.244.129",
+    "ipv6": "2a00:0c20:10:2::1",
+    "hostname": "elite01.ring.nlnog.net",
+    "datacenter": "Volta, Great Sutton Street, London."
+},
+{
+    "coordinates": [
+        "1.377684,103.87284199999999"
+    ],
+    "asn": 202053,
+    "city": "Singapore",
+    "ipv4": "94.237.64.45",
+    "ipv6": "2a04:3543:1000:2310:a8aa:aaff:fea0:62bc",
+    "hostname": "upcloud06.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "59.415757,17.923643"
+    ],
+    "asn": 203038,
+    "city": "Stockholm",
+    "ipv4": "193.182.61.51",
+    "ipv6": "2a0a:3507:1:3001::3e04",
+    "hostname": "quxlabs01.ring.nlnog.net",
+    "datacenter": "Solid DC, Finlandsgatan 10, Kista, Stockholm, Sweden"
+},
+{
+    "coordinates": [
+        "50.996090,5.845644"
+    ],
+    "asn": 28788,
+    "city": "Sittard",
+    "ipv4": "62.133.200.1",
+    "ipv6": "2001:4128:6135:10:250:56ff:feb6:24",
+    "hostname": "unilogicnetworks01.ring.nlnog.net",
+    "datacenter": null
+},
+{
+    "coordinates": [
+        "45.314,-73.876"
+    ],
+    "asn": 16276,
+    "city": "",
+    "ipv4": "51.79.29.232",
+    "ipv6": "2607:5300:205:300::191",
+    "hostname": "ovh05.ring.nlnog.net",
+    "datacenter": "Beauharnois - BHS5"
+},
+{
+    "coordinates": [
+        "23.78,90.41"
+    ],
+    "asn": 58656,
+    "city": "",
+    "ipv4": "103.12.179.13",
+    "ipv6": "2404:D900:0:A::d",
+    "hostname": "bdhub01.ring.nlnog.net",
+    "datacenter": "Dhaka, Bangladesh"
+},
+{
+    "coordinates": [
+        "52.396759,4.838742"
+    ],
+    "asn": 15879,
+    "city": "Amsterdam",
+    "ipv4": "213.197.240.52",
+    "ipv6": "2001:9a0:2000:a::1:1",
+    "hostname": "kis01.ring.nlnog.net",
+    "datacenter": null
+},
+{
+    "coordinates": [
+        "50.077970,14.472035"
+    ],
+    "asn": 15685,
+    "city": "Prague",
+    "ipv4": "109.123.197.83",
+    "ipv6": "2001:1528:1:2100:250:56ff:fea1:1b69",
+    "hostname": "casablanca01.ring.nlnog.net",
+    "datacenter": "Casablanca INT s.r.o., Vinohradska 184, Prague, Czech republic"
+},
+{
+    "coordinates": [
+        "50.1192924,8.7355652"
+    ],
+    "asn": 15925,
+    "city": "Frankfurt",
+    "ipv4": "87.253.248.13",
+    "ipv6": "2a01:7f8:0:10f::13",
+    "hostname": "nexiu01.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "4.166667,73.5"
+    ],
+    "asn": 7642,
+    "city": "Male",
+    "ipv4": "103.31.84.12",
+    "ipv6": "2406:e400:1:10::10",
+    "hostname": "dhiraagu01.ring.nlnog.net",
+    "datacenter": "Male"
+},
+{
+    "coordinates": [
+        "51.494693919764615,-0.01836619339883"
+    ],
+    "asn": 197913,
+    "city": "London",
+    "ipv4": "185.59.204.164",
+    "ipv6": "2a02:6da0:44:253::164",
+    "hostname": "cadence01.ring.nlnog.net",
+    "datacenter": "DDCL Tutis Point"
+},
+{
+    "coordinates": [
+        "1.321075,103.695026"
+    ],
+    "asn": 14061,
+    "city": "Singapore",
+    "ipv4": "128.199.216.83",
+    "ipv6": "2400:6180:0:d0::35f7:3001",
+    "hostname": "digitalocean02.ring.nlnog.net",
+    "datacenter": "Equinix SG2"
+},
+{
+    "coordinates": [
+        "46.21755,6.08268"
+    ],
+    "asn": 29222,
+    "city": "Vernier",
+    "ipv4": "83.166.136.173",
+    "ipv6": "2001:1600:4:8:f816:3eff:fe6d:bc56",
+    "hostname": "infomaniak01.ring.nlnog.net",
+    "datacenter": null
+},
+{
+    "coordinates": [
+        "55.667680,12.367630"
+    ],
+    "asn": 212736,
+    "city": "",
+    "ipv4": null,
+    "ipv6": "2a10:4c47::256",
+    "hostname": "itconfidence01.ring.nlnog.net",
+    "datacenter": "Adeo Datacenter"
+},
+{
+    "coordinates": [
+        "53.55102,10.04705"
+    ],
+    "asn": 20694,
+    "city": "Hamburg",
+    "ipv4": "217.114.76.126",
+    "ipv6": "2a01:688:4:65::4",
+    "hostname": "nmmn01.ring.nlnog.net",
+    "datacenter": "a DC in Hamburg, Germany (which one can vary)"
+},
+{
+    "coordinates": [
+        "52.4007,4.8433"
+    ],
+    "asn": 48635,
+    "city": "Amsterdam",
+    "ipv4": "185.66.251.224",
+    "ipv6": "2a00:f10:121:a00:46b:e6ff:fe00:1953",
+    "hostname": "pcextreme02.ring.nlnog.net",
+    "datacenter": "Gyrocenter DC2"
+},
+{
+    "coordinates": [
+        "37.081474,-113.607170"
+    ],
+    "asn": 11071,
+    "city": "St. George",
+    "ipv4": "209.33.215.106",
+    "ipv6": "2604:2C00:0:110::2",
+    "hostname": "infowest01.ring.nlnog.net",
+    "datacenter": "DC"
+},
+{
+    "coordinates": [
+        "-12.980163,-38.450617"
+    ],
+    "asn": 28186,
+    "city": "Salvador",
+    "ipv4": "189.89.131.40",
+    "ipv6": "2804:204:500::40",
+    "hostname": "itsbrasil01.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "49.196986,16.618667"
+    ],
+    "asn": 24971,
+    "city": "Brno",
+    "ipv4": "85.118.134.2",
+    "ipv6": "2a01:430:100:2::2",
+    "hostname": "masterinternet01.ring.nlnog.net",
+    "datacenter": "Cejl 825/20, 602 00 Brno-Brno-stu0159ed, Czech Republic"
+},
+{
+    "coordinates": [
+        "52.356387,4.955663"
+    ],
+    "asn": 211321,
+    "city": "Amsterdam",
+    "ipv4": null,
+    "ipv6": "2a04:b904::7",
+    "hostname": "nlnetlabs01.ring.nlnog.net",
+    "datacenter": "Matrix II"
+},
+{
+    "coordinates": [
+        "22.279328,114.1628131"
+    ],
+    "asn": 16509,
+    "city": " Hong Kong",
+    "ipv4": "18.163.52.229",
+    "ipv6": "2406:da1e:297:b300::20",
+    "hostname": "amazon20.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "39.136878,-94.57755"
+    ],
+    "asn": 50058,
+    "city": "",
+    "ipv4": "165.140.142.104",
+    "ipv6": "2602:fc23:18::19",
+    "hostname": "august01.ring.nlnog.net",
+    "datacenter": "1530 Swift"
+},
+{
+    "coordinates": [
+        "13.726985,100.51523"
+    ],
+    "asn": 59238,
+    "city": "",
+    "ipv4": null,
+    "ipv6": "2400:c540:1:132:f:f:f:f",
+    "hostname": "byteark01.ring.nlnog.net",
+    "datacenter": "NT Bangrak"
+},
+{
+    "coordinates": [
+        "45.5008,-73.5617"
+    ],
+    "asn": 10929,
+    "city": "Montreal",
+    "ipv4": "67.212.77.61",
+    "ipv6": "2605:9000:400:208::fd",
+    "hostname": "estruxture01.ring.nlnog.net",
+    "datacenter": "MTL-1"
+},
+{
+    "coordinates": [
+        "-33.91474,151.19302"
+    ],
+    "asn": 4826,
+    "city": "Alexandria",
+    "ipv4": "175.45.73.66",
+    "ipv6": "2402:7800:0:2::1CE",
+    "hostname": "vocus01.ring.nlnog.net",
+    "datacenter": "59 Doody St, Alexandria NSW 2015, Australia"
+},
+{
+    "coordinates": [
+        "59.339511,18.0132642"
+    ],
+    "asn": 8674,
+    "city": "Stockholm",
+    "ipv4": "185.42.136.5",
+    "ipv6": "2a01:3f0:0:63::6",
+    "hostname": "netnod01.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "46.4810317,11.3283154"
+    ],
+    "asn": 20811,
+    "city": "Bolzano - Bozen",
+    "ipv4": "37.186.150.70",
+    "ipv6": "2a02:490:2100:500::1",
+    "hostname": "brennercom01.ring.nlnog.net",
+    "datacenter": "Bolzano, Italy"
+},
+{
+    "coordinates": [
+        "-25.445832,-49.233255"
+    ],
+    "asn": 10881,
+    "city": "Curitiba",
+    "ipv4": "200.238.130.54",
+    "ipv6": "2801:82:0:6::54",
+    "hostname": "poppr01.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "39.136500,-94.577420"
+    ],
+    "asn": 57695,
+    "city": "",
+    "ipv4": "170.39.225.182",
+    "ipv6": "2a0e:6901:301:3b:5054:ff:fed5:3082",
+    "hostname": "misaka06.ring.nlnog.net",
+    "datacenter": "NOCIX Swift"
+},
+{
+    "coordinates": [
+        "37.37531,-121.9718"
+    ],
+    "asn": 202053,
+    "city": "Santa Clara",
+    "ipv4": "209.151.145.12",
+    "ipv6": "2604:ed40:1000:1711:d42a:dcff:fe53:124",
+    "hostname": "upcloud07.ring.nlnog.net",
+    "datacenter": "Coresite Santa Clara SV7"
+},
+{
+    "coordinates": [
+        "41.0343477,-73.9757593"
+    ],
+    "asn": 47869,
+    "city": "",
+    "ipv4": "107.178.59.238",
+    "ipv6": "2606:ed00:3:a504:7869::22",
+    "hostname": "netrouting07.ring.nlnog.net",
+    "datacenter": "ColoHouse Orangeburg"
+},
+{
+    "coordinates": [
+        "-37.823075,144.915379"
+    ],
+    "asn": 136557,
+    "city": "",
+    "ipv4": "144.48.37.207",
+    "ipv6": "2406:d501:f:950::739b:c708",
+    "hostname": "hostuniversal05.ring.nlnog.net",
+    "datacenter": "Equinix ME1"
+},
+{
+    "coordinates": [
+        "51.520253,-0.074228"
+    ],
+    "asn": 205479,
+    "city": "London",
+    "ipv4": "92.118.28.13",
+    "ipv6": "2a09:a441::13",
+    "hostname": "lukegb01.ring.nlnog.net",
+    "datacenter": "Interxion LON1"
+},
+{
+    "coordinates": [
+        "-33.873,151.206"
+    ],
+    "asn": 16276,
+    "city": "Sydney",
+    "ipv4": "139.99.223.64",
+    "ipv6": "2402:1f00:8102:100::294",
+    "hostname": "ovh10.ring.nlnog.net",
+    "datacenter": "Sydney - SYD1"
+},
+{
+    "coordinates": [
+        "52.502038,13.369331"
+    ],
+    "asn": 25291,
+    "city": "Berlin",
+    "ipv4": "37.49.155.108",
+    "ipv6": "2a00:7fc0:4000:13::9",
+    "hostname": "syseleven01.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "22.362284,114.119218"
+    ],
+    "asn": 23734,
+    "city": "",
+    "ipv4": "103.101.0.68",
+    "ipv6": "2401:c740:0:a::adb4:2896",
+    "hostname": "netrouting06.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "52.4282,10.7914"
+    ],
+    "asn": 9136,
+    "city": "Wolfsburg",
+    "ipv4": "62.176.246.168",
+    "ipv6": "2a01:581:b::14",
+    "hostname": "wobcom01.ring.nlnog.net",
+    "datacenter": "Wolfsburg Nordkopf Tower"
+},
+{
+    "coordinates": [
+        "-37.82,144.91"
+    ],
+    "asn": 4764,
+    "city": "Melbourne",
+    "ipv4": "180.150.59.171",
+    "ipv6": "2403:5800:300:11::1",
+    "hostname": "aussiebb05.ring.nlnog.net",
+    "datacenter": "Equinix ME1"
+},
+{
+    "coordinates": [
+        "53.11066,8.76517"
+    ],
+    "asn": 50629,
+    "city": "Bremen",
+    "ipv4": "31.209.92.227",
+    "ipv6": "2a00:c380:1000:2::227",
+    "hostname": "lwlcom01.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "55.668225,12.622303"
+    ],
+    "asn": 3308,
+    "city": "Kbenhavn",
+    "ipv4": "212.97.216.247",
+    "ipv6": "2001:2010:0:9::1",
+    "hostname": "teliadk01.ring.nlnog.net",
+    "datacenter": "Digiplex Copenhagen"
+},
+{
+    "coordinates": [
+        "45.16841618,5.715126592"
+    ],
+    "asn": 15401,
+    "city": "Grenoble",
+    "ipv4": "178.237.105.39",
+    "ipv6": "2a00:4280:f00:100:178:237:105:39",
+    "hostname": "eolas01.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "51.845912940380195,4.679145812988281"
+    ],
+    "asn": 61349,
+    "city": "",
+    "ipv4": "185.29.203.222",
+    "ipv6": "2a04:4341:1:1::2",
+    "hostname": "maxitel01.ring.nlnog.net",
+    "datacenter": "Dataplace Albasserdam"
+},
+{
+    "coordinates": [
+        "37.488510,-77.246460"
+    ],
+    "asn": 53698,
+    "city": "",
+    "ipv4": "23.152.192.246",
+    "ipv6": "2604:6040:25:4::246",
+    "hostname": "ninjaix04.ring.nlnog.net",
+    "datacenter": "QTS Richmond"
+},
+{
+    "coordinates": [
+        "39.016124,-77.458812"
+    ],
+    "asn": 62874,
+    "city": "Ashburn",
+    "ipv4": "167.160.44.65",
+    "ipv6": "2602:ffd9:411:6::2",
+    "hostname": "web2objects02.ring.nlnog.net",
+    "datacenter": "Equinix, Ashburn, Virginia, US"
+},
+{
+    "coordinates": [
+        "49.86170,8.68210"
+    ],
+    "asn": 8365,
+    "city": "Darmstadt",
+    "ipv4": "82.195.72.4",
+    "ipv6": "2001:41b8:200:0:250:56ff:fea1:5f4a",
+    "hostname": "man-da01.ring.nlnog.net",
+    "datacenter": null
+},
+{
+    "coordinates": [
+        "48.79609,2.412572"
+    ],
+    "asn": 28855,
+    "city": "Vitry-sur-Seine",
+    "ipv4": "91.194.60.185",
+    "ipv6": "2001:67c:288::185",
+    "hostname": "octopuce01.ring.nlnog.net",
+    "datacenter": "DC2 Vitry at Iliad"
+},
+{
+    "coordinates": [
+        "35.622184,139.747774"
+    ],
+    "asn": 136557,
+    "city": "",
+    "ipv4": "180.149.230.19",
+    "ipv6": "2406:d500:9::be6e:4d7c",
+    "hostname": "hostuniversal10.ring.nlnog.net",
+    "datacenter": "Equinix TY8"
+},
+{
+    "coordinates": [
+        "54.433098,18.571905"
+    ],
+    "asn": 49420,
+    "city": "Sopot",
+    "ipv4": "91.212.242.244",
+    "ipv6": "2001:67c:24c::244",
+    "hostname": "aplitt01.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "59.363200,18.022950"
+    ],
+    "asn": 20514,
+    "city": "",
+    "ipv4": "217.151.198.151",
+    "ipv6": "2a03:c300:ffff:fffe::d",
+    "hostname": "axians01.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "37.49012,-121.93130"
+    ],
+    "asn": 6939,
+    "city": "Fremont",
+    "ipv4": "64.71.160.154",
+    "ipv6": "2001:470:0:292::2",
+    "hostname": "hurricane01.ring.nlnog.net",
+    "datacenter": "Hurricane Electric, 760 Mission Court, Fremont, CA 94539, United States"
+},
+{
+    "coordinates": [
+        "52.3465915,5.1804289"
+    ],
+    "asn": 29396,
+    "city": "",
+    "ipv4": "84.53.65.133",
+    "ipv6": "2a02:120:4009::133",
+    "hostname": "unet01.ring.nlnog.net",
+    "datacenter": "UNET DC Almere"
+},
+{
+    "coordinates": [
+        "52.3329076,4.919533"
+    ],
+    "asn": 38965,
+    "city": "Amsterdam",
+    "ipv4": "185.231.57.70",
+    "ipv6": "2a10:b880:1:501::100",
+    "hostname": "hostin01.ring.nlnog.net",
+    "datacenter": "EuNetworks Amsterdam Paul van Vlissingenstraat 16, 1096 BK Amsterdam"
+},
+{
+    "coordinates": [
+        "-37.822633,144.932208"
+    ],
+    "asn": 38796,
+    "city": "Port Melbourne",
+    "ipv4": "120.29.249.252",
+    "ipv6": "2001:dcd:11:3d::4",
+    "hostname": "ausregistry01.ring.nlnog.net",
+    "datacenter": "120.29.249.252"
+},
+{
+    "coordinates": [
+        "52.275772,4.749403"
+    ],
+    "asn": 8455,
+    "city": "Haarlemmermeer",
+    "ipv4": "95.142.96.108",
+    "ipv6": "2a00:1188:4::050a",
+    "hostname": "atom01.ring.nlnog.net",
+    "datacenter": "Schuberg Philis DC, Schiphol-Rijk, Netherlands, 0.51/B09/HE35-36"
+},
+{
+    "coordinates": [
+        "41.878439,-87.625586"
+    ],
+    "asn": 20130,
+    "city": "Chicago",
+    "ipv4": "140.192.218.142",
+    "ipv6": "2620:0:2250:2115:d61f:92e0:1893:b57d",
+    "hostname": "depaul01.ring.nlnog.net",
+    "datacenter": "CST"
+},
+{
+    "coordinates": [
+        "50.082047,14.533357"
+    ],
+    "asn": 202297,
+    "city": "Praha",
+    "ipv4": "109.248.43.102",
+    "ipv6": "2a04:ff07:d9:27::1",
+    "hostname": "skylonhost01.ring.nlnog.net",
+    "datacenter": "TTC Teleport DC1, Prague, CZ"
+},
+{
+    "coordinates": [
+        "47.38014,8.54459"
+    ],
+    "asn": 559,
+    "city": "Zurich",
+    "ipv4": "195.176.255.11",
+    "ipv6": "2001:620:0:9::a3",
+    "hostname": "switch01.ring.nlnog.net",
+    "datacenter": "RZ ETHZ"
+},
+{
+    "coordinates": [
+        "-33.457582,-70.663118"
+    ],
+    "asn": 27678,
+    "city": "Santiago",
+    "ipv4": "200.1.120.28",
+    "ipv6": "2001:1398:3:120:200:1:120:28",
+    "hostname": "nicchile01.ring.nlnog.net",
+    "datacenter": null
+},
+{
+    "coordinates": [
+        "38.649284,-90.312367"
+    ],
+    "asn": 2552,
+    "city": "University City",
+    "ipv4": "65.254.96.18",
+    "ipv6": "2606:fd80:2::2",
+    "hostname": "wustl01.ring.nlnog.net",
+    "datacenter": "Danforth Campus - Seigle Hall Room 001B"
+},
+{
+    "coordinates": [
+        "46.524,6.604"
+    ],
+    "asn": 6893,
+    "city": "Lausanne",
+    "ipv4": "62.220.128.73",
+    "ipv6": "2001:788:2:143::2",
+    "hostname": "nimag01.ring.nlnog.net",
+    "datacenter": "Malley, Lausanne, Switzerland"
+},
+{
+    "coordinates": [
+        "52.293529,4.945530"
+    ],
+    "asn": 31122,
+    "city": "Amsterdam-Zuidoost",
+    "ipv4": "46.183.104.122",
+    "ipv6": "2a02:220:80:0:20c:29ff:febe:fe6d",
+    "hostname": "viatel04.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "34.0611957,-118.2916508"
+    ],
+    "asn": 27630,
+    "city": "Los Angeles",
+    "ipv4": "72.34.255.61",
+    "ipv6": "2607:f350:1:1000::3",
+    "hostname": "xfernet01.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "50.097852,8.689811"
+    ],
+    "asn": 202053,
+    "city": "Frankfurt",
+    "ipv4": "94.237.24.27",
+    "ipv6": "2a04:3542:1000:910:a8aa:aaff:fea0:4c3a",
+    "hostname": "upcloud02.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "47.5143,7.616726"
+    ],
+    "asn": 49983,
+    "city": "",
+    "ipv4": "109.71.96.106",
+    "ipv6": "2a00:17E0:4000:7E2::6D47:606A",
+    "hostname": "mironet01.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "52.027649,5.624506"
+    ],
+    "asn": 197731,
+    "city": "Ede",
+    "ipv4": "31.3.104.43",
+    "ipv6": "2a03:7900:2::31:3:104:43",
+    "hostname": "tuxis01.ring.nlnog.net",
+    "datacenter": null
+},
+{
+    "coordinates": [
+        "57.708458,11.970615"
+    ],
+    "asn": 44136,
+    "city": "Goteborg",
+    "ipv4": "185.20.12.198",
+    "ipv6": "2a02:28f0:5:a::35",
+    "hostname": "oderland01.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "55.661857,12.300194"
+    ],
+    "asn": 16245,
+    "city": "",
+    "ipv4": "77.66.16.178",
+    "ipv6": "2001:1448:0:a602:250:56ff:feb2:41ff",
+    "hostname": "sentia02.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "50.881702,4.453926"
+    ],
+    "asn": 35701,
+    "city": "Zaventem",
+    "ipv4": "195.234.45.126",
+    "ipv6": "2a05:7300:0:201::2",
+    "hostname": "bchnetwork01.ring.nlnog.net",
+    "datacenter": "BrusselsDC, Diegem, Belgium"
+},
+{
+    "coordinates": [
+        "47.614353,-122.338864"
+    ],
+    "asn": 16652,
+    "city": "Seattle",
+    "ipv4": "199.254.238.43",
+    "ipv6": "2620:13:4000:8000:e8:d6ff:fec2:dcd5",
+    "hostname": "riseup01.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "50.0601906,14.4830350"
+    ],
+    "asn": 35236,
+    "city": "Prague",
+    "ipv4": "109.205.75.161",
+    "ipv6": "2a00:1238:4:2c:3::2",
+    "hostname": "2connect01.ring.nlnog.net",
+    "datacenter": "CEColo"
+},
+{
+    "coordinates": [
+        "57.724565,12.008813"
+    ],
+    "asn": 29468,
+    "city": "Gothenburg",
+    "ipv4": "89.189.198.14",
+    "ipv6": "2a02:760:1000:f::2",
+    "hostname": "pinse01.ring.nlnog.net",
+    "datacenter": "PIN SHG Datacenter"
+},
+{
+    "coordinates": [
+        "35.68628,139.7679"
+    ],
+    "asn": 63774,
+    "city": "",
+    "ipv4": "103.113.56.151",
+    "ipv6": "2402:b7c0:0:210:250:56ff:fe98:f800",
+    "hostname": "kamoike01.ring.nlnog.net",
+    "datacenter": "NTT DATA Otemachi Bldg"
+},
+{
+    "coordinates": [
+        "49.42788,11.02210"
+    ],
+    "asn": 33988,
+    "city": "Nuremberg",
+    "ipv4": "194.150.191.55",
+    "ipv6": "2001:67c:14c:12f::55:1",
+    "hostname": "teamix01.ring.nlnog.net",
+    "datacenter": null
+},
+{
+    "coordinates": [
+        "47.432544,8.557972"
+    ],
+    "asn": 31424,
+    "city": "Opfikon",
+    "ipv4": "217.147.213.237",
+    "ipv6": "2001:4168:babe:2::2",
+    "hostname": "nexellent01.ring.nlnog.net",
+    "datacenter": null
+},
+{
+    "coordinates": [
+        "48.245927,14.619895"
+    ],
+    "asn": 200970,
+    "city": "",
+    "ipv4": "185.89.162.230",
+    "ipv6": "2a05:d9c0:100::2",
+    "hostname": "riepert01.ring.nlnog.net",
+    "datacenter": "DataCenter Perg"
+},
+{
+    "coordinates": [
+        "45.72289,4.861422"
+    ],
+    "asn": 43100,
+    "city": null,
+    "ipv4": "77.95.64.150",
+    "ipv6": "2a03:9180:1:20::96",
+    "hostname": "rezopole01.ring.nlnog.net",
+    "datacenter": null
+},
+{
+    "coordinates": [
+        "52.356257,4.952843"
+    ],
+    "asn": 1126,
+    "city": "Amsterdam",
+    "ipv4": "85.90.94.148",
+    "ipv6": "2001:4d60:10:1200::4",
+    "hostname": "vancis01.ring.nlnog.net",
+    "datacenter": "Vancis, Science Park Amsterdam"
+},
+{
+    "coordinates": [
+        "50.050,8.572"
+    ],
+    "asn": 16276,
+    "city": "Frankfurt am Main",
+    "ipv4": "51.89.117.83",
+    "ipv6": "2001:41d0:701:1000::15ca",
+    "hostname": "ovh06.ring.nlnog.net",
+    "datacenter": "Frankfurt - DE1"
+},
+{
+    "coordinates": [
+        "47.446496,8.2088463"
+    ],
+    "asn": 58057,
+    "city": "",
+    "ipv4": "45.136.139.248",
+    "ipv6": "2a09:4c0:100:2d88::8bf8",
+    "hostname": "securebit01.ring.nlnog.net",
+    "datacenter": "Green Datacenter Lupfig"
+},
+{
+    "coordinates": [
+        "52.2373,6.8496"
+    ],
+    "asn": 47886,
+    "city": "Enschede",
+    "ipv4": "217.114.111.202",
+    "ipv6": "2001:1540:801:19:20c:29ff:fe8f:8feb",
+    "hostname": "equinixnl01.ring.nlnog.net",
+    "datacenter": null
+},
+{
+    "coordinates": [
+        "50.083242,8.633570"
+    ],
+    "asn": 203520,
+    "city": "Frankfurt",
+    "ipv4": "185.16.196.68",
+    "ipv6": "2a03:dfc0::b910:c444",
+    "hostname": "xantaro01.ring.nlnog.net",
+    "datacenter": "Xantaro XT3LAB"
+},
+{
+    "coordinates": [
+        "52.3547244,4.9621193"
+    ],
+    "asn": 35470,
+    "city": "Amsterdam",
+    "ipv4": "83.96.201.177",
+    "ipv6": "2a02:348:5e6:1::1dff",
+    "hostname": "cloudvps03.ring.nlnog.net",
+    "datacenter": "Equinix AM3"
+},
+{
+    "coordinates": [
+        "32.1132,34.8053"
+    ],
+    "asn": 378,
+    "city": "Tel Aviv",
+    "ipv4": "128.139.197.81",
+    "ipv6": "2001:bf8:900:1::808b:c551",
+    "hostname": "iucc01.ring.nlnog.net",
+    "datacenter": "Tel Aviv university computer center"
+},
+{
+    "coordinates": [
+        "51.505620,6.871258"
+    ],
+    "asn": 8648,
+    "city": "Oberhausen",
+    "ipv4": "82.141.39.25",
+    "ipv6": "2a02:248:2:308a:5054:ff:fe80:a9",
+    "hostname": "kampde01.ring.nlnog.net",
+    "datacenter": "KAMP-Rechenzentrum Oberhausen"
+},
+{
+    "coordinates": [
+        "56.052986,9.950799"
+    ],
+    "asn": 48854,
+    "city": "Skanderborg",
+    "ipv4": "94.231.110.110",
+    "ipv6": "2a02:2338:ff00::705:1",
+    "hostname": "zitcom01.ring.nlnog.net",
+    "datacenter": "Zitcom datacenter, Skanderborg, Denmark"
+},
+{
+    "coordinates": [
+        "44.867236,-0.562032"
+    ],
+    "asn": 198985,
+    "city": "Bordeaux",
+    "ipv4": "185.233.100.38",
+    "ipv6": "2a0c:e300::38",
+    "hostname": "aquilenet01.ring.nlnog.net",
+    "datacenter": "Cogent Bordeaux"
+},
+{
+    "coordinates": [
+        "59.924855,10.809541"
+    ],
+    "asn": 57381,
+    "city": "Oslo",
+    "ipv4": "193.150.22.68",
+    "ipv6": "2001:67c:24e4:64::68",
+    "hostname": "fnutt01.ring.nlnog.net",
+    "datacenter": null
+},
+{
+    "coordinates": [
+        "47.500881,8.720745"
+    ],
+    "asn": 58299,
+    "city": "Winterthur",
+    "ipv4": "5.226.144.239",
+    "ipv6": "2a00:6340:2010:2800::239",
+    "hostname": "openfactory01.ring.nlnog.net",
+    "datacenter": "AXA Data Center"
+},
+{
+    "coordinates": [
+        "59.8274477,10.795041099999935"
+    ],
+    "asn": 50033,
+    "city": "Oslo",
+    "ipv4": "185.161.127.5",
+    "ipv6": "2a07:c3c0:ffff:3002::5",
+    "hostname": "patientsky01.ring.nlnog.net",
+    "datacenter": "Digiplex Rosenholmveien 25, Oslo"
+},
+{
+    "coordinates": [
+        "38.944444,-77.455833"
+    ],
+    "asn": 16509,
+    "city": "Chantilly",
+    "ipv4": "52.22.172.27",
+    "ipv6": "2600:1f18:415a:7300::1:1",
+    "hostname": "amazon01.ring.nlnog.net",
+    "datacenter": null
+},
+{
+    "coordinates": [
+        "48.05159,11.659881"
+    ],
+    "asn": 29259,
+    "city": "Taufkirchen",
+    "ipv4": "83.170.60.36",
+    "ipv6": "2001:1b10:1006::53aa:3c24",
+    "hostname": "iabg01.ring.nlnog.net",
+    "datacenter": null
+},
+{
+    "coordinates": [
+        "52.087963,5.167554"
+    ],
+    "asn": 1103,
+    "city": "Utrecht",
+    "ipv4": "145.100.181.27",
+    "ipv6": "2001:610:0:800f:f816:3eff:fed5:a93e",
+    "hostname": "surfnet02.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "50.119875,8.735784"
+    ],
+    "asn": 62874,
+    "city": "Frankfurt",
+    "ipv4": "167.160.40.65",
+    "ipv6": "2602:ffd9:211:6::2",
+    "hostname": "web2objects01.ring.nlnog.net",
+    "datacenter": "Interxion, Frankfurt, Germany"
+},
+{
+    "coordinates": [
+        "48.26947,16.41020"
+    ],
+    "asn": 30971,
+    "city": "Wien",
+    "ipv4": "193.46.104.19",
+    "ipv6": "2a02:850:f::19",
+    "hostname": "nicat01.ring.nlnog.net",
+    "datacenter": "Interxion Vienna"
+},
+{
+    "coordinates": [
+        "39.5848991,-104.8503"
+    ],
+    "asn": 32133,
+    "city": "Centennial",
+    "ipv4": "64.98.79.87",
+    "ipv6": "2606:8e80:5010:2::87",
+    "hostname": "ting01.ring.nlnog.net",
+    "datacenter": "Ting Fiber Datacenter CNCO01"
+},
+{
+    "coordinates": [
+        "-20.9460775,-48.4556367"
+    ],
+    "asn": 28657,
+    "city": "",
+    "ipv4": "187.73.144.77",
+    "ipv6": "2804:40:fe20::2",
+    "hostname": "mdbrasil01.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "34.693737,135.502167"
+    ],
+    "asn": 16509,
+    "city": "",
+    "ipv4": "13.208.116.113",
+    "ipv6": "2406:da16:27d:6100::16",
+    "hostname": "amazon16.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "53.205139,5.765333"
+    ],
+    "asn": 30830,
+    "city": "Leeuwarden",
+    "ipv4": "80.73.130.123",
+    "ipv6": "2a01:5140:130::123",
+    "hostname": "networkoperations01.ring.nlnog.net",
+    "datacenter": "DataCenter Fryslan"
+},
+{
+    "coordinates": [
+        "52.543667,5.705194"
+    ],
+    "asn": 205668,
+    "city": "",
+    "ipv4": "185.200.102.77",
+    "ipv6": "2a0a:aa42:321:2000::10",
+    "hostname": "greenmini01.ring.nlnog.net",
+    "datacenter": "Serverius Dronten, De Linge 26, 8253 PJ Dronten"
+},
+{
+    "coordinates": [
+        "50.0969757,8.627851"
+    ],
+    "asn": 199610,
+    "city": "Frankfurt",
+    "ipv4": "5.83.160.137",
+    "ipv6": "2a03:4d40:1337:0:f816:3eff:fea2:3790",
+    "hostname": "marbis01.ring.nlnog.net",
+    "datacenter": "Telehouse Frankfurt"
+},
+{
+    "coordinates": [
+        "52.5366,13.2366"
+    ],
+    "asn": 29670,
+    "city": "Berlin",
+    "ipv4": "217.197.95.68",
+    "ipv6": "2001:67c:1405:1019::4",
+    "hostname": "inberlin01.ring.nlnog.net",
+    "datacenter": "e-shelter Campus Berlin"
+},
+{
+    "coordinates": [
+        "35.2269,-80.8433"
+    ],
+    "asn": 13649,
+    "city": "",
+    "ipv4": "64.239.240.36",
+    "ipv6": "2607:f758:8080:0:250:56ff:feaf:3c80",
+    "hostname": "flexential02.ring.nlnog.net",
+    "datacenter": "Flexential CLT01"
+},
+{
+    "coordinates": [
+        "60.197486,24.936639"
+    ],
+    "asn": 719,
+    "city": "Helsinki",
+    "ipv4": "194.157.148.236",
+    "ipv6": "2001:998:12:58::719",
+    "hostname": "elisa01.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "51.521895,-0.07293"
+    ],
+    "asn": 39767,
+    "city": "London",
+    "ipv4": "78.158.81.4",
+    "ipv6": "2a05:e200:1:69::1",
+    "hostname": "sargasso01.ring.nlnog.net",
+    "datacenter": "Interxion LON1"
+},
+{
+    "coordinates": [
+        "50.096751,8.644020"
+    ],
+    "asn": 63949,
+    "city": "Frankfurt",
+    "ipv4": "139.162.156.136",
+    "ipv6": "2a01:7e01::f03c:91ff:feb0:de12",
+    "hostname": "linode02.ring.nlnog.net",
+    "datacenter": "Equinix FR7"
+},
+{
+    "coordinates": [
+        "39.9831302,-83.1309137"
+    ],
+    "asn": 16509,
+    "city": "Columbus",
+    "ipv4": "52.15.184.123",
+    "ipv6": "2600:1f16:cfd:6400::15",
+    "hostname": "amazon15.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "56.357666,-3.994834"
+    ],
+    "asn": 3213,
+    "city": "Comrie",
+    "ipv4": "93.186.40.202",
+    "ipv6": "2001:4b10:1:3::10",
+    "hostname": "bogons01.ring.nlnog.net",
+    "datacenter": "The Bunker, Cultybraggan Camp"
+},
+{
+    "coordinates": [
+        "30.45229,-91.11560"
+    ],
+    "asn": 7954,
+    "city": "Baton Rouge",
+    "ipv4": "104.254.54.4",
+    "ipv6": "2605:e380:200::10",
+    "hostname": "immense01.ring.nlnog.net",
+    "datacenter": "None"
+},
+{
+    "coordinates": [
+        "52.3917251,4.6647344"
+    ],
+    "asn": 51088,
+    "city": "Haarlem",
+    "ipv4": "178.249.153.30",
+    "ipv6": "2a02:1668:a2b:1011::30",
+    "hostname": "a2binternet02.ring.nlnog.net",
+    "datacenter": "Iron Mountain Haarlem"
+},
+{
+    "coordinates": [
+        "51.986966,5.933867"
+    ],
+    "asn": 39637,
+    "city": "Arnhem",
+    "ipv4": "37.203.56.78",
+    "ipv6": "2a00:dc8:0:11:37:203:56:78",
+    "hostname": "i4networks01.ring.nlnog.net",
+    "datacenter": "Dataplace Arnhem"
+},
+{
+    "coordinates": [
+        "-31.86,115.89"
+    ],
+    "asn": 4764,
+    "city": "",
+    "ipv4": "159.196.91.171",
+    "ipv6": "2403:5800:900:16::1",
+    "hostname": "aussiebb03.ring.nlnog.net",
+    "datacenter": "NextDC P1"
+},
+{
+    "coordinates": [
+        "52.355980,4.950350"
+    ],
+    "asn": 34373,
+    "city": "Amsterdam",
+    "ipv4": "185.56.54.19",
+    "ipv6": "2a06:900:3382::2",
+    "hostname": "xxlnet01.ring.nlnog.net",
+    "datacenter": "Nikhef"
+},
+{
+    "coordinates": [
+        "51.188567,6.867068"
+    ],
+    "asn": 48821,
+    "city": "Dusseldorf",
+    "ipv4": "185.138.55.231",
+    "ipv6": "2a07:a40:102:1337::2",
+    "hostname": "mauve01.ring.nlnog.net",
+    "datacenter": "InterXion DUS"
+},
+{
+    "coordinates": [
+        "50.105293,8.666781300000025"
+    ],
+    "asn": 8495,
+    "city": "Frankfurt",
+    "ipv4": "195.34.174.109",
+    "ipv6": "2a01:130:8495:1001:216:3eff:feb2:ca4",
+    "hostname": "internetag01.ring.nlnog.net",
+    "datacenter": "Internet AG"
+},
+{
+    "coordinates": [
+        "52.064645195683006,4.387367098081381"
+    ],
+    "asn": 47869,
+    "city": "Den Haag",
+    "ipv4": "109.235.51.6",
+    "ipv6": "2a00:dd0:0:20::41a6:282f",
+    "hostname": "netrouting03.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "55.66943,12.53909"
+    ],
+    "asn": 42541,
+    "city": "K\u00f8benhavn",
+    "ipv4": "193.106.164.98",
+    "ipv6": "2a03:5440:5:50::2",
+    "hostname": "fiberby01.ring.nlnog.net",
+    "datacenter": "GlobalConnect Vesterbro, Vesterbrogade 149, 1620 K\u00f8benhavn V"
+},
+{
+    "coordinates": [
+        "49.2847564,-123.1118716"
+    ],
+    "asn": 394256,
+    "city": "Vancouver",
+    "ipv4": "192.30.89.86",
+    "ipv6": "2606:9580:89::86",
+    "hostname": "techfutures01.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "51.49827,-0.014656"
+    ],
+    "asn": 3170,
+    "city": "London",
+    "ipv4": "103.141.25.11",
+    "ipv6": "2a03:ee40:23:200::11",
+    "hostname": "veloxserv01.ring.nlnog.net",
+    "datacenter": "Equinix LD8, London"
+},
+{
+    "coordinates": [
+        "52.356156,4.955187"
+    ],
+    "asn": 201401,
+    "city": "Amsterdam",
+    "ipv4": "89.31.56.43",
+    "ipv6": "2a05:52a0:65::20",
+    "hostname": "unithost01.ring.nlnog.net",
+    "datacenter": "Equinix-AM3, Sciencepark 610, Amsterdam."
+},
+{
+    "coordinates": [
+        "55.784497,12.519332"
+    ],
+    "asn": 1835,
+    "city": "Kongens Lyngby",
+    "ipv4": "130.226.249.126",
+    "ipv6": "2001:878:0:e000:82:e2:f9:7e",
+    "hostname": "deic01.ring.nlnog.net",
+    "datacenter": "DeIC /\nDIX / I2 DTU Building 304"
+},
+{
+    "coordinates": [
+        "51.427652,-0.978997"
+    ],
+    "asn": 50957,
+    "city": "Reading",
+    "ipv4": "37.128.134.97",
+    "ipv6": "2a02:24e0:2:ab2f:e020:8b3:cf19:9e11",
+    "hostname": "memset01.ring.nlnog.net",
+    "datacenter": "Everest Datacenter, Reading, UK"
+},
+{
+    "coordinates": [
+        "51.51218,-0.00208"
+    ],
+    "asn": 31122,
+    "city": "London",
+    "ipv4": "212.126.61.70",
+    "ipv6": "2a01:8aa0:0:ffff:20c:29ff:fe3f:d8e7",
+    "hostname": "viatel03.ring.nlnog.net",
+    "datacenter": "Telehouse North"
+},
+{
+    "coordinates": [
+        "34.058723,-118.235299"
+    ],
+    "asn": 25795,
+    "city": "Los Angeles",
+    "ipv4": "174.136.100.234",
+    "ipv6": "2607:f2f8:ade8::2",
+    "hostname": "arpnetworks01.ring.nlnog.net",
+    "datacenter": "CoreSite"
+},
+{
+    "coordinates": [
+        "38.746461,-77.533079"
+    ],
+    "asn": 30633,
+    "city": "Manassas",
+    "ipv4": "192.96.206.13",
+    "ipv6": "2604:9a00:2100:af05:baaa::1",
+    "hostname": "leaseweb03.ring.nlnog.net",
+    "datacenter": "Evoswitch WDC1"
+},
+{
+    "coordinates": [
+        "52.50222222,13.36916667"
+    ],
+    "asn": 20647,
+    "city": "",
+    "ipv4": "91.102.8.206",
+    "ipv6": "2a02:f28:2:4::2",
+    "hostname": "ipbde01.ring.nlnog.net",
+    "datacenter": "CarrierColo Berlin"
+},
+{
+    "coordinates": [
+        "42.94334338754859,13.882770538330078"
+    ],
+    "asn": 59715,
+    "city": "San Benedetto del Tronto",
+    "ipv4": "185.5.201.240",
+    "ipv6": "2a02:cdc5:9715:0:185:5:201:240",
+    "hostname": "sbtap01.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "60.3731,5.3392"
+    ],
+    "asn": 8542,
+    "city": "Bergen",
+    "ipv4": "85.200.239.110",
+    "ipv6": "2a00:14d8:1001:713::2",
+    "hostname": "eviny01.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "42.248588,-83.736888"
+    ],
+    "asn": 237,
+    "city": "Ann Arbor",
+    "ipv4": "192.122.200.171",
+    "ipv6": "2001:48a8:7fff:13::3",
+    "hostname": "merit01.ring.nlnog.net",
+    "datacenter": null
+},
+{
+    "coordinates": [
+        "48.8695940,2.3437840"
+    ],
+    "asn": 57199,
+    "city": "Paris",
+    "ipv4": "45.13.104.152",
+    "ipv6": "2a0e:e701:1149::1",
+    "hostname": "milkywan01.ring.nlnog.net",
+    "datacenter": "Paris Leonix Bourse (BRS)"
+},
+{
+    "coordinates": [
+        "35.689487,139.691711"
+    ],
+    "asn": 16509,
+    "city": "",
+    "ipv4": "13.113.70.195",
+    "ipv6": "2406:da14:c3a:4400::4",
+    "hostname": "amazon04.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "31.7333,-106.4833"
+    ],
+    "asn": 32098,
+    "city": "Ciudad Juarez",
+    "ipv4": "201.174.85.6",
+    "ipv6": "2604:d600:0302:0007:0000:0000:0000:0002",
+    "hostname": "transtelco01.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "52.340988,5.227518"
+    ],
+    "asn": 25596,
+    "city": "Almere",
+    "ipv4": "217.19.17.23",
+    "ipv6": "2a02:58:3:110::23:1",
+    "hostname": "cambrium01.ring.nlnog.net",
+    "datacenter": null
+},
+{
+    "coordinates": [
+        "38.9626498,-77.3802991"
+    ],
+    "asn": 16409,
+    "city": "Herndon",
+    "ipv4": "204.9.92.171",
+    "ipv6": "2604:5e40:102:17::171",
+    "hostname": "pbwcomm01.ring.nlnog.net",
+    "datacenter": "Cogent Datacenter 510 Huntmar Park Drive Herndon, VA 20170"
+},
+{
+    "coordinates": [
+        "37.618889,-122.375"
+    ],
+    "asn": 16509,
+    "city": "San Francisco",
+    "ipv4": "13.56.89.157",
+    "ipv6": "2600:1f1c:eeb:8900::6",
+    "hostname": "amazon06.ring.nlnog.net",
+    "datacenter": null
+},
+{
+    "coordinates": [
+        "-33.8688,151.2093"
+    ],
+    "asn": 63949,
+    "city": "Sydney",
+    "ipv4": "172.105.182.85",
+    "ipv6": "2400:8907::f03c:92ff:fe1f:cc3e",
+    "hostname": "linode11.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "-22.267935,166.462219"
+    ],
+    "asn": 45345,
+    "city": "Noumea",
+    "ipv4": "103.2.186.197",
+    "ipv6": "2404:e400:2010::197",
+    "hostname": "nautile01.ring.nlnog.net",
+    "datacenter": null
+},
+{
+    "coordinates": [
+        "60.295349,5.255753"
+    ],
+    "asn": 49409,
+    "city": "Bergen",
+    "ipv4": "95.141.83.106",
+    "ipv6": "2a02:f58:5:5::2",
+    "hostname": "dataoppdrag01.ring.nlnog.net",
+    "datacenter": null
+},
+{
+    "coordinates": [
+        "60.21603,24.87769"
+    ],
+    "asn": 202053,
+    "city": "Helsinki",
+    "ipv4": "94.237.9.232",
+    "ipv6": "2a04:3545:1000:720:a8aa:aaff:fea0:1fde",
+    "hostname": "upcloud08.ring.nlnog.net",
+    "datacenter": "Telia Helsinki"
+},
+{
+    "coordinates": [
+        "-25.094657,-50.1037"
+    ],
+    "asn": 53046,
+    "city": "Ponta Grossa",
+    "ipv4": "143.208.160.9",
+    "ipv6": "2804:1f04:3000:138::9",
+    "hostname": "uepg01.ring.nlnog.net",
+    "datacenter": "UEPG Datacenter UVN"
+},
+{
+    "coordinates": [
+        "32.7767,-96.7970"
+    ],
+    "asn": 2914,
+    "city": "Dallas, TX",
+    "ipv4": "165.254.21.124",
+    "ipv6": "2001:418:1456:b0a::2",
+    "hostname": "ntt01.ring.nlnog.net",
+    "datacenter": "NTT"
+},
+{
+    "coordinates": [
+        "-33.9117762,151.1929422"
+    ],
+    "asn": 9268,
+    "city": "Sydney",
+    "ipv4": "119.17.170.245",
+    "ipv6": "2402:c00:0:31::4",
+    "hostname": "overthewire01.ring.nlnog.net",
+    "datacenter": "Equinix SY3"
+},
+{
+    "coordinates": [
+        "53.34981,-6.26031"
+    ],
+    "asn": 39122,
+    "city": "Dublin",
+    "ipv4": "78.153.194.4",
+    "ipv6": "2a01:a8:dc3:40::aaaa",
+    "hostname": "blacknight01.ring.nlnog.net",
+    "datacenter": "InterXion DUB1"
+},
+{
+    "coordinates": [
+        "50.105773,8.647825"
+    ],
+    "asn": 25394,
+    "city": "Frankfurt",
+    "ipv4": "85.220.161.84",
+    "ipv6": "2001:1640::55:3",
+    "hostname": "mknetzdienste01.ring.nlnog.net",
+    "datacenter": "DC"
+},
+{
+    "coordinates": [
+        "52.35609,4.95131"
+    ],
+    "asn": 206238,
+    "city": "Amsterdam",
+    "ipv4": "185.93.175.22",
+    "ipv6": "2a10:3780:2:52:185:93:175:22",
+    "hostname": "freedomnet01.ring.nlnog.net",
+    "datacenter": "NIKHEF"
+},
+{
+    "coordinates": [
+        "40.831821,-74.448794"
+    ],
+    "asn": 63949,
+    "city": "Hanover",
+    "ipv4": "45.79.137.222",
+    "ipv6": "2600:3c03::f03c:91ff:feb0:de49",
+    "hostname": "linode03.ring.nlnog.net",
+    "datacenter": "Net Access Cedar Knolls"
+},
+{
+    "coordinates": [
+        "60.2944104,24.9283004"
+    ],
+    "asn": 16086,
+    "city": "Vantaa",
+    "ipv4": "62.78.96.149",
+    "ipv6": "2001:14b8:1000:1::c:100",
+    "hostname": "dna01.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "39.100806,-94.581167"
+    ],
+    "asn": 2495,
+    "city": "Kansas City",
+    "ipv4": "164.113.50.50",
+    "ipv6": "2001:49d0:1c00:1::50",
+    "hostname": "kanren01.ring.nlnog.net",
+    "datacenter": "1102 Grand, Kansas City, MO, USA"
+},
+{
+    "coordinates": [
+        "51.8756055,4.4480657"
+    ],
+    "asn": 198089,
+    "city": "Rotterdam",
+    "ipv4": "141.136.120.48",
+    "ipv6": "2a01:8580:103:1::108",
+    "hostname": "ipvisie01.ring.nlnog.net",
+    "datacenter": "KPN RT2"
+},
+{
+    "coordinates": [
+        "45.091333,7.660614"
+    ],
+    "asn": 12779,
+    "city": "Turin",
+    "ipv4": "213.254.1.30",
+    "ipv6": "2001:1418:8:200::30",
+    "hostname": "itgate01.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "46.9503047,7.4415524"
+    ],
+    "asn": 3303,
+    "city": "Berne",
+    "ipv4": "193.247.170.254",
+    "ipv6": "2001:918:0:64::2",
+    "hostname": "swisscom01.ring.nlnog.net",
+    "datacenter": "Bern"
+},
+{
+    "coordinates": [
+        "-34.923786,138.607016"
+    ],
+    "asn": 4739,
+    "city": "Adelaide",
+    "ipv4": "203.122.222.147",
+    "ipv6": "2001:44b8:60:12::147",
+    "hostname": "internode01.ring.nlnog.net",
+    "datacenter": "Internode, Adelaide, SA, Australia."
+},
+{
+    "coordinates": [
+        "52.2397661,6.8535898"
+    ],
+    "asn": 1133,
+    "city": "Enschede",
+    "ipv4": "130.89.6.17",
+    "ipv6": "2001:67c:2564:a115:250:56ff:fe89:6d65",
+    "hostname": "utwente01.ring.nlnog.net",
+    "datacenter": "Seinhuis, Enschede"
+},
+{
+    "coordinates": [
+        "51.5007325,-0.1268141"
+    ],
+    "asn": 16509,
+    "city": "London",
+    "ipv4": "35.176.195.43",
+    "ipv6": "2a05:d01c:dfb:ff00::14",
+    "hostname": "amazon14.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "37.874871,-122.258335"
+    ],
+    "asn": 25,
+    "city": "Berkeley",
+    "ipv4": "128.32.158.100",
+    "ipv6": "2607:f140:ffff:ff07::a",
+    "hostname": "berkeley01.ring.nlnog.net",
+    "datacenter": "University of California - Berkeley, Berkeley, California 94709, United States"
+},
+{
+    "coordinates": [
+        "60.220,24.870"
+    ],
+    "asn": 57692,
+    "city": "Helsinki",
+    "ipv4": "91.232.156.99",
+    "ipv6": "2001:67c:1be8:1::999",
+    "hostname": "kapsi01.ring.nlnog.net",
+    "datacenter": "Mediam Oy"
+},
+{
+    "coordinates": [
+        "52.3445,4.8315"
+    ],
+    "asn": 41960,
+    "city": "Amsterdam",
+    "ipv4": "77.73.231.141",
+    "ipv6": "2a02:690:4001:42::141",
+    "hostname": "nextpertise01.ring.nlnog.net",
+    "datacenter": "Global Switch"
+},
+{
+    "coordinates": [
+        "53.480759,-2.242631"
+    ],
+    "asn": 9009,
+    "city": "Manchester",
+    "ipv4": "194.187.248.66",
+    "ipv6": "2001:ac8:21::d0",
+    "hostname": "mtwentyfourseven01.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "-33.918665,18.420637"
+    ],
+    "asn": 37663,
+    "city": "Cape Town",
+    "ipv4": "196.10.54.133",
+    "ipv6": "2001:43f8:1f4:a00::133",
+    "hostname": "inxza02.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "53.0761418,8.7716442"
+    ],
+    "asn": 49855,
+    "city": "Bremen",
+    "ipv4": "91.202.41.253",
+    "ipv6": "2a02:16d0:0:2::2",
+    "hostname": "plutex01.ring.nlnog.net",
+    "datacenter": "Company owned datacenter"
+},
+{
+    "coordinates": [
+        "50.82,4.36"
+    ],
+    "asn": 204059,
+    "city": "",
+    "ipv4": "80.67.181.30",
+    "ipv6": "2001:0913:1000:200::30",
+    "hostname": "neutrinet01.ring.nlnog.net",
+    "datacenter": "Verixi Louise DC"
+},
+{
+    "coordinates": [
+        "43.6508826,-79.3639686"
+    ],
+    "asn": 14061,
+    "city": "Toronto",
+    "ipv4": "159.203.1.207",
+    "ipv6": "2604:A880:0CAD:00D0:0000:0000:0CE6:F001",
+    "hostname": "digitalocean07.ring.nlnog.net",
+    "datacenter": "Equinix TR2"
+},
+{
+    "coordinates": [
+        "-6.8,39.3"
+    ],
+    "asn": 327844,
+    "city": "Dar es Salaam",
+    "ipv4": "196.49.5.45",
+    "ipv6": "2001:43F8:1:100::5",
+    "hostname": "tispa01.ring.nlnog.net",
+    "datacenter": "TIX room, Posta House"
+},
+{
+    "coordinates": [
+        "37.471628,-121.919837"
+    ],
+    "asn": 63949,
+    "city": "Fremont",
+    "ipv4": "45.56.92.54",
+    "ipv6": "2600:3c01::f03c:91ff:febb:80b9",
+    "hostname": "linode05.ring.nlnog.net",
+    "datacenter": "Hurricane Electric Fremont 2"
+},
+{
+    "coordinates": [
+        "61.49791,23.77586"
+    ],
+    "asn": 51164,
+    "city": "Tampere",
+    "ipv4": "178.217.129.212",
+    "ipv6": "2001:67c:224:13::1337",
+    "hostname": "cybercom01.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "52.280312,4.753851"
+    ],
+    "asn": 8315,
+    "city": "Haarlemmermeer",
+    "ipv4": "85.222.193.228",
+    "ipv6": "2a02:20b0:165::100",
+    "hostname": "sentia01.ring.nlnog.net",
+    "datacenter": "Interxion AMS5"
+},
+{
+    "coordinates": [
+        "46.522611,6.63314"
+    ],
+    "asn": 202194,
+    "city": "Lausanne",
+    "ipv4": "185.50.191.247",
+    "ipv6": "2a04:c000:ed51:919::247:1",
+    "hostname": "edsitech01.ring.nlnog.net",
+    "datacenter": "AlpineDC, BrainServe or EPFL, depending the moon phase"
+},
+{
+    "coordinates": [
+        "49.456373,11.078364"
+    ],
+    "asn": 197540,
+    "city": "Nuremberg",
+    "ipv4": "37.221.193.100",
+    "ipv6": "2a03:4000:8:78::10",
+    "hostname": "netcup01.ring.nlnog.net",
+    "datacenter": "N\u00fcrnberg, Germany"
+},
+{
+    "coordinates": [
+        "32.8379046,-96.8806003"
+    ],
+    "asn": 13830,
+    "city": "Dallas",
+    "ipv4": "161.129.153.254",
+    "ipv6": "2604:fbc0:1:2::1000",
+    "hostname": "nexril01.ring.nlnog.net",
+    "datacenter": "Carrier-1"
+},
+{
+    "coordinates": [
+        "52.278551,-1.895770"
+    ],
+    "asn": 6908,
+    "city": "Stratford-on-Avon",
+    "ipv4": "78.41.154.18",
+    "ipv6": "2a02:298:81:1337::b33f",
+    "hostname": "sixdegrees01.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "37.471973,-121.9203"
+    ],
+    "asn": 62538,
+    "city": "Fremont",
+    "ipv4": "23.157.112.123",
+    "ipv6": "2605:c640:dc1:10c8::123",
+    "hostname": "ipfail01.ring.nlnog.net",
+    "datacenter": "Hurricane Electric FMT-2"
+},
+{
+    "coordinates": [
+        "52.293,4.943"
+    ],
+    "asn": 38983,
+    "city": "Amsterdam",
+    "ipv4": "188.126.109.12",
+    "ipv6": "2a09:f400:0:ff::100",
+    "hostname": "copaco01.ring.nlnog.net",
+    "datacenter": "Equinix AM5"
+},
+{
+    "coordinates": [
+        "35.744843,51.375320"
+    ],
+    "asn": 202468,
+    "city": "",
+    "ipv4": "37.152.182.132",
+    "ipv6": null,
+    "hostname": "arvancloud01.ring.nlnog.net",
+    "datacenter": "Iran, Tehran, Asiatech Datacenter"
+},
+{
+    "coordinates": [
+        "51.500544,-0.708647"
+    ],
+    "asn": 29550,
+    "city": "Maidenhead",
+    "ipv4": "94.76.229.204",
+    "ipv6": "2a02:af8:1:4300::4516",
+    "hostname": "simplytransit01.ring.nlnog.net",
+    "datacenter": null
+},
+{
+    "coordinates": [
+        "51.524682,-0.635102"
+    ],
+    "asn": 8330,
+    "city": "Britwell",
+    "ipv4": "5.57.94.163",
+    "ipv6": "2a00:eb20:434::163",
+    "hostname": "lonap01.ring.nlnog.net",
+    "datacenter": "Equinix LD6, Slough, UK"
+},
+{
+    "coordinates": [
+        "37.3724282,-121.9736174"
+    ],
+    "asn": 14061,
+    "city": "Santa Clara",
+    "ipv4": "142.93.93.188",
+    "ipv6": "2604:A880:0002:00D0:0000:0000:00E6:9001",
+    "hostname": "digitalocean08.ring.nlnog.net",
+    "datacenter": "Digital Realty SCL2"
+},
+{
+    "coordinates": [
+        "60.169,24.959"
+    ],
+    "asn": 15830,
+    "city": "Helsinki",
+    "ipv4": "87.108.57.169",
+    "ipv6": "2001:a68:1:d:87:108:57:169",
+    "hostname": "equinixemea01.ring.nlnog.net",
+    "datacenter": "Equinix FI"
+},
+{
+    "coordinates": [
+        "52.237143,6.849456"
+    ],
+    "asn": 49627,
+    "city": "Enschede",
+    "ipv4": "185.68.163.230",
+    "ipv6": "2a03:2c60:1::10",
+    "hostname": "speakup01.ring.nlnog.net",
+    "datacenter": "Equinix EN1"
+},
+{
+    "coordinates": [
+        "38.0331006,23.793559"
+    ],
+    "asn": 56910,
+    "city": "",
+    "ipv4": "185.36.233.116",
+    "ipv6": "2a04:3e00:1001::4",
+    "hostname": "lamdahellix01.ring.nlnog.net",
+    "datacenter": "Lamda Hellix"
+},
+{
+    "coordinates": [
+        "51.760427,-0.003073"
+    ],
+    "asn": 6656,
+    "city": "Hoddesdon",
+    "ipv4": "81.171.183.186",
+    "ipv6": "2a00:ed0:2000:4800::2",
+    "hostname": "claranet07.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "55.676098,12.568337"
+    ],
+    "asn": 62113,
+    "city": "K\u00f8benhavn",
+    "ipv4": "185.38.24.57",
+    "ipv6": "2a00:fbe0:12::57",
+    "hostname": "kracon01.ring.nlnog.net",
+    "datacenter": "Interxion, Ballerup, Denmark"
+},
+{
+    "coordinates": [
+        "48.77468,2.37987"
+    ],
+    "asn": 29075,
+    "city": "",
+    "ipv4": "85.118.58.163",
+    "ipv6": "2a00:1b88:21:200::2",
+    "hostname": "ielo01.ring.nlnog.net",
+    "datacenter": "Scaleway DC3"
+},
+{
+    "coordinates": [
+        "52.344280,4.830695"
+    ],
+    "asn": 44858,
+    "city": "Amsterdam",
+    "ipv4": "93.95.0.217",
+    "ipv6": "2a03:5d80:103:ff01::aa10",
+    "hostname": "proxsys01.ring.nlnog.net",
+    "datacenter": "GlobalSwitch, Amsterdam"
+},
+{
+    "coordinates": [
+        "45.67361,9.67697"
+    ],
+    "asn": 41497,
+    "city": "Bergamo",
+    "ipv4": "80.76.80.28",
+    "ipv6": "2001:4bb0:d:8::28",
+    "hostname": "qcom01.ring.nlnog.net",
+    "datacenter": "QCOM"
+},
+{
+    "coordinates": [
+        "43.61847,1.42075"
+    ],
+    "asn": 197422,
+    "city": "Toulouse",
+    "ipv4": "91.224.149.112",
+    "ipv6": "2a03:7220:8081:7000::1",
+    "hostname": "tetaneutral01.ring.nlnog.net",
+    "datacenter": null
+},
+{
+    "coordinates": [
+        "52.3000769,4.9432173"
+    ],
+    "asn": 35470,
+    "city": "Amsterdam",
+    "ipv4": "83.96.201.176",
+    "ipv6": "2a02:348:5e6:1::2dbf",
+    "hostname": "cloudvps02.ring.nlnog.net",
+    "datacenter": "Equinix AM1"
+},
+{
+    "coordinates": [
+        "53.742795,10.071008"
+    ],
+    "asn": 200567,
+    "city": "Tangstedt",
+    "ipv4": "185.70.144.117",
+    "ipv6": "2a05:2a80:1::200",
+    "hostname": "mdex01.ring.nlnog.net",
+    "datacenter": "Company owned Datacenter"
+},
+{
+    "coordinates": [
+        "50.1398484,8.7433346"
+    ],
+    "asn": 206479,
+    "city": "Frankfurt",
+    "ipv4": "185.120.22.17",
+    "ipv6": "2001:67c:16c8:e88c::1",
+    "hostname": "jpbe01.ring.nlnog.net",
+    "datacenter": "Accelerated IT Services, Kruppstrasse 105, 60388 Frankfurt am Main"
+},
+{
+    "coordinates": [
+        "53.07605,8.77173"
+    ],
+    "asn": 3624,
+    "city": "Bremen",
+    "ipv4": "185.117.213.230",
+    "ipv6": "2a06:8782:ff02::e6",
+    "hostname": "freifunkbr01.ring.nlnog.net",
+    "datacenter": "PLUTEX"
+},
+{
+    "coordinates": [
+        "50.0601906,14.4830350"
+    ],
+    "asn": 15614,
+    "city": "Prague",
+    "ipv4": "213.168.176.84",
+    "ipv6": "2a02:13b8:7800::2",
+    "hostname": "dragon01.ring.nlnog.net",
+    "datacenter": "CEColo"
+},
+{
+    "coordinates": [
+        "37.4717,-121.9201"
+    ],
+    "asn": 46997,
+    "city": "Fremont",
+    "ipv4": "134.195.101.201",
+    "ipv6": "2602:feda:30:cafe:250:56ff:fe83:6e1d",
+    "hostname": "natoresearch01.ring.nlnog.net",
+    "datacenter": "HE FMT2"
+},
+{
+    "coordinates": [
+        "56.117659,10.156214"
+    ],
+    "asn": 62319,
+    "city": "Holme",
+    "ipv4": "194.116.178.10",
+    "ipv6": "2a02:c900:0:1::10",
+    "hostname": "itrelation01.ring.nlnog.net",
+    "datacenter": "IT Relation - Datacenter Viby"
+},
+{
+    "coordinates": [
+        "49.671227,6.125205"
+    ],
+    "asn": 5577,
+    "city": "Steinsel",
+    "ipv4": "195.24.73.3",
+    "ipv6": "2a01:608:ffff:6262::211",
+    "hostname": "rootlu01.ring.nlnog.net",
+    "datacenter": null
+},
+{
+    "coordinates": [
+        "48.774881,2.380689"
+    ],
+    "asn": 12876,
+    "city": "Vitry-sur-Seine",
+    "ipv4": "62.210.156.8",
+    "ipv6": "2001:bc8:3::3",
+    "hostname": "onlinesas01.ring.nlnog.net",
+    "datacenter": "Iliad Datacenter DC3, Vitry-sur-Seine"
+},
+{
+    "coordinates": [
+        "33.733902,-84.425719"
+    ],
+    "asn": 63949,
+    "city": "Atlanta",
+    "ipv4": "50.116.41.174",
+    "ipv6": "2600:3c02::f03c:91ff:febb:8065",
+    "hostname": "linode06.ring.nlnog.net",
+    "datacenter": "zColo 1100 White St SW"
+},
+{
+    "coordinates": [
+        "38.9505921,-77.3646099"
+    ],
+    "asn": 3491,
+    "city": "",
+    "ipv4": "63.223.226.131",
+    "ipv6": "2400:8800:4200:0:250:56ff:fe9e:a28d",
+    "hostname": "pccw01.ring.nlnog.net",
+    "datacenter": "Coresite Reston"
+},
+{
+    "coordinates": [
+        "38.897575,-77.048053"
+    ],
+    "asn": 11039,
+    "city": "Washington",
+    "ipv4": "128.164.88.185",
+    "ipv6": "2606:69c0:5120:5285:385:1039:0:2f",
+    "hostname": "gwu01.ring.nlnog.net",
+    "datacenter": "SQ80"
+},
+{
+    "coordinates": [
+        "49.279285,7.107489"
+    ],
+    "asn": 196763,
+    "city": "Sankt Ingbert",
+    "ipv4": "109.234.105.30",
+    "ipv6": "2a00:18e0:0:dc:109:234:105:30",
+    "hostname": "skyway01.ring.nlnog.net",
+    "datacenter": null
+},
+{
+    "coordinates": [
+        "52.2821871,4.7728604"
+    ],
+    "asn": 49453,
+    "city": "",
+    "ipv4": "134.19.182.14",
+    "ipv6": "2a00:1678:da7a:247::2",
+    "hostname": "globallayer02.ring.nlnog.net",
+    "datacenter": "Maincubes"
+},
+{
+    "coordinates": [
+        "50.078030,14.475194"
+    ],
+    "asn": 206712,
+    "city": "Prague",
+    "ipv4": "185.174.170.115",
+    "ipv6": "2a0b:a901::b9ff:feae:aa73",
+    "hostname": "feldsam01.ring.nlnog.net",
+    "datacenter": "Coolhousing.net"
+},
+{
+    "coordinates": [
+        "46.536735,6.617799"
+    ],
+    "asn": 49457,
+    "city": "Lausanne",
+    "ipv4": "94.103.96.97",
+    "ipv6": "2a00:a500:0:93::97",
+    "hostname": "swisscenter01.ring.nlnog.net",
+    "datacenter": "World Trade Center, Lausanne"
+},
+{
+    "coordinates": [
+        "38.419232,-122.751613"
+    ],
+    "asn": 7065,
+    "city": "Santa Rosa",
+    "ipv4": "70.36.170.6",
+    "ipv6": "2001:5a8:201:4::2",
+    "hostname": "sonic01.ring.nlnog.net",
+    "datacenter": "Sonic data center @ 2260 Apollo Way Santa Rosa, CA 95407"
+},
+{
+    "coordinates": [
+        "51.501537,5.460406"
+    ],
+    "asn": 28878,
+    "city": "Son",
+    "ipv4": "81.21.136.3",
+    "ipv6": "2001:4cb8:1:ff03::2",
+    "hostname": "signet01.ring.nlnog.net",
+    "datacenter": null
+},
+{
+    "coordinates": [
+        "44.429187,26.079895"
+    ],
+    "asn": 8708,
+    "city": "Bucharest",
+    "ipv4": "82.76.255.222",
+    "ipv6": "2a02:2f0c:d000:26::2",
+    "hostname": "rcsrds01.ring.nlnog.net",
+    "datacenter": null
+},
+{
+    "coordinates": [
+        "40.743343,-74.00743"
+    ],
+    "asn": 54316,
+    "city": "New York",
+    "ipv4": "204.137.12.2",
+    "ipv6": "2602:fcad:2::2",
+    "hostname": "apgp01.ring.nlnog.net",
+    "datacenter": "Telehouse Chelsea / NYIIX"
+},
+{
+    "coordinates": [
+        "53.5496715,10.048239"
+    ],
+    "asn": 12731,
+    "city": "Hamburg",
+    "ipv4": "213.128.151.249",
+    "ipv6": "2001:868:100:4f10::1:1",
+    "hostname": "iphh01.ring.nlnog.net",
+    "datacenter": "IPHH HH2"
+},
+{
+    "coordinates": [
+        "55.662078,12.377353"
+    ],
+    "asn": 44869,
+    "city": "",
+    "ipv4": "80.71.82.106",
+    "ipv6": "2a02:17c0:14::2",
+    "hostname": "fibia01.ring.nlnog.net",
+    "datacenter": "Telia Telehouse Copenhagen"
+},
+{
+    "coordinates": [
+        "1.351141,103.862008"
+    ],
+    "asn": 24482,
+    "city": "Singapore",
+    "ipv4": "203.175.175.197",
+    "ipv6": "2405:4200:100:10::197",
+    "hostname": "sggs01.ring.nlnog.net",
+    "datacenter": "Epsilon Global Hub, Singapore"
+},
+{
+    "coordinates": [
+        "56.162938,10.203917"
+    ],
+    "asn": 3292,
+    "city": "Aarhus",
+    "ipv4": "193.162.154.27",
+    "ipv6": "2001:6c8:2:800::27",
+    "hostname": "tdc01.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "51.512431,-0.107398"
+    ],
+    "asn": 202053,
+    "city": "London",
+    "ipv4": "83.136.252.93",
+    "ipv6": "2a04:3541:1000:500:a8aa:aaff:fea0:6ffe",
+    "hostname": "upcloud03.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "1.358816,103.9891"
+    ],
+    "asn": 16509,
+    "city": "Singapore",
+    "ipv4": "52.76.214.87",
+    "ipv6": "2406:da18:df9:4d00::1:3",
+    "hostname": "amazon03.ring.nlnog.net",
+    "datacenter": null
+},
+{
+    "coordinates": [
+        "38.07609,23.68758"
+    ],
+    "asn": 51392,
+    "city": "   ",
+    "ipv4": "185.157.208.249",
+    "ipv6": "2a03:afe2:1001:2::249",
+    "hostname": "fusioned01.ring.nlnog.net",
+    "datacenter": "Synapsecom SNC-2"
+},
+{
+    "coordinates": [
+        "47.387639,8.519944"
+    ],
+    "asn": 8758,
+    "city": "Zurich",
+    "ipv4": "212.25.27.3",
+    "ipv6": "2001:8e0:40:318:0:abcd:dead:beef",
+    "hostname": "iway01.ring.nlnog.net",
+    "datacenter": null
+},
+{
+    "coordinates": [
+        "37.446123,-122.160769"
+    ],
+    "asn": 1280,
+    "city": "Palo Alto",
+    "ipv4": "149.20.3.18",
+    "ipv6": "2001:4f8:1:2000::18",
+    "hostname": "isc01.ring.nlnog.net",
+    "datacenter": "PAIX / Equinix Palo Alto"
+},
+{
+    "coordinates": [
+        "-1.3281445,36.8644586"
+    ],
+    "asn": 30844,
+    "city": "Nairobi",
+    "ipv4": "41.175.51.198",
+    "ipv6": "2c0f:f830:6:e:41:175:51:198",
+    "hostname": "liquidtelecom02.ring.nlnog.net",
+    "datacenter": "East Africa Data Center, Sameer Business Park, Mombasa Road, Nairobi"
+},
+{
+    "coordinates": [
+        "53.1668709,6.8646278"
+    ],
+    "asn": 208751,
+    "city": "Midden-Groningen",
+    "ipv4": "45.135.151.26",
+    "ipv6": "2a06:e881:6700::ff01",
+    "hostname": "mvix02.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "45.340570,-75.910400"
+    ],
+    "asn": 212934,
+    "city": "",
+    "ipv4": "23.130.139.81",
+    "ipv6": "2602:FCD3:1:1::11",
+    "hostname": "accuris01.ring.nlnog.net",
+    "datacenter": "Purecolo Kanata"
+},
+{
+    "coordinates": [
+        "47.4932438,19.1001388"
+    ],
+    "asn": 5483,
+    "city": "Budapest",
+    "ipv4": "84.2.32.215",
+    "ipv6": "2001:4c48:2:5:20c:29ff:fe98:e0ab",
+    "hostname": "telekomhu01.ring.nlnog.net",
+    "datacenter": "Dataplex"
+},
+{
+    "coordinates": [
+        "49.4486,11.0144"
+    ],
+    "asn": 42366,
+    "city": "Nurnberg",
+    "ipv4": "77.237.224.26",
+    "ipv6": "2a01:6f0:101:1a::1",
+    "hostname": "terratransit01.ring.nlnog.net",
+    "datacenter": "TTAG-NBG3"
+},
+{
+    "coordinates": [
+        "45.18882,5.73793"
+    ],
+    "asn": 51083,
+    "city": "Grenoble",
+    "ipv4": "91.216.110.61",
+    "ipv6": "2001:912:800:212::61",
+    "hostname": "grenode01.ring.nlnog.net",
+    "datacenter": "Cogent Communications, Inc., 33 rue Joseph Chanrion, 38000 Grenoble, France"
+},
+{
+    "coordinates": [
+        "38.788052658004794,-9.123791456222534"
+    ],
+    "asn": 8426,
+    "city": "Prior Velho",
+    "ipv4": "195.22.19.34",
+    "ipv6": "2001:4cc0:cafe:babe::2",
+    "hostname": "claranet04.ring.nlnog.net",
+    "datacenter": null
+},
+{
+    "coordinates": [
+        "47.5179647,19.0551729"
+    ],
+    "asn": 15566,
+    "city": "Budapest",
+    "ipv4": "62.77.130.253",
+    "ipv6": "2a02:2950:3:62:77:130:253:1",
+    "hostname": "infotechna01.ring.nlnog.net",
+    "datacenter": "BIX Budapest"
+},
+{
+    "coordinates": [
+        "52.520842,13.409416"
+    ],
+    "asn": 13058,
+    "city": "Berlin",
+    "ipv4": "192.108.73.88",
+    "ipv6": "2a0c:7286:2736::88",
+    "hostname": "servu01.ring.nlnog.net",
+    "datacenter": "Berlin TV-Tower at Alexanderplatz"
+},
+{
+    "coordinates": [
+        "51.97696,5.96947"
+    ],
+    "asn": 1140,
+    "city": "Arnhem",
+    "ipv4": "193.176.144.164",
+    "ipv6": "2a00:d78:0:fd:193:176:144:164",
+    "hostname": "sidn01.ring.nlnog.net",
+    "datacenter": null
+},
+{
+    "coordinates": [
+        "35.6895,139.6917"
+    ],
+    "asn": 2914,
+    "city": "",
+    "ipv4": "61.200.92.132",
+    "ipv6": "2001:218:200f:3::2",
+    "hostname": "ntt03.ring.nlnog.net",
+    "datacenter": "NTT"
+},
+{
+    "coordinates": [
+        "48.9052995,2.369793"
+    ],
+    "asn": 203596,
+    "city": "",
+    "ipv4": "185.122.101.168",
+    "ipv6": "2a06:a400:3::168",
+    "hostname": "celya01.ring.nlnog.net",
+    "datacenter": "Equinix PA2"
+},
+{
+    "coordinates": [
+        "52.34398,4.82871"
+    ],
+    "asn": 24785,
+    "city": "Amsterdam",
+    "ipv4": "213.207.9.61",
+    "ipv6": "2a02:10:0:1::90:10",
+    "hostname": "jointtransit01.ring.nlnog.net",
+    "datacenter": "Globalswitch"
+},
+{
+    "coordinates": [
+        "52.411433,16.917933"
+    ],
+    "asn": 9112,
+    "city": "Poznan",
+    "ipv4": "150.254.166.148",
+    "ipv6": "2001:808:2:3003::5",
+    "hostname": "poznan01.ring.nlnog.net",
+    "datacenter": null
+},
+{
+    "coordinates": [
+        "35.68949,139.69171"
+    ],
+    "asn": 2497,
+    "city": "",
+    "ipv4": "202.32.157.84",
+    "ipv6": "2001:240:10c:5:0:69:696a:3031",
+    "hostname": "iij01.ring.nlnog.net",
+    "datacenter": "Tokyo, Japan"
+},
+{
+    "coordinates": [
+        "49.410442,11.130490"
+    ],
+    "asn": 8319,
+    "city": "Nurnberg",
+    "ipv4": "212.218.193.200",
+    "ipv6": "2001:4cd8:4:193::200",
+    "hostname": "nethinks01.ring.nlnog.net",
+    "datacenter": "Noris Network, datacenter.de N\u00fcrnberg"
+},
+{
+    "coordinates": [
+        "50.09703,8.64531"
+    ],
+    "asn": 51862,
+    "city": "Frankfurt am Main",
+    "ipv4": "217.160.211.250",
+    "ipv6": "2a02:247a:8000::4",
+    "hostname": "ionos01.ring.nlnog.net",
+    "datacenter": "Equinix FR7"
+},
+{
+    "coordinates": [
+        "52.62588,4.77044"
+    ],
+    "asn": 51088,
+    "city": "Alkmaar",
+    "ipv4": "178.249.153.39",
+    "ipv6": "2a02:1668:a2b:1011::39",
+    "hostname": "a2binternet01.ring.nlnog.net",
+    "datacenter": null
+},
+{
+    "coordinates": [
+        "53.333145,-6.369291"
+    ],
+    "asn": 1213,
+    "city": "Dublin",
+    "ipv4": "193.1.33.23",
+    "ipv6": "2001:770:1c:7::c101:2117",
+    "hostname": "heanet01.ring.nlnog.net",
+    "datacenter": null
+},
+{
+    "coordinates": [
+        "43.644632,-79.384228"
+    ],
+    "asn": 393424,
+    "city": "Toronto",
+    "ipv4": "206.108.0.104",
+    "ipv6": "2602:fde5:1:63::d104",
+    "hostname": "torix01.ring.nlnog.net",
+    "datacenter": "151 Front Street West, Toronto"
+},
+{
+    "coordinates": [
+        "36.1667,-86.7833"
+    ],
+    "asn": 13649,
+    "city": "Nashville-Davidson",
+    "ipv4": "68.71.96.252",
+    "ipv6": "2607:f758:d040:0:250:56ff:fe92:544c",
+    "hostname": "flexential03.ring.nlnog.net",
+    "datacenter": "Flexential NAS02"
+},
+{
+    "coordinates": [
+        "45.522623,-73.520409"
+    ],
+    "asn": 1403,
+    "city": "",
+    "ipv4": "172.93.16.166",
+    "ipv6": "2606:6d00:eb0:800::2",
+    "hostname": "ebox03.ring.nlnog.net",
+    "datacenter": "Colo Rive-Sud"
+},
+{
+    "coordinates": [
+        "52.303941,4.939339"
+    ],
+    "asn": 57866,
+    "city": "",
+    "ipv4": "185.52.236.36",
+    "ipv6": "2a00:a7c0:1000:1304::1304",
+    "hostname": "fusix01.ring.nlnog.net",
+    "datacenter": "Switch Datacenters AMS1"
+},
+{
+    "coordinates": [
+        "60.48745,22.28787"
+    ],
+    "asn": 211722,
+    "city": "Turku",
+    "ipv4": "192.26.105.218",
+    "ipv6": "2001:67c:2970:f02::f02",
+    "hostname": "nullroute01.ring.nlnog.net",
+    "datacenter": "DTNET Turku"
+},
+{
+    "coordinates": [
+        "52.526231,5.437893"
+    ],
+    "asn": 213268,
+    "city": "Lelystad",
+    "ipv4": "103.219.152.35",
+    "ipv6": "2a09:3c00:1::35",
+    "hostname": "cloudws01.ring.nlnog.net",
+    "datacenter": "Cellnex Lelystad"
+},
+{
+    "coordinates": [
+        "22.36187,114.13502"
+    ],
+    "asn": 36236,
+    "city": "Hong Kong",
+    "ipv4": "103.6.84.107",
+    "ipv6": "2403:2500:8000:1::62e",
+    "hostname": "hostvirtual02.ring.nlnog.net",
+    "datacenter": "NTT HKnet Kwai Chung, Hong Kong"
+},
+{
+    "coordinates": [
+        "52.090767,5.112371"
+    ],
+    "asn": 1103,
+    "city": "Utrecht",
+    "ipv4": "192.42.123.22",
+    "ipv6": "2001:678:230:2123:192:42:123:22",
+    "hostname": "surfnet01.ring.nlnog.net",
+    "datacenter": null
+},
+{
+    "coordinates": [
+        "55.662103,12.301349"
+    ],
+    "asn": 42525,
+    "city": "Taastrup",
+    "ipv4": "212.98.93.10",
+    "ipv6": "2a01:7e8:1:800::1b2",
+    "hostname": "globalconnect01.ring.nlnog.net",
+    "datacenter": "Horskaetten 3, 2630 Taastrup, Denmark"
+},
+{
+    "coordinates": [
+        "42.860562,13.5774698"
+    ],
+    "asn": 59715,
+    "city": "",
+    "ipv4": "185.5.202.122",
+    "ipv6": "2a02:cdc5:9715:a000:185:5:202:122",
+    "hostname": "sbtap02.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "40.7778197,-74.077003"
+    ],
+    "asn": 48328,
+    "city": "",
+    "ipv4": "207.126.136.113",
+    "ipv6": "2a02:7b02:2fff::3",
+    "hostname": "retarus03.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "59.29073752515552,18.017841247938037"
+    ],
+    "asn": 47869,
+    "city": "Stockholm",
+    "ipv4": "94.185.81.36",
+    "ipv6": "2a00:dd0:ffff:2::3ed3:791d",
+    "hostname": "netrouting04.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "49.0976,12.4869"
+    ],
+    "asn": 207960,
+    "city": "Volling",
+    "ipv4": "45.129.95.6",
+    "ipv6": "2a0e:1cc1:0:5::4",
+    "hostname": "as207960net01.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "46.524409,6.603133"
+    ],
+    "asn": 2613,
+    "city": "",
+    "ipv4": "193.135.150.59",
+    "ipv6": "2001:678:298:2000::59",
+    "hostname": "vangulik01.ring.nlnog.net",
+    "datacenter": "Saitis Networks - Provence"
+},
+{
+    "coordinates": [
+        "45.8344971,-119.7078152"
+    ],
+    "asn": 16509,
+    "city": "Boardman",
+    "ipv4": "52.10.159.54",
+    "ipv6": "2600:1f14:f57:e200::5",
+    "hostname": "amazon05.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "39.13733,-94.57780"
+    ],
+    "asn": 1003,
+    "city": "",
+    "ipv4": null,
+    "ipv6": "2602:fc26:12:2::3",
+    "hostname": "andrewnet01.ring.nlnog.net",
+    "datacenter": "1530 Swift Street, North Kansas City, MO, 64116"
+},
+{
+    "coordinates": [
+        "30.066019,-95.45905"
+    ],
+    "asn": 16970,
+    "city": "Old Town Spring",
+    "ipv4": "64.40.23.206",
+    "ipv6": "2602:800:1000:100::ce",
+    "hostname": "midnet01.ring.nlnog.net",
+    "datacenter": "TRG Datacenters"
+},
+{
+    "coordinates": [
+        "37.471702,-121.919776"
+    ],
+    "asn": 206628,
+    "city": "Fremont",
+    "ipv4": "134.195.121.46",
+    "ipv6": "2602:fd50:20:babe::",
+    "hostname": "ericnet01.ring.nlnog.net",
+    "datacenter": "Hurricane Electric Fremont 2"
+},
+{
+    "coordinates": [
+        "59.422471,17.918073"
+    ],
+    "asn": 42695,
+    "city": "",
+    "ipv4": "185.2.152.103",
+    "ipv6": "2a03:b000:202:5::103",
+    "hostname": "citynetwork02.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "-33.918198,151.1893"
+    ],
+    "asn": 202053,
+    "city": "Sydney",
+    "ipv4": "95.111.216.171",
+    "ipv6": "2a04:3546:8000:1000:d42a:dcff:fe53:5a6e",
+    "hostname": "upcloud10.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "59.1720854,10.20663"
+    ],
+    "asn": 56655,
+    "city": "",
+    "ipv4": "193.200.238.41",
+    "ipv6": "2a03:94e0:ffff:193:200:238::41",
+    "hostname": "terrahost01.ring.nlnog.net",
+    "datacenter": "Terrahost K10"
+},
+{
+    "coordinates": [
+        "43.651154,-79.361791"
+    ],
+    "asn": 63949,
+    "city": "Toronto",
+    "ipv4": "172.105.15.136",
+    "ipv6": "2600:3c04::f03c:91ff:fe58:25b5",
+    "hostname": "linode09.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "39.037339,-77.480542"
+    ],
+    "asn": 54825,
+    "city": "",
+    "ipv4": "145.40.89.71",
+    "ipv6": "2604:1380:45f1:2200::7",
+    "hostname": "eqxmetal01.ring.nlnog.net",
+    "datacenter": "Equinix DC13"
+},
+{
+    "coordinates": [
+        "52.332794,4.919612"
+    ],
+    "asn": 34012,
+    "city": "Amsterdam",
+    "ipv4": "217.195.114.152",
+    "ipv6": "2a03:5500:1:2:217:195:114:152",
+    "hostname": "vellance01.ring.nlnog.net",
+    "datacenter": "euNetworks"
+},
+{
+    "coordinates": [
+        "19.114242,72.893027"
+    ],
+    "asn": 63949,
+    "city": "Mumbai",
+    "ipv4": "172.105.42.29",
+    "ipv6": "2400:8904::f03c:91ff:fe58:25f5",
+    "hostname": "linode10.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "48.1929976,16.351240"
+    ],
+    "asn": 212567,
+    "city": "Wien",
+    "ipv4": "5.1.66.6",
+    "ipv6": "2001:678:e68:ff00::6",
+    "hostname": "freifunkm01.ring.nlnog.net",
+    "datacenter": "Datasix Vienna"
+},
+{
+    "coordinates": [
+        "-23.601489,-46.6968907"
+    ],
+    "asn": 22548,
+    "city": "S\u00e3o Paulo",
+    "ipv4": "200.160.6.171",
+    "ipv6": "2001:12ff:0:6172::171",
+    "hostname": "nicbr01.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "52.53998,5.702248"
+    ],
+    "asn": 12414,
+    "city": "Dronten",
+    "ipv4": "212.45.52.2",
+    "ipv6": "2001:9e0:400:53:212:45:52:2",
+    "hostname": "solcon01.ring.nlnog.net",
+    "datacenter": null
+},
+{
+    "coordinates": [
+        "55.728542,12.376454"
+    ],
+    "asn": 12617,
+    "city": "",
+    "ipv4": "109.238.49.65",
+    "ipv6": "2a02:9d0:3023:1::2",
+    "hostname": "sentia03.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "59.391339,17.875982"
+    ],
+    "asn": 48579,
+    "city": "Stockholm",
+    "ipv4": "217.61.244.212",
+    "ipv6": "2a07:2180::217:61:244:212",
+    "hostname": "elastx02.ring.nlnog.net",
+    "datacenter": "Equinix SK3"
+},
+{
+    "coordinates": [
+        "51.46214,-1.00757"
+    ],
+    "asn": 34442,
+    "city": "Reading",
+    "ipv4": "77.246.27.26",
+    "ipv6": "2a00:1990:2727::2726",
+    "hostname": "amatis01.ring.nlnog.net",
+    "datacenter": "amatis Networks Reading"
+},
+{
+    "coordinates": [
+        "59.907565,30.261185"
+    ],
+    "asn": 51093,
+    "city": "-",
+    "ipv4": "185.108.16.206",
+    "ipv6": "2a06:0300:B:B::2",
+    "hostname": "vmcity01.ring.nlnog.net",
+    "datacenter": "Filanco DC"
+},
+{
+    "coordinates": [
+        "52.22694,21.00164"
+    ],
+    "asn": 49895,
+    "city": "Warsaw",
+    "ipv4": "213.5.10.55",
+    "ipv6": "2a00:e800:10::55",
+    "hostname": "dcenterpl01.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "44.999817,-93.271956"
+    ],
+    "asn": 25720,
+    "city": "Minneapolis",
+    "ipv4": "204.246.114.130",
+    "ipv6": "2607:4700:c128:356::130",
+    "hostname": "honeycomb01.ring.nlnog.net",
+    "datacenter": "Honeycomb - Minneapolis, MN, USA"
+},
+{
+    "coordinates": [
+        "52.3564,4.9512"
+    ],
+    "asn": 45009,
+    "city": "Amsterdam",
+    "ipv4": "45.150.40.179",
+    "ipv6": "2a0f:9200:0:4000::179",
+    "hostname": "bytepark01.ring.nlnog.net",
+    "datacenter": "NIKHEF"
+},
+{
+    "coordinates": [
+        "37.8768,-122.2527"
+    ],
+    "asn": 16,
+    "city": "Berkeley",
+    "ipv4": "128.3.121.244",
+    "ipv6": "2620:83:8000:105::a",
+    "hostname": "lbl01.ring.nlnog.net",
+    "datacenter": "1 Cyclotron Way, Berkeley, CA"
+},
+{
+    "coordinates": [
+        "59.421969,17.917702"
+    ],
+    "asn": 48579,
+    "city": "",
+    "ipv4": "212.237.146.133",
+    "ipv6": "2a07:2180:0:6:212:237:146:133",
+    "hostname": "elastx03.ring.nlnog.net",
+    "datacenter": "Interxion STO5"
+},
+{
+    "coordinates": [
+        "51.5,-0.126"
+    ],
+    "asn": 16276,
+    "city": "London",
+    "ipv4": "51.77.110.247",
+    "ipv6": "2001:41d0:801:1000::d3",
+    "hostname": "ovh08.ring.nlnog.net",
+    "datacenter": "London - UK1"
+},
+{
+    "coordinates": [
+        "43.638090,-79.425509"
+    ],
+    "asn": 21949,
+    "city": "Toronto",
+    "ipv4": "66.207.196.130",
+    "ipv6": "2607:F0C8:1:1::1",
+    "hostname": "beanfield01.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "50.875425,4.499401"
+    ],
+    "asn": 50156,
+    "city": "Zaventem",
+    "ipv4": "195.200.224.123",
+    "ipv6": "2001:67c:344:1010:5054:ff:feca:6f60",
+    "hostname": "boxed-it01.ring.nlnog.net",
+    "datacenter": "Unix-Solutions Datacenter"
+},
+{
+    "coordinates": [
+        "48.192978,16.353436"
+    ],
+    "asn": 42473,
+    "city": "Wien",
+    "ipv4": "37.252.235.214",
+    "ipv6": "2a00:11c0:d:5:37:252:235:214",
+    "hostname": "anexia01.ring.nlnog.net",
+    "datacenter": "DATASIX, Vienna"
+},
+{
+    "coordinates": [
+        "43.4879,-79.71955"
+    ],
+    "asn": 54041,
+    "city": "Oakville",
+    "ipv4": null,
+    "ipv6": "2602:faf5:0:1:3681:e1ff:fe97:1b4b",
+    "hostname": "ewpratten01.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "52.200527,6.0251531"
+    ],
+    "asn": 5524,
+    "city": "Apeldoorn",
+    "ipv4": "31.3.8.51",
+    "ipv6": "2a03:4f00:20:0:250:56ff:fe01:57",
+    "hostname": "breedbandnl01.ring.nlnog.net",
+    "datacenter": "ITB2 Apeldoorn"
+},
+{
+    "coordinates": [
+        "35.622869,139.747979"
+    ],
+    "asn": 63949,
+    "city": "Shinagawa",
+    "ipv4": "139.162.106.78",
+    "ipv6": "2400:8902::f03c:91ff:feac:60af",
+    "hostname": "linode08.ring.nlnog.net",
+    "datacenter": "Equinix TY7"
+},
+{
+    "coordinates": [
+        "-26.1379478,28.1958262"
+    ],
+    "asn": 2635,
+    "city": "Germiston",
+    "ipv4": "45.121.183.100",
+    "ipv6": "2403:6b80:ffff:0000:0000:0000:2d79:b764",
+    "hostname": "automattic01.ring.nlnog.net",
+    "datacenter": "Teraco Johannesburg JB1"
+},
+{
+    "coordinates": [
+        "52.465530,13.368666"
+    ],
+    "asn": 31078,
+    "city": "Berlin",
+    "ipv4": "217.115.1.67",
+    "ipv6": "2a00:1328:e000:456::67",
+    "hostname": "netsign01.ring.nlnog.net",
+    "datacenter": null
+},
+{
+    "coordinates": [
+        "60.218018,24.879240"
+    ],
+    "asn": 29422,
+    "city": "Helsinki",
+    "ipv4": "188.117.58.137",
+    "ipv6": "2001:1bc8:200:f::2",
+    "hostname": "nebula01.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "51.923030,4.431590"
+    ],
+    "asn": 49544,
+    "city": "Rotterdam",
+    "ipv4": "31.204.150.13",
+    "ipv6": "2a00:1630:2:1c08::1",
+    "hostname": "i3d01.ring.nlnog.net",
+    "datacenter": "Smartdc, Rotterdam, Netherlands"
+},
+{
+    "coordinates": [
+        "51.686672,5.359043"
+    ],
+    "asn": 9150,
+    "city": "'s-Hertogenbosch",
+    "ipv4": "212.83.212.122",
+    "ipv6": "2001:4018:1000:b::2",
+    "hostname": "interconnect01.ring.nlnog.net",
+    "datacenter": null
+},
+{
+    "coordinates": [
+        "51.2796973,0.5490267"
+    ],
+    "asn": 50300,
+    "city": "Maidstone",
+    "ipv4": "109.74.240.242",
+    "ipv6": "2a00:1c10:0:1002::242",
+    "hostname": "custodian01.ring.nlnog.net",
+    "datacenter": "Custodian Datacentres (CDC)"
+},
+{
+    "coordinates": [
+        "52.391090,4.665314"
+    ],
+    "asn": 196752,
+    "city": "Haarlem",
+    "ipv4": "46.19.36.12",
+    "ipv6": "2a02:2770::21a:4aff:feac:4576",
+    "hostname": "tilaa01.ring.nlnog.net",
+    "datacenter": null
+},
+{
+    "coordinates": [
+        "52.3332,4.9192883"
+    ],
+    "asn": 59760,
+    "city": "Amsterdam",
+    "ipv4": "87.237.165.30",
+    "ipv6": "2a0e:a6c1:0:2100:87:237:165:30",
+    "hostname": "mlab01.ring.nlnog.net",
+    "datacenter": "EU-Networks"
+},
+{
+    "coordinates": [
+        "56.069733,9.992248"
+    ],
+    "asn": 31027,
+    "city": "Hrning",
+    "ipv4": "87.116.6.32",
+    "ipv6": "2a02:188:2:d6::32",
+    "hostname": "globalconnect02.ring.nlnog.net",
+    "datacenter": "Nianet Skanderborg"
+},
+{
+    "coordinates": [
+        "49.001023927,8.385116458"
+    ],
+    "asn": 202329,
+    "city": "Karlsruhe",
+    "ipv4": "185.65.241.51",
+    "ipv6": "2001:678:6e0:1006::f",
+    "hostname": "freifunkkr01.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "47.6143459,-122.3407"
+    ],
+    "asn": 13331,
+    "city": "Seattle",
+    "ipv4": "204.15.11.33",
+    "ipv6": "2620:11c:5001:1099::33",
+    "hostname": "metapeer01.ring.nlnog.net",
+    "datacenter": "Lunavi"
+},
+{
+    "coordinates": [
+        "12.843064,77.656476"
+    ],
+    "asn": 14061,
+    "city": "Bengaluru",
+    "ipv4": "139.59.43.142",
+    "ipv6": "2400:6180:100:d0::cf4:b001",
+    "hostname": "digitalocean05.ring.nlnog.net",
+    "datacenter": "NetMagic Bangalore"
+},
+{
+    "coordinates": [
+        "44.8509862,-93.6008136"
+    ],
+    "asn": 3599,
+    "city": "Chaska",
+    "ipv4": "64.73.64.140",
+    "ipv6": "2607:FEE0:2001:d::10",
+    "hostname": "cdw03.ring.nlnog.net",
+    "datacenter": "Flexential MSP1"
+},
+{
+    "coordinates": [
+        "47.6933420,8.6294460"
+    ],
+    "asn": 35518,
+    "city": "Schaffhausen",
+    "ipv4": "88.213.188.38",
+    "ipv6": "2a00:d80:1520:2151::38",
+    "hostname": "sasag01.ring.nlnog.net",
+    "datacenter": "DC"
+},
+{
+    "coordinates": [
+        "48.815068,2.403053"
+    ],
+    "asn": 34019,
+    "city": "Ivry-sur-Seine",
+    "ipv4": "193.106.119.59",
+    "ipv6": "2001:67c:1740:9008::59",
+    "hostname": "hivane01.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "45.4988753,-73.5666958"
+    ],
+    "asn": 40470,
+    "city": "Montreal",
+    "ipv4": "205.173.255.242",
+    "ipv6": "2607:4480:2:1:205:173:255:242",
+    "hostname": "protectedca01.ring.nlnog.net",
+    "datacenter": "MetroOptic Data Center, 875 Rue Saint-Antoine O, Montreal QC, Canada, H3C 1A6"
+},
+{
+    "coordinates": [
+        "51.5114035,-0.0036667"
+    ],
+    "asn": 2914,
+    "city": "",
+    "ipv4": "5.158.213.65",
+    "ipv6": "2001:728:0:5000::1533",
+    "hostname": "ntt02.ring.nlnog.net",
+    "datacenter": "NTT"
+},
+{
+    "coordinates": [
+        "51.0294412,3.6875606"
+    ],
+    "asn": 34762,
+    "city": "Gent",
+    "ipv4": "2.59.64.36",
+    "ipv6": "2a09:e940:0:1000:0020:5906:4036:1",
+    "hostname": "xplose01.ring.nlnog.net",
+    "datacenter": "Datacenter Gent"
+},
+{
+    "coordinates": [
+        "48.745500,9.1037"
+    ],
+    "asn": 553,
+    "city": "Stuttgart",
+    "ipv4": "129.143.77.1",
+    "ipv6": "2001:7c0:0:77::1",
+    "hostname": "belwue01.ring.nlnog.net",
+    "datacenter": null
+},
+{
+    "coordinates": [
+        "45.457080,-73.841200"
+    ],
+    "asn": 33185,
+    "city": "",
+    "ipv4": "170.39.197.44",
+    "ipv6": "2602:fd23:0:11::44",
+    "hostname": "hivedc01.ring.nlnog.net",
+    "datacenter": "Vantage QC42"
+},
+{
+    "coordinates": [
+        "59.359621,17.980499"
+    ],
+    "asn": 3399,
+    "city": "Solna",
+    "ipv4": "46.227.66.10",
+    "ipv6": "2A03:8600:0:132::2",
+    "hostname": "obenetwork01.ring.nlnog.net",
+    "datacenter": null
+},
+{
+    "coordinates": [
+        "53.706308,9.994200"
+    ],
+    "asn": 15943,
+    "city": "",
+    "ipv4": "213.209.102.95",
+    "ipv6": "2a02:2028:d000::9",
+    "hostname": "wilhelmtel01.ring.nlnog.net",
+    "datacenter": "Norderstedt, Schleswig-Holstein, Germany"
+},
+{
+    "coordinates": [
+        "37.471829,-121.9202"
+    ],
+    "asn": 34553,
+    "city": "Fremont",
+    "ipv4": "23.141.112.9",
+    "ipv6": "2602:809:3009::9",
+    "hostname": "natesales01.ring.nlnog.net",
+    "datacenter": "Hurricane Electric FMT2"
+},
+{
+    "coordinates": [
+        "52.465779,13.369905"
+    ],
+    "asn": 50472,
+    "city": "Berlin",
+    "ipv4": "195.54.164.109",
+    "ipv6": "2001:67c:20a0:13::109",
+    "hostname": "c3noc01.ring.nlnog.net",
+    "datacenter": "Speedbone (https://www.peeringdb.com/fac/155)"
+},
+{
+    "coordinates": [
+        "43.680131,-79.588882"
+    ],
+    "asn": 13851,
+    "city": "Toronto",
+    "ipv4": "74.118.39.82",
+    "ipv6": "2607:c180::1",
+    "hostname": "7lnetworks01.ring.nlnog.net",
+    "datacenter": "7L Networks Inc"
+},
+{
+    "coordinates": [
+        "59.347910,18.038740"
+    ],
+    "asn": 8473,
+    "city": "Stockholm",
+    "ipv4": "98.128.171.68",
+    "ipv6": "2001:9b0:fff5:6::4",
+    "hostname": "bahnhof01.ring.nlnog.net",
+    "datacenter": "ST:ERIK"
+},
+{
+    "coordinates": [
+        "51.333773,12.364357"
+    ],
+    "asn": 58243,
+    "city": "Leipzig",
+    "ipv4": "5.61.190.124",
+    "ipv6": "2a01:5240:2::124",
+    "hostname": "teleag01.ring.nlnog.net",
+    "datacenter": "HL komm ZNK"
+},
+{
+    "coordinates": [
+        "52.67917,-2.41528"
+    ],
+    "asn": 8468,
+    "city": "Telford",
+    "ipv4": "78.33.35.246",
+    "ipv6": "2001:4d48:face:e::2",
+    "hostname": "entanet01.ring.nlnog.net",
+    "datacenter": "Entanet International Ltd, Stafford Park 6Telford, Shropshire TF3 3AT, United Kingdom"
+},
+{
+    "coordinates": [
+        "38.950668,-77.364517"
+    ],
+    "asn": 57695,
+    "city": "",
+    "ipv4": "45.142.247.147",
+    "ipv6": "2a0e:6902:2002:14c:5054:ff:fe68:df5c",
+    "hostname": "misaka02.ring.nlnog.net",
+    "datacenter": "CoreSite VA1"
+},
+{
+    "coordinates": [
+        "46.16554,14.30661"
+    ],
+    "asn": 198644,
+    "city": null,
+    "ipv4": "91.239.97.26",
+    "ipv6": "2001:67c:27e4:15::26",
+    "hostname": "go6lab01.ring.nlnog.net",
+    "datacenter": null
+},
+{
+    "coordinates": [
+        "49.2436891,-122.9695433"
+    ],
+    "asn": 19171,
+    "city": "Burnaby",
+    "ipv4": "98.143.95.34",
+    "ipv6": "2607:4100:0000:0200::2",
+    "hostname": "stargate01.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "50.436046,30.500155"
+    ],
+    "asn": 50581,
+    "city": "Kiev",
+    "ipv4": "176.122.99.75",
+    "ipv6": "2001:67c:2d40::4b",
+    "hostname": "utelecom01.ring.nlnog.net",
+    "datacenter": "NewTelco Ukraine"
+},
+{
+    "coordinates": [
+        "40.1131082,-88.2265234"
+    ],
+    "asn": 40387,
+    "city": "Urbana",
+    "ipv4": "72.36.126.205",
+    "ipv6": "2620:0:e10:400a::5",
+    "hostname": "iccn01.ring.nlnog.net",
+    "datacenter": "Digital Computer Laboratory, 1304 Springfield Ave, Urbana, IL 61801, United States"
+},
+{
+    "coordinates": [
+        "52.343983,4.828710"
+    ],
+    "asn": 25151,
+    "city": "Amsterdam",
+    "ipv4": "93.94.224.87",
+    "ipv6": "2a01:518:1:58:2::2",
+    "hostname": "cyso01.ring.nlnog.net",
+    "datacenter": null
+},
+{
+    "coordinates": [
+        "52.393104,4.8493927"
+    ],
+    "asn": 8283,
+    "city": "Amsterdam",
+    "ipv4": "94.142.247.64",
+    "ipv6": "2a02:898:0:201::2",
+    "hostname": "coloclue01.ring.nlnog.net",
+    "datacenter": "DCG"
+},
+{
+    "coordinates": [
+        "52.189965,20.920738"
+    ],
+    "asn": 202053,
+    "city": "Warszawa",
+    "ipv4": "185.70.197.76",
+    "ipv6": "2a04:3544:8000:1000:d42a:dcff:fe53:763f",
+    "hostname": "upcloud11.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "43.602910,6.970141"
+    ],
+    "asn": 200435,
+    "city": "",
+    "ipv4": "185.63.175.128",
+    "ipv6": "2a04:f600:4454:48:8000:1856:3175:128",
+    "hostname": "titandc01.ring.nlnog.net",
+    "datacenter": "Titan Datacenter DC1"
+},
+{
+    "coordinates": [
+        "49.579569,6.109962"
+    ],
+    "asn": 199524,
+    "city": "Luxembourg",
+    "ipv4": "92.223.105.92",
+    "ipv6": "2a03:90c0:83:2908::95",
+    "hostname": "gcore01.ring.nlnog.net",
+    "datacenter": "European Data Hub S.A."
+},
+{
+    "coordinates": [
+        "43.310226,5.373356"
+    ],
+    "asn": 30781,
+    "city": "Marseille",
+    "ipv4": "85.31.196.24",
+    "ipv6": "2a01:240:101::24",
+    "hostname": "jaguarnetwork01.ring.nlnog.net",
+    "datacenter": null
+},
+{
+    "coordinates": [
+        "-23.54894,-46.63882"
+    ],
+    "asn": 16509,
+    "city": null,
+    "ipv4": "18.231.44.45",
+    "ipv6": "2600:1f1e:d87:9300::7",
+    "hostname": "amazon07.ring.nlnog.net",
+    "datacenter": "54.232.107.5"
+},
+{
+    "coordinates": [
+        "45.7867243,16.028345100000024"
+    ],
+    "asn": 198785,
+    "city": "Zagreb",
+    "ipv4": "185.98.14.190",
+    "ipv6": "2a04:a7c0:a001:dc01::b962:ebe",
+    "hostname": "sedmiodjel01.ring.nlnog.net",
+    "datacenter": "Databox"
+},
+{
+    "coordinates": [
+        "32.791539,-96.815154"
+    ],
+    "asn": 63949,
+    "city": "Dallas",
+    "ipv4": "104.200.18.129",
+    "ipv6": "2600:3c00::f03c:91ff:febb:803b",
+    "hostname": "linode04.ring.nlnog.net",
+    "datacenter": "Softlayer DAL06"
+},
+{
+    "coordinates": [
+        "45.360123,28.828377"
+    ],
+    "asn": 205365,
+    "city": "",
+    "ipv4": "195.191.81.31",
+    "ipv6": "2a00:1908:fffc:ffff:ffff:b33f:f00d:b4b3",
+    "hostname": "fetzer01.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "51.267277,6.817657"
+    ],
+    "asn": 24961,
+    "city": "",
+    "ipv4": "62.141.35.164",
+    "ipv6": "2001:4ba0:1337:1::2",
+    "hostname": "myloc01.ring.nlnog.net",
+    "datacenter": "myLoc managed IT AG DUS1"
+},
+{
+    "coordinates": [
+        "52.001417,4.210808"
+    ],
+    "asn": 49981,
+    "city": "Westland",
+    "ipv4": "212.8.252.107",
+    "ipv6": "2a00:7c80:0:dd::107",
+    "hostname": "worldstream01.ring.nlnog.net",
+    "datacenter": "Greenhouse Datacenters NLDW3"
+},
+{
+    "coordinates": [
+        "37.4847,-5.93039"
+    ],
+    "asn": 39020,
+    "city": "",
+    "ipv4": "93.93.68.99",
+    "ipv6": "2a00:1d70:1::68:69",
+    "hostname": "comvive01.ring.nlnog.net",
+    "datacenter": "Comvive Datacenter"
+},
+{
+    "coordinates": [
+        "55.5123951,9.5047194"
+    ],
+    "asn": 39642,
+    "city": "Kolding",
+    "ipv4": "212.10.11.214",
+    "ipv6": "2a03:7400:2205:1::d6",
+    "hostname": "norlys01.ring.nlnog.net",
+    "datacenter": "Norlys Datacenter, Kolding"
+},
+{
+    "coordinates": [
+        "48.32839,11.74318"
+    ],
+    "asn": 197164,
+    "city": "Hallbergmoos",
+    "ipv4": "192.162.230.35",
+    "ipv6": "2001:67c:2274:4021::101",
+    "hostname": "isarnet01.ring.nlnog.net",
+    "datacenter": null
+},
+{
+    "coordinates": [
+        "41.351884,2.13707"
+    ],
+    "asn": 8426,
+    "city": "Barcelona",
+    "ipv4": "92.54.7.29",
+    "ipv6": "2a02:a0:1:1::9",
+    "hostname": "claranet06.ring.nlnog.net",
+    "datacenter": "Carrer l'Acer, 32, 08038 Barcelona, Spain"
+},
+{
+    "coordinates": [
+        "50.0734344,19.9132153"
+    ],
+    "asn": 49102,
+    "city": "Krakow",
+    "ipv4": "93.159.158.251",
+    "ipv6": "2a00:1578:cafe::666",
+    "hostname": "connectedpl01.ring.nlnog.net",
+    "datacenter": "As Connected Sp. z o. o. We have own datacenter located in Biprostal building, flor -1."
+},
+{
+    "coordinates": [
+        "37.8752777778,-122.253055556"
+    ],
+    "asn": 293,
+    "city": "Berkeley",
+    "ipv4": "198.129.33.90",
+    "ipv6": "2001:400:201:8000::2",
+    "hostname": "es01.ring.nlnog.net",
+    "datacenter": "ESNet"
+},
+{
+    "coordinates": [
+        "51.511122,-0.003533"
+    ],
+    "asn": 35266,
+    "city": "London",
+    "ipv4": "46.30.8.23",
+    "ipv6": "2a01:b000:5:1::a",
+    "hostname": "exnetworks01.ring.nlnog.net",
+    "datacenter": "Global Switch 2"
+},
+{
+    "coordinates": [
+        "-33.918198,151.1893"
+    ],
+    "asn": 45671,
+    "city": "Sydney",
+    "ipv4": "117.120.13.125",
+    "ipv6": "2400:8100:ffff:0:117:120:13:125",
+    "hostname": "serversaustralia01.ring.nlnog.net",
+    "datacenter": "Equinix SY1"
+},
+{
+    "coordinates": [
+        "-29.779300,30.992610"
+    ],
+    "asn": 32437,
+    "city": "Newlands East",
+    "ipv4": "41.223.244.135",
+    "ipv6": "2c0f:f178:ffff:ffff::2",
+    "hostname": "thusa01.ring.nlnog.net",
+    "datacenter": "Teraco DB1"
+},
+{
+    "coordinates": [
+        "44.046106,-123.070386"
+    ],
+    "asn": 3701,
+    "city": "Eugene",
+    "ipv4": "207.98.65.50",
+    "ipv6": "2605:bc80:0:2::50",
+    "hostname": "nero01.ring.nlnog.net",
+    "datacenter": "Eugene, OR, USA"
+},
+{
+    "coordinates": [
+        "51.51138,-0.00180"
+    ],
+    "asn": 47474,
+    "city": "London",
+    "ipv4": "128.127.31.126",
+    "ipv6": "2a01:a000:0:5::10",
+    "hostname": "virtualone01.ring.nlnog.net",
+    "datacenter": "Telehouse"
+},
+{
+    "coordinates": [
+        "41.387549,2.111557"
+    ],
+    "asn": 13041,
+    "city": "Barcelona",
+    "ipv4": "84.88.14.229",
+    "ipv6": "2001:40B0:1:1122:CE5C:A007:0:2",
+    "hostname": "csuc01.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "59.341984,18.062366"
+    ],
+    "asn": 2603,
+    "city": "Stockholm",
+    "ipv4": "109.105.111.80",
+    "ipv6": "2001:948:4:6::80",
+    "hostname": "nordunet01.ring.nlnog.net",
+    "datacenter": ""
+},
+{
+    "coordinates": [
+        "46.07583,14.484447"
+    ],
+    "asn": 8038,
+    "city": "Ljubljana",
+    "ipv4": "67.221.244.126",
+    "ipv6": "2607:fae0:a000:5::126",
+    "hostname": "6connect01.ring.nlnog.net",
+    "datacenter": "Xenya Ljubljana"
+},
+{
+    "coordinates": [
+        "59.2635269,18.105685799999947"
+    ],
+    "asn": 48579,
+    "city": "Stockholm",
+    "ipv4": "217.61.244.211",
+    "ipv6": "2a07:2180::217:61:244:211",
+    "hostname": "elastx01.ring.nlnog.net",
+    "datacenter": "Equinix SK2"
+}]

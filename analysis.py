@@ -6,10 +6,9 @@ import scipy.constants as constant
 from myripe import RIPEAtlasClient
 from ripe.atlas.cousteau import AtlasResultsRequest
 
-
 ra_c = RIPEAtlasClient() 
 
-def get_loc(results):
+def get_loc(addr, results):
     measurements = list() 
 
     for msm in results:
@@ -23,7 +22,8 @@ def get_loc(results):
     measurements = sorted(measurements, key=lambda x:x['avg'])
     
     if len(measurements) == 0:
-        return -1, -1, -1
+        print(f'{addr} is un-pingable...')
+        return 'NAN', 'NAN', 'NAN', 'NAN', 'NAN'
 
     lowest_rtt = measurements[0]['avg'] / 2 / 1000
     l_pid = measurements[0]['prb_id']
@@ -38,7 +38,7 @@ def get_loc(results):
     c_code = response.json()['locations'][0]['countryCodeAlpha2']
     country = response.json()['locations'][0]['countryName']
 
-    return city, c_code, country
+    return city, c_code, country, p_lon, p_lat
 
 
 
@@ -55,11 +55,10 @@ if __name__ == '__main__':
                     print(f'VALUEERROR: {line}')
 
                 if m_id: 
-                    kwargs = { "msm_id": m_id }
-                    is_success, results = AtlasResultsRequest(**kwargs).create()
-                    city, c_code, country = get_loc(results)
-                    ff.write(f'{addr},{city},{c_code},{country},{m_id}\n')
+                    is_success, results = AtlasResultsRequest(msm_id=m_id).create()
+                    city, c_code, country, p_lon, p_lat = get_loc(addr, results)
+                    ff.write(f'{addr},{city},{c_code},{country},{p_lon},{p_lat},{m_id}\n')
                 else:
-                    ff.write(f'{addr},NAN,NAN,NAN,{m_id}\n')
+                    continue
     ff.close()
 

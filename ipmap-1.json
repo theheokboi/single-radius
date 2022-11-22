@@ -1,0 +1,5436 @@
+{
+    "130.89.6.17": {
+        "coordinates": [
+            "52.2397661,6.8535898"
+        ],
+        "asn": 1133,
+        "city": "Enschede",
+        "ipv4": "130.89.6.17",
+        "ipv6": "2001:67c:2564:a115:250:56ff:fe89:6d65",
+        "hostname": "utwente01.ring.nlnog.net",
+        "datacenter": "Seinhuis, Enschede",
+        "lon": "6.8535898",
+        "lat": "52.2397661"
+    },
+    "35.176.195.43": {
+        "coordinates": [
+            "51.5007325,-0.1268141"
+        ],
+        "asn": 16509,
+        "city": "London",
+        "ipv4": "35.176.195.43",
+        "ipv6": "2a05:d01c:dfb:ff00::14",
+        "hostname": "amazon14.ring.nlnog.net",
+        "datacenter": "",
+        "lon": "-0.1268141",
+        "lat": "51.5007325"
+    },
+    "128.32.158.100": {
+        "coordinates": [
+            "37.874871,-122.258335"
+        ],
+        "asn": 25,
+        "city": "Berkeley",
+        "ipv4": "128.32.158.100",
+        "ipv6": "2607:f140:ffff:ff07::a",
+        "hostname": "berkeley01.ring.nlnog.net",
+        "datacenter": "University of California - Berkeley, Berkeley, California 94709, United States",
+        "lon": "-122.258335",
+        "lat": "37.874871"
+    },
+    "91.232.156.99": {
+        "coordinates": [
+            "60.220,24.870"
+        ],
+        "asn": 57692,
+        "city": "Helsinki",
+        "ipv4": "91.232.156.99",
+        "ipv6": "2001:67c:1be8:1::999",
+        "hostname": "kapsi01.ring.nlnog.net",
+        "datacenter": "Mediam Oy",
+        "lon": "24.870",
+        "lat": "60.220"
+    },
+    "77.73.231.141": {
+        "coordinates": [
+            "52.3445,4.8315"
+        ],
+        "asn": 41960,
+        "city": "Amsterdam",
+        "ipv4": "77.73.231.141",
+        "ipv6": "2a02:690:4001:42::141",
+        "hostname": "nextpertise01.ring.nlnog.net",
+        "datacenter": "Global Switch",
+        "lon": "4.8315",
+        "lat": "52.3445"
+    },
+    "194.187.248.66": {
+        "coordinates": [
+            "53.480759,-2.242631"
+        ],
+        "asn": 9009,
+        "city": "Manchester",
+        "ipv4": "194.187.248.66",
+        "ipv6": "2001:ac8:21::d0",
+        "hostname": "mtwentyfourseven01.ring.nlnog.net",
+        "datacenter": "",
+        "lon": "-2.242631",
+        "lat": "53.480759"
+    },
+    "196.10.54.133": {
+        "coordinates": [
+            "-33.918665,18.420637"
+        ],
+        "asn": 37663,
+        "city": "Cape Town",
+        "ipv4": "196.10.54.133",
+        "ipv6": "2001:43f8:1f4:a00::133",
+        "hostname": "inxza02.ring.nlnog.net",
+        "datacenter": "",
+        "lon": "18.420637",
+        "lat": "-33.918665"
+    },
+    "91.202.41.253": {
+        "coordinates": [
+            "53.0761418,8.7716442"
+        ],
+        "asn": 49855,
+        "city": "Bremen",
+        "ipv4": "91.202.41.253",
+        "ipv6": "2a02:16d0:0:2::2",
+        "hostname": "plutex01.ring.nlnog.net",
+        "datacenter": "Company owned datacenter",
+        "lon": "8.7716442",
+        "lat": "53.0761418"
+    },
+    "80.67.181.30": {
+        "coordinates": [
+            "50.82,4.36"
+        ],
+        "asn": 204059,
+        "city": "",
+        "ipv4": "80.67.181.30",
+        "ipv6": "2001:0913:1000:200::30",
+        "hostname": "neutrinet01.ring.nlnog.net",
+        "datacenter": "Verixi Louise DC",
+        "lon": "4.36",
+        "lat": "50.82"
+    },
+    "159.203.1.207": {
+        "coordinates": [
+            "43.6508826,-79.3639686"
+        ],
+        "asn": 14061,
+        "city": "Toronto",
+        "ipv4": "159.203.1.207",
+        "ipv6": "2604:A880:0CAD:00D0:0000:0000:0CE6:F001",
+        "hostname": "digitalocean07.ring.nlnog.net",
+        "datacenter": "Equinix TR2",
+        "lon": "-79.3639686",
+        "lat": "43.6508826"
+    },
+    "196.49.5.45": {
+        "coordinates": [
+            "-6.8,39.3"
+        ],
+        "asn": 327844,
+        "city": "Dar es Salaam",
+        "ipv4": "196.49.5.45",
+        "ipv6": "2001:43F8:1:100::5",
+        "hostname": "tispa01.ring.nlnog.net",
+        "datacenter": "TIX room, Posta House",
+        "lon": "39.3",
+        "lat": "-6.8"
+    },
+    "45.56.92.54": {
+        "coordinates": [
+            "37.471628,-121.919837"
+        ],
+        "asn": 63949,
+        "city": "Fremont",
+        "ipv4": "45.56.92.54",
+        "ipv6": "2600:3c01::f03c:91ff:febb:80b9",
+        "hostname": "linode05.ring.nlnog.net",
+        "datacenter": "Hurricane Electric Fremont 2",
+        "lon": "-121.919837",
+        "lat": "37.471628"
+    },
+    "178.217.129.212": {
+        "coordinates": [
+            "61.49791,23.77586"
+        ],
+        "asn": 51164,
+        "city": "Tampere",
+        "ipv4": "178.217.129.212",
+        "ipv6": "2001:67c:224:13::1337",
+        "hostname": "cybercom01.ring.nlnog.net",
+        "datacenter": "",
+        "lon": "23.77586",
+        "lat": "61.49791"
+    },
+    "85.222.193.228": {
+        "coordinates": [
+            "52.280312,4.753851"
+        ],
+        "asn": 8315,
+        "city": "Haarlemmermeer",
+        "ipv4": "85.222.193.228",
+        "ipv6": "2a02:20b0:165::100",
+        "hostname": "sentia01.ring.nlnog.net",
+        "datacenter": "Interxion AMS5",
+        "lon": "4.753851",
+        "lat": "52.280312"
+    },
+    "185.50.191.247": {
+        "coordinates": [
+            "46.522611,6.63314"
+        ],
+        "asn": 202194,
+        "city": "Lausanne",
+        "ipv4": "185.50.191.247",
+        "ipv6": "2a04:c000:ed51:919::247:1",
+        "hostname": "edsitech01.ring.nlnog.net",
+        "datacenter": "AlpineDC, BrainServe or EPFL, depending the moon phase",
+        "lon": "6.63314",
+        "lat": "46.522611"
+    },
+    "37.221.193.100": {
+        "coordinates": [
+            "49.456373,11.078364"
+        ],
+        "asn": 197540,
+        "city": "Nuremberg",
+        "ipv4": "37.221.193.100",
+        "ipv6": "2a03:4000:8:78::10",
+        "hostname": "netcup01.ring.nlnog.net",
+        "datacenter": "N\u00fcrnberg, Germany",
+        "lon": "11.078364",
+        "lat": "49.456373"
+    },
+    "161.129.153.254": {
+        "coordinates": [
+            "32.8379046,-96.8806003"
+        ],
+        "asn": 13830,
+        "city": "Dallas",
+        "ipv4": "161.129.153.254",
+        "ipv6": "2604:fbc0:1:2::1000",
+        "hostname": "nexril01.ring.nlnog.net",
+        "datacenter": "Carrier-1",
+        "lon": "-96.8806003",
+        "lat": "32.8379046"
+    },
+    "78.41.154.18": {
+        "coordinates": [
+            "52.278551,-1.895770"
+        ],
+        "asn": 6908,
+        "city": "Stratford-on-Avon",
+        "ipv4": "78.41.154.18",
+        "ipv6": "2a02:298:81:1337::b33f",
+        "hostname": "sixdegrees01.ring.nlnog.net",
+        "datacenter": "",
+        "lon": "-1.895770",
+        "lat": "52.278551"
+    },
+    "23.157.112.123": {
+        "coordinates": [
+            "37.471973,-121.9203"
+        ],
+        "asn": 62538,
+        "city": "Fremont",
+        "ipv4": "23.157.112.123",
+        "ipv6": "2605:c640:dc1:10c8::123",
+        "hostname": "ipfail01.ring.nlnog.net",
+        "datacenter": "Hurricane Electric FMT-2",
+        "lon": "-121.9203",
+        "lat": "37.471973"
+    },
+    "188.126.109.12": {
+        "coordinates": [
+            "52.293,4.943"
+        ],
+        "asn": 38983,
+        "city": "Amsterdam",
+        "ipv4": "188.126.109.12",
+        "ipv6": "2a09:f400:0:ff::100",
+        "hostname": "copaco01.ring.nlnog.net",
+        "datacenter": "Equinix AM5",
+        "lon": "4.943",
+        "lat": "52.293"
+    },
+    "37.152.182.132": {
+        "coordinates": [
+            "35.744843,51.375320"
+        ],
+        "asn": 202468,
+        "city": "",
+        "ipv4": "37.152.182.132",
+        "ipv6": null,
+        "hostname": "arvancloud01.ring.nlnog.net",
+        "datacenter": "Iran, Tehran, Asiatech Datacenter",
+        "lon": "51.375320",
+        "lat": "35.744843"
+    },
+    "94.76.229.204": {
+        "coordinates": [
+            "51.500544,-0.708647"
+        ],
+        "asn": 29550,
+        "city": "Maidenhead",
+        "ipv4": "94.76.229.204",
+        "ipv6": "2a02:af8:1:4300::4516",
+        "hostname": "simplytransit01.ring.nlnog.net",
+        "datacenter": null,
+        "lon": "-0.708647",
+        "lat": "51.500544"
+    },
+    "5.57.94.163": {
+        "coordinates": [
+            "51.524682,-0.635102"
+        ],
+        "asn": 8330,
+        "city": "Britwell",
+        "ipv4": "5.57.94.163",
+        "ipv6": "2a00:eb20:434::163",
+        "hostname": "lonap01.ring.nlnog.net",
+        "datacenter": "Equinix LD6, Slough, UK",
+        "lon": "-0.635102",
+        "lat": "51.524682"
+    },
+    "142.93.93.188": {
+        "coordinates": [
+            "37.3724282,-121.9736174"
+        ],
+        "asn": 14061,
+        "city": "Santa Clara",
+        "ipv4": "142.93.93.188",
+        "ipv6": "2604:A880:0002:00D0:0000:0000:00E6:9001",
+        "hostname": "digitalocean08.ring.nlnog.net",
+        "datacenter": "Digital Realty SCL2",
+        "lon": "-121.9736174",
+        "lat": "37.3724282"
+    },
+    "87.108.57.169": {
+        "coordinates": [
+            "60.169,24.959"
+        ],
+        "asn": 15830,
+        "city": "Helsinki",
+        "ipv4": "87.108.57.169",
+        "ipv6": "2001:a68:1:d:87:108:57:169",
+        "hostname": "equinixemea01.ring.nlnog.net",
+        "datacenter": "Equinix FI",
+        "lon": "24.959",
+        "lat": "60.169"
+    },
+    "185.68.163.230": {
+        "coordinates": [
+            "52.237143,6.849456"
+        ],
+        "asn": 49627,
+        "city": "Enschede",
+        "ipv4": "185.68.163.230",
+        "ipv6": "2a03:2c60:1::10",
+        "hostname": "speakup01.ring.nlnog.net",
+        "datacenter": "Equinix EN1",
+        "lon": "6.849456",
+        "lat": "52.237143"
+    },
+    "185.36.233.116": {
+        "coordinates": [
+            "38.0331006,23.793559"
+        ],
+        "asn": 56910,
+        "city": "",
+        "ipv4": "185.36.233.116",
+        "ipv6": "2a04:3e00:1001::4",
+        "hostname": "lamdahellix01.ring.nlnog.net",
+        "datacenter": "Lamda Hellix",
+        "lon": "23.793559",
+        "lat": "38.0331006"
+    },
+    "81.171.183.186": {
+        "coordinates": [
+            "51.760427,-0.003073"
+        ],
+        "asn": 6656,
+        "city": "Hoddesdon",
+        "ipv4": "81.171.183.186",
+        "ipv6": "2a00:ed0:2000:4800::2",
+        "hostname": "claranet07.ring.nlnog.net",
+        "datacenter": "",
+        "lon": "-0.003073",
+        "lat": "51.760427"
+    },
+    "185.38.24.57": {
+        "coordinates": [
+            "55.676098,12.568337"
+        ],
+        "asn": 62113,
+        "city": "K\u00f8benhavn",
+        "ipv4": "185.38.24.57",
+        "ipv6": "2a00:fbe0:12::57",
+        "hostname": "kracon01.ring.nlnog.net",
+        "datacenter": "Interxion, Ballerup, Denmark",
+        "lon": "12.568337",
+        "lat": "55.676098"
+    },
+    "85.118.58.163": {
+        "coordinates": [
+            "48.77468,2.37987"
+        ],
+        "asn": 29075,
+        "city": "",
+        "ipv4": "85.118.58.163",
+        "ipv6": "2a00:1b88:21:200::2",
+        "hostname": "ielo01.ring.nlnog.net",
+        "datacenter": "Scaleway DC3",
+        "lon": "2.37987",
+        "lat": "48.77468"
+    },
+    "93.95.0.217": {
+        "coordinates": [
+            "52.344280,4.830695"
+        ],
+        "asn": 44858,
+        "city": "Amsterdam",
+        "ipv4": "93.95.0.217",
+        "ipv6": "2a03:5d80:103:ff01::aa10",
+        "hostname": "proxsys01.ring.nlnog.net",
+        "datacenter": "GlobalSwitch, Amsterdam",
+        "lon": "4.830695",
+        "lat": "52.344280"
+    },
+    "80.76.80.28": {
+        "coordinates": [
+            "45.67361,9.67697"
+        ],
+        "asn": 41497,
+        "city": "Bergamo",
+        "ipv4": "80.76.80.28",
+        "ipv6": "2001:4bb0:d:8::28",
+        "hostname": "qcom01.ring.nlnog.net",
+        "datacenter": "QCOM",
+        "lon": "9.67697",
+        "lat": "45.67361"
+    },
+    "91.224.149.112": {
+        "coordinates": [
+            "43.61847,1.42075"
+        ],
+        "asn": 197422,
+        "city": "Toulouse",
+        "ipv4": "91.224.149.112",
+        "ipv6": "2a03:7220:8081:7000::1",
+        "hostname": "tetaneutral01.ring.nlnog.net",
+        "datacenter": null,
+        "lon": "1.42075",
+        "lat": "43.61847"
+    },
+    "83.96.201.176": {
+        "coordinates": [
+            "52.3000769,4.9432173"
+        ],
+        "asn": 35470,
+        "city": "Amsterdam",
+        "ipv4": "83.96.201.176",
+        "ipv6": "2a02:348:5e6:1::2dbf",
+        "hostname": "cloudvps02.ring.nlnog.net",
+        "datacenter": "Equinix AM1",
+        "lon": "4.9432173",
+        "lat": "52.3000769"
+    },
+    "185.70.144.117": {
+        "coordinates": [
+            "53.742795,10.071008"
+        ],
+        "asn": 200567,
+        "city": "Tangstedt",
+        "ipv4": "185.70.144.117",
+        "ipv6": "2a05:2a80:1::200",
+        "hostname": "mdex01.ring.nlnog.net",
+        "datacenter": "Company owned Datacenter",
+        "lon": "10.071008",
+        "lat": "53.742795"
+    },
+    "185.120.22.17": {
+        "coordinates": [
+            "50.1398484,8.7433346"
+        ],
+        "asn": 206479,
+        "city": "Frankfurt",
+        "ipv4": "185.120.22.17",
+        "ipv6": "2001:67c:16c8:e88c::1",
+        "hostname": "jpbe01.ring.nlnog.net",
+        "datacenter": "Accelerated IT Services, Kruppstrasse 105, 60388 Frankfurt am Main",
+        "lon": "8.7433346",
+        "lat": "50.1398484"
+    },
+    "185.117.213.230": {
+        "coordinates": [
+            "53.07605,8.77173"
+        ],
+        "asn": 3624,
+        "city": "Bremen",
+        "ipv4": "185.117.213.230",
+        "ipv6": "2a06:8782:ff02::e6",
+        "hostname": "freifunkbr01.ring.nlnog.net",
+        "datacenter": "PLUTEX",
+        "lon": "8.77173",
+        "lat": "53.07605"
+    },
+    "213.168.176.84": {
+        "coordinates": [
+            "50.0601906,14.4830350"
+        ],
+        "asn": 15614,
+        "city": "Prague",
+        "ipv4": "213.168.176.84",
+        "ipv6": "2a02:13b8:7800::2",
+        "hostname": "dragon01.ring.nlnog.net",
+        "datacenter": "CEColo",
+        "lon": "14.4830350",
+        "lat": "50.0601906"
+    },
+    "134.195.101.201": {
+        "coordinates": [
+            "37.4717,-121.9201"
+        ],
+        "asn": 46997,
+        "city": "Fremont",
+        "ipv4": "134.195.101.201",
+        "ipv6": "2602:feda:30:cafe:250:56ff:fe83:6e1d",
+        "hostname": "natoresearch01.ring.nlnog.net",
+        "datacenter": "HE FMT2",
+        "lon": "-121.9201",
+        "lat": "37.4717"
+    },
+    "194.116.178.10": {
+        "coordinates": [
+            "56.117659,10.156214"
+        ],
+        "asn": 62319,
+        "city": "Holme",
+        "ipv4": "194.116.178.10",
+        "ipv6": "2a02:c900:0:1::10",
+        "hostname": "itrelation01.ring.nlnog.net",
+        "datacenter": "IT Relation - Datacenter Viby",
+        "lon": "10.156214",
+        "lat": "56.117659"
+    },
+    "195.24.73.3": {
+        "coordinates": [
+            "49.671227,6.125205"
+        ],
+        "asn": 5577,
+        "city": "Steinsel",
+        "ipv4": "195.24.73.3",
+        "ipv6": "2a01:608:ffff:6262::211",
+        "hostname": "rootlu01.ring.nlnog.net",
+        "datacenter": null,
+        "lon": "6.125205",
+        "lat": "49.671227"
+    },
+    "62.210.156.8": {
+        "coordinates": [
+            "48.774881,2.380689"
+        ],
+        "asn": 12876,
+        "city": "Vitry-sur-Seine",
+        "ipv4": "62.210.156.8",
+        "ipv6": "2001:bc8:3::3",
+        "hostname": "onlinesas01.ring.nlnog.net",
+        "datacenter": "Iliad Datacenter DC3, Vitry-sur-Seine",
+        "lon": "2.380689",
+        "lat": "48.774881"
+    },
+    "50.116.41.174": {
+        "coordinates": [
+            "33.733902,-84.425719"
+        ],
+        "asn": 63949,
+        "city": "Atlanta",
+        "ipv4": "50.116.41.174",
+        "ipv6": "2600:3c02::f03c:91ff:febb:8065",
+        "hostname": "linode06.ring.nlnog.net",
+        "datacenter": "zColo 1100 White St SW",
+        "lon": "-84.425719",
+        "lat": "33.733902"
+    },
+    "63.223.226.131": {
+        "coordinates": [
+            "38.9505921,-77.3646099"
+        ],
+        "asn": 3491,
+        "city": "",
+        "ipv4": "63.223.226.131",
+        "ipv6": "2400:8800:4200:0:250:56ff:fe9e:a28d",
+        "hostname": "pccw01.ring.nlnog.net",
+        "datacenter": "Coresite Reston",
+        "lon": "-77.3646099",
+        "lat": "38.9505921"
+    },
+    "128.164.88.185": {
+        "coordinates": [
+            "38.897575,-77.048053"
+        ],
+        "asn": 11039,
+        "city": "Washington",
+        "ipv4": "128.164.88.185",
+        "ipv6": "2606:69c0:5120:5285:385:1039:0:2f",
+        "hostname": "gwu01.ring.nlnog.net",
+        "datacenter": "SQ80",
+        "lon": "-77.048053",
+        "lat": "38.897575"
+    },
+    "109.234.105.30": {
+        "coordinates": [
+            "49.279285,7.107489"
+        ],
+        "asn": 196763,
+        "city": "Sankt Ingbert",
+        "ipv4": "109.234.105.30",
+        "ipv6": "2a00:18e0:0:dc:109:234:105:30",
+        "hostname": "skyway01.ring.nlnog.net",
+        "datacenter": null,
+        "lon": "7.107489",
+        "lat": "49.279285"
+    },
+    "134.19.182.14": {
+        "coordinates": [
+            "52.2821871,4.7728604"
+        ],
+        "asn": 49453,
+        "city": "",
+        "ipv4": "134.19.182.14",
+        "ipv6": "2a00:1678:da7a:247::2",
+        "hostname": "globallayer02.ring.nlnog.net",
+        "datacenter": "Maincubes",
+        "lon": "4.7728604",
+        "lat": "52.2821871"
+    },
+    "185.174.170.115": {
+        "coordinates": [
+            "50.078030,14.475194"
+        ],
+        "asn": 206712,
+        "city": "Prague",
+        "ipv4": "185.174.170.115",
+        "ipv6": "2a0b:a901::b9ff:feae:aa73",
+        "hostname": "feldsam01.ring.nlnog.net",
+        "datacenter": "Coolhousing.net",
+        "lon": "14.475194",
+        "lat": "50.078030"
+    },
+    "94.103.96.97": {
+        "coordinates": [
+            "46.536735,6.617799"
+        ],
+        "asn": 49457,
+        "city": "Lausanne",
+        "ipv4": "94.103.96.97",
+        "ipv6": "2a00:a500:0:93::97",
+        "hostname": "swisscenter01.ring.nlnog.net",
+        "datacenter": "World Trade Center, Lausanne",
+        "lon": "6.617799",
+        "lat": "46.536735"
+    },
+    "70.36.170.6": {
+        "coordinates": [
+            "38.419232,-122.751613"
+        ],
+        "asn": 7065,
+        "city": "Santa Rosa",
+        "ipv4": "70.36.170.6",
+        "ipv6": "2001:5a8:201:4::2",
+        "hostname": "sonic01.ring.nlnog.net",
+        "datacenter": "Sonic data center @ 2260 Apollo Way Santa Rosa, CA 95407",
+        "lon": "-122.751613",
+        "lat": "38.419232"
+    },
+    "81.21.136.3": {
+        "coordinates": [
+            "51.501537,5.460406"
+        ],
+        "asn": 28878,
+        "city": "Son",
+        "ipv4": "81.21.136.3",
+        "ipv6": "2001:4cb8:1:ff03::2",
+        "hostname": "signet01.ring.nlnog.net",
+        "datacenter": null,
+        "lon": "5.460406",
+        "lat": "51.501537"
+    },
+    "82.76.255.222": {
+        "coordinates": [
+            "44.429187,26.079895"
+        ],
+        "asn": 8708,
+        "city": "Bucharest",
+        "ipv4": "82.76.255.222",
+        "ipv6": "2a02:2f0c:d000:26::2",
+        "hostname": "rcsrds01.ring.nlnog.net",
+        "datacenter": null,
+        "lon": "26.079895",
+        "lat": "44.429187"
+    },
+    "204.137.12.2": {
+        "coordinates": [
+            "40.743343,-74.00743"
+        ],
+        "asn": 54316,
+        "city": "New York",
+        "ipv4": "204.137.12.2",
+        "ipv6": "2602:fcad:2::2",
+        "hostname": "apgp01.ring.nlnog.net",
+        "datacenter": "Telehouse Chelsea / NYIIX",
+        "lon": "-74.00743",
+        "lat": "40.743343"
+    },
+    "213.128.151.249": {
+        "coordinates": [
+            "53.5496715,10.048239"
+        ],
+        "asn": 12731,
+        "city": "Hamburg",
+        "ipv4": "213.128.151.249",
+        "ipv6": "2001:868:100:4f10::1:1",
+        "hostname": "iphh01.ring.nlnog.net",
+        "datacenter": "IPHH HH2",
+        "lon": "10.048239",
+        "lat": "53.5496715"
+    },
+    "80.71.82.106": {
+        "coordinates": [
+            "55.662078,12.377353"
+        ],
+        "asn": 44869,
+        "city": "",
+        "ipv4": "80.71.82.106",
+        "ipv6": "2a02:17c0:14::2",
+        "hostname": "fibia01.ring.nlnog.net",
+        "datacenter": "Telia Telehouse Copenhagen",
+        "lon": "12.377353",
+        "lat": "55.662078"
+    },
+    "203.175.175.197": {
+        "coordinates": [
+            "1.351141,103.862008"
+        ],
+        "asn": 24482,
+        "city": "Singapore",
+        "ipv4": "203.175.175.197",
+        "ipv6": "2405:4200:100:10::197",
+        "hostname": "sggs01.ring.nlnog.net",
+        "datacenter": "Epsilon Global Hub, Singapore",
+        "lon": "103.862008",
+        "lat": "1.351141"
+    },
+    "193.162.154.27": {
+        "coordinates": [
+            "56.162938,10.203917"
+        ],
+        "asn": 3292,
+        "city": "Aarhus",
+        "ipv4": "193.162.154.27",
+        "ipv6": "2001:6c8:2:800::27",
+        "hostname": "tdc01.ring.nlnog.net",
+        "datacenter": "",
+        "lon": "10.203917",
+        "lat": "56.162938"
+    },
+    "83.136.252.93": {
+        "coordinates": [
+            "51.512431,-0.107398"
+        ],
+        "asn": 202053,
+        "city": "London",
+        "ipv4": "83.136.252.93",
+        "ipv6": "2a04:3541:1000:500:a8aa:aaff:fea0:6ffe",
+        "hostname": "upcloud03.ring.nlnog.net",
+        "datacenter": "",
+        "lon": "-0.107398",
+        "lat": "51.512431"
+    },
+    "52.76.214.87": {
+        "coordinates": [
+            "1.358816,103.9891"
+        ],
+        "asn": 16509,
+        "city": "Singapore",
+        "ipv4": "52.76.214.87",
+        "ipv6": "2406:da18:df9:4d00::1:3",
+        "hostname": "amazon03.ring.nlnog.net",
+        "datacenter": null,
+        "lon": "103.9891",
+        "lat": "1.358816"
+    },
+    "185.157.208.249": {
+        "coordinates": [
+            "38.07609,23.68758"
+        ],
+        "asn": 51392,
+        "city": "",
+        "ipv4": "185.157.208.249",
+        "ipv6": "2a03:afe2:1001:2::249",
+        "hostname": "fusioned01.ring.nlnog.net",
+        "datacenter": "Synapsecom SNC-2",
+        "lon": "23.68758",
+        "lat": "38.07609"
+    },
+    "212.25.27.3": {
+        "coordinates": [
+            "47.387639,8.519944"
+        ],
+        "asn": 8758,
+        "city": "Zurich",
+        "ipv4": "212.25.27.3",
+        "ipv6": "2001:8e0:40:318:0:abcd:dead:beef",
+        "hostname": "iway01.ring.nlnog.net",
+        "datacenter": null,
+        "lon": "8.519944",
+        "lat": "47.387639"
+    },
+    "149.20.3.18": {
+        "coordinates": [
+            "37.446123,-122.160769"
+        ],
+        "asn": 1280,
+        "city": "Palo Alto",
+        "ipv4": "149.20.3.18",
+        "ipv6": "2001:4f8:1:2000::18",
+        "hostname": "isc01.ring.nlnog.net",
+        "datacenter": "PAIX / Equinix Palo Alto",
+        "lon": "-122.160769",
+        "lat": "37.446123"
+    },
+    "41.175.51.198": {
+        "coordinates": [
+            "-1.3281445,36.8644586"
+        ],
+        "asn": 30844,
+        "city": "Nairobi",
+        "ipv4": "41.175.51.198",
+        "ipv6": "2c0f:f830:6:e:41:175:51:198",
+        "hostname": "liquidtelecom02.ring.nlnog.net",
+        "datacenter": "East Africa Data Center, Sameer Business Park, Mombasa Road, Nairobi",
+        "lon": "36.8644586",
+        "lat": "-1.3281445"
+    },
+    "45.135.151.26": {
+        "coordinates": [
+            "53.1668709,6.8646278"
+        ],
+        "asn": 208751,
+        "city": "Midden-Groningen",
+        "ipv4": "45.135.151.26",
+        "ipv6": "2a06:e881:6700::ff01",
+        "hostname": "mvix02.ring.nlnog.net",
+        "datacenter": "",
+        "lon": "6.8646278",
+        "lat": "53.1668709"
+    },
+    "23.130.139.81": {
+        "coordinates": [
+            "45.340570,-75.910400"
+        ],
+        "asn": 212934,
+        "city": "",
+        "ipv4": "23.130.139.81",
+        "ipv6": "2602:FCD3:1:1::11",
+        "hostname": "accuris01.ring.nlnog.net",
+        "datacenter": "Purecolo Kanata",
+        "lon": "-75.910400",
+        "lat": "45.340570"
+    },
+    "84.2.32.215": {
+        "coordinates": [
+            "47.4932438,19.1001388"
+        ],
+        "asn": 5483,
+        "city": "Budapest",
+        "ipv4": "84.2.32.215",
+        "ipv6": "2001:4c48:2:5:20c:29ff:fe98:e0ab",
+        "hostname": "telekomhu01.ring.nlnog.net",
+        "datacenter": "Dataplex",
+        "lon": "19.1001388",
+        "lat": "47.4932438"
+    },
+    "77.237.224.26": {
+        "coordinates": [
+            "49.4486,11.0144"
+        ],
+        "asn": 42366,
+        "city": "Nurnberg",
+        "ipv4": "77.237.224.26",
+        "ipv6": "2a01:6f0:101:1a::1",
+        "hostname": "terratransit01.ring.nlnog.net",
+        "datacenter": "TTAG-NBG3",
+        "lon": "11.0144",
+        "lat": "49.4486"
+    },
+    "91.216.110.61": {
+        "coordinates": [
+            "45.18882,5.73793"
+        ],
+        "asn": 51083,
+        "city": "Grenoble",
+        "ipv4": "91.216.110.61",
+        "ipv6": "2001:912:800:212::61",
+        "hostname": "grenode01.ring.nlnog.net",
+        "datacenter": "Cogent Communications, Inc., 33 rue Joseph Chanrion, 38000 Grenoble, France",
+        "lon": "5.73793",
+        "lat": "45.18882"
+    },
+    "195.22.19.34": {
+        "coordinates": [
+            "38.788052658004794,-9.123791456222534"
+        ],
+        "asn": 8426,
+        "city": "Prior Velho",
+        "ipv4": "195.22.19.34",
+        "ipv6": "2001:4cc0:cafe:babe::2",
+        "hostname": "claranet04.ring.nlnog.net",
+        "datacenter": null,
+        "lon": "-9.123791456222534",
+        "lat": "38.788052658004794"
+    },
+    "62.77.130.253": {
+        "coordinates": [
+            "47.5179647,19.0551729"
+        ],
+        "asn": 15566,
+        "city": "Budapest",
+        "ipv4": "62.77.130.253",
+        "ipv6": "2a02:2950:3:62:77:130:253:1",
+        "hostname": "infotechna01.ring.nlnog.net",
+        "datacenter": "BIX Budapest",
+        "lon": "19.0551729",
+        "lat": "47.5179647"
+    },
+    "192.108.73.88": {
+        "coordinates": [
+            "52.520842,13.409416"
+        ],
+        "asn": 13058,
+        "city": "Berlin",
+        "ipv4": "192.108.73.88",
+        "ipv6": "2a0c:7286:2736::88",
+        "hostname": "servu01.ring.nlnog.net",
+        "datacenter": "Berlin TV-Tower at Alexanderplatz",
+        "lon": "13.409416",
+        "lat": "52.520842"
+    },
+    "193.176.144.164": {
+        "coordinates": [
+            "51.97696,5.96947"
+        ],
+        "asn": 1140,
+        "city": "Arnhem",
+        "ipv4": "193.176.144.164",
+        "ipv6": "2a00:d78:0:fd:193:176:144:164",
+        "hostname": "sidn01.ring.nlnog.net",
+        "datacenter": null,
+        "lon": "5.96947",
+        "lat": "51.97696"
+    },
+    "61.200.92.132": {
+        "coordinates": [
+            "35.6895,139.6917"
+        ],
+        "asn": 2914,
+        "city": "",
+        "ipv4": "61.200.92.132",
+        "ipv6": "2001:218:200f:3::2",
+        "hostname": "ntt03.ring.nlnog.net",
+        "datacenter": "NTT",
+        "lon": "139.6917",
+        "lat": "35.6895"
+    },
+    "185.122.101.168": {
+        "coordinates": [
+            "48.9052995,2.369793"
+        ],
+        "asn": 203596,
+        "city": "",
+        "ipv4": "185.122.101.168",
+        "ipv6": "2a06:a400:3::168",
+        "hostname": "celya01.ring.nlnog.net",
+        "datacenter": "Equinix PA2",
+        "lon": "2.369793",
+        "lat": "48.9052995"
+    },
+    "213.207.9.61": {
+        "coordinates": [
+            "52.34398,4.82871"
+        ],
+        "asn": 24785,
+        "city": "Amsterdam",
+        "ipv4": "213.207.9.61",
+        "ipv6": "2a02:10:0:1::90:10",
+        "hostname": "jointtransit01.ring.nlnog.net",
+        "datacenter": "Globalswitch",
+        "lon": "4.82871",
+        "lat": "52.34398"
+    },
+    "150.254.166.148": {
+        "coordinates": [
+            "52.411433,16.917933"
+        ],
+        "asn": 9112,
+        "city": "Poznan",
+        "ipv4": "150.254.166.148",
+        "ipv6": "2001:808:2:3003::5",
+        "hostname": "poznan01.ring.nlnog.net",
+        "datacenter": null,
+        "lon": "16.917933",
+        "lat": "52.411433"
+    },
+    "202.32.157.84": {
+        "coordinates": [
+            "35.68949,139.69171"
+        ],
+        "asn": 2497,
+        "city": "",
+        "ipv4": "202.32.157.84",
+        "ipv6": "2001:240:10c:5:0:69:696a:3031",
+        "hostname": "iij01.ring.nlnog.net",
+        "datacenter": "Tokyo, Japan",
+        "lon": "139.69171",
+        "lat": "35.68949"
+    },
+    "212.218.193.200": {
+        "coordinates": [
+            "49.410442,11.130490"
+        ],
+        "asn": 8319,
+        "city": "Nurnberg",
+        "ipv4": "212.218.193.200",
+        "ipv6": "2001:4cd8:4:193::200",
+        "hostname": "nethinks01.ring.nlnog.net",
+        "datacenter": "Noris Network, datacenter.de N\u00fcrnberg",
+        "lon": "11.130490",
+        "lat": "49.410442"
+    },
+    "217.160.211.250": {
+        "coordinates": [
+            "50.09703,8.64531"
+        ],
+        "asn": 51862,
+        "city": "Frankfurt am Main",
+        "ipv4": "217.160.211.250",
+        "ipv6": "2a02:247a:8000::4",
+        "hostname": "ionos01.ring.nlnog.net",
+        "datacenter": "Equinix FR7",
+        "lon": "8.64531",
+        "lat": "50.09703"
+    },
+    "178.249.153.39": {
+        "coordinates": [
+            "52.62588,4.77044"
+        ],
+        "asn": 51088,
+        "city": "Alkmaar",
+        "ipv4": "178.249.153.39",
+        "ipv6": "2a02:1668:a2b:1011::39",
+        "hostname": "a2binternet01.ring.nlnog.net",
+        "datacenter": null,
+        "lon": "4.77044",
+        "lat": "52.62588"
+    },
+    "193.1.33.23": {
+        "coordinates": [
+            "53.333145,-6.369291"
+        ],
+        "asn": 1213,
+        "city": "Dublin",
+        "ipv4": "193.1.33.23",
+        "ipv6": "2001:770:1c:7::c101:2117",
+        "hostname": "heanet01.ring.nlnog.net",
+        "datacenter": null,
+        "lon": "-6.369291",
+        "lat": "53.333145"
+    },
+    "206.108.0.104": {
+        "coordinates": [
+            "43.644632,-79.384228"
+        ],
+        "asn": 393424,
+        "city": "Toronto",
+        "ipv4": "206.108.0.104",
+        "ipv6": "2602:fde5:1:63::d104",
+        "hostname": "torix01.ring.nlnog.net",
+        "datacenter": "151 Front Street West, Toronto",
+        "lon": "-79.384228",
+        "lat": "43.644632"
+    },
+    "68.71.96.252": {
+        "coordinates": [
+            "36.1667,-86.7833"
+        ],
+        "asn": 13649,
+        "city": "Nashville-Davidson",
+        "ipv4": "68.71.96.252",
+        "ipv6": "2607:f758:d040:0:250:56ff:fe92:544c",
+        "hostname": "flexential03.ring.nlnog.net",
+        "datacenter": "Flexential NAS02",
+        "lon": "-86.7833",
+        "lat": "36.1667"
+    },
+    "172.93.16.166": {
+        "coordinates": [
+            "45.522623,-73.520409"
+        ],
+        "asn": 1403,
+        "city": "",
+        "ipv4": "172.93.16.166",
+        "ipv6": "2606:6d00:eb0:800::2",
+        "hostname": "ebox03.ring.nlnog.net",
+        "datacenter": "Colo Rive-Sud",
+        "lon": "-73.520409",
+        "lat": "45.522623"
+    },
+    "185.52.236.36": {
+        "coordinates": [
+            "52.303941,4.939339"
+        ],
+        "asn": 57866,
+        "city": "",
+        "ipv4": "185.52.236.36",
+        "ipv6": "2a00:a7c0:1000:1304::1304",
+        "hostname": "fusix01.ring.nlnog.net",
+        "datacenter": "Switch Datacenters AMS1",
+        "lon": "4.939339",
+        "lat": "52.303941"
+    },
+    "192.26.105.218": {
+        "coordinates": [
+            "60.48745,22.28787"
+        ],
+        "asn": 211722,
+        "city": "Turku",
+        "ipv4": "192.26.105.218",
+        "ipv6": "2001:67c:2970:f02::f02",
+        "hostname": "nullroute01.ring.nlnog.net",
+        "datacenter": "DTNET Turku",
+        "lon": "22.28787",
+        "lat": "60.48745"
+    },
+    "103.219.152.35": {
+        "coordinates": [
+            "52.526231,5.437893"
+        ],
+        "asn": 213268,
+        "city": "Lelystad",
+        "ipv4": "103.219.152.35",
+        "ipv6": "2a09:3c00:1::35",
+        "hostname": "cloudws01.ring.nlnog.net",
+        "datacenter": "Cellnex Lelystad",
+        "lon": "5.437893",
+        "lat": "52.526231"
+    },
+    "103.6.84.107": {
+        "coordinates": [
+            "22.36187,114.13502"
+        ],
+        "asn": 36236,
+        "city": "Hong Kong",
+        "ipv4": "103.6.84.107",
+        "ipv6": "2403:2500:8000:1::62e",
+        "hostname": "hostvirtual02.ring.nlnog.net",
+        "datacenter": "NTT HKnet Kwai Chung, Hong Kong",
+        "lon": "114.13502",
+        "lat": "22.36187"
+    },
+    "192.42.123.22": {
+        "coordinates": [
+            "52.090767,5.112371"
+        ],
+        "asn": 1103,
+        "city": "Utrecht",
+        "ipv4": "192.42.123.22",
+        "ipv6": "2001:678:230:2123:192:42:123:22",
+        "hostname": "surfnet01.ring.nlnog.net",
+        "datacenter": null,
+        "lon": "5.112371",
+        "lat": "52.090767"
+    },
+    "212.98.93.10": {
+        "coordinates": [
+            "55.662103,12.301349"
+        ],
+        "asn": 42525,
+        "city": "Taastrup",
+        "ipv4": "212.98.93.10",
+        "ipv6": "2a01:7e8:1:800::1b2",
+        "hostname": "globalconnect01.ring.nlnog.net",
+        "datacenter": "Horskaetten 3, 2630 Taastrup, Denmark",
+        "lon": "12.301349",
+        "lat": "55.662103"
+    },
+    "185.5.202.122": {
+        "coordinates": [
+            "42.860562,13.5774698"
+        ],
+        "asn": 59715,
+        "city": "",
+        "ipv4": "185.5.202.122",
+        "ipv6": "2a02:cdc5:9715:a000:185:5:202:122",
+        "hostname": "sbtap02.ring.nlnog.net",
+        "datacenter": "",
+        "lon": "13.5774698",
+        "lat": "42.860562"
+    },
+    "207.126.136.113": {
+        "coordinates": [
+            "40.7778197,-74.077003"
+        ],
+        "asn": 48328,
+        "city": "",
+        "ipv4": "207.126.136.113",
+        "ipv6": "2a02:7b02:2fff::3",
+        "hostname": "retarus03.ring.nlnog.net",
+        "datacenter": "",
+        "lon": "-74.077003",
+        "lat": "40.7778197"
+    },
+    "94.185.81.36": {
+        "coordinates": [
+            "59.29073752515552,18.017841247938037"
+        ],
+        "asn": 47869,
+        "city": "Stockholm",
+        "ipv4": "94.185.81.36",
+        "ipv6": "2a00:dd0:ffff:2::3ed3:791d",
+        "hostname": "netrouting04.ring.nlnog.net",
+        "datacenter": "",
+        "lon": "18.017841247938037",
+        "lat": "59.29073752515552"
+    },
+    "45.129.95.6": {
+        "coordinates": [
+            "49.0976,12.4869"
+        ],
+        "asn": 207960,
+        "city": "Volling",
+        "ipv4": "45.129.95.6",
+        "ipv6": "2a0e:1cc1:0:5::4",
+        "hostname": "as207960net01.ring.nlnog.net",
+        "datacenter": "",
+        "lon": "12.4869",
+        "lat": "49.0976"
+    },
+    "193.135.150.59": {
+        "coordinates": [
+            "46.524409,6.603133"
+        ],
+        "asn": 2613,
+        "city": "",
+        "ipv4": "193.135.150.59",
+        "ipv6": "2001:678:298:2000::59",
+        "hostname": "vangulik01.ring.nlnog.net",
+        "datacenter": "Saitis Networks - Provence",
+        "lon": "6.603133",
+        "lat": "46.524409"
+    },
+    "52.10.159.54": {
+        "coordinates": [
+            "45.8344971,-119.7078152"
+        ],
+        "asn": 16509,
+        "city": "Boardman",
+        "ipv4": "52.10.159.54",
+        "ipv6": "2600:1f14:f57:e200::5",
+        "hostname": "amazon05.ring.nlnog.net",
+        "datacenter": "",
+        "lon": "-119.7078152",
+        "lat": "45.8344971"
+    },
+    "64.40.23.206": {
+        "coordinates": [
+            "30.066019,-95.45905"
+        ],
+        "asn": 16970,
+        "city": "Old Town Spring",
+        "ipv4": "64.40.23.206",
+        "ipv6": "2602:800:1000:100::ce",
+        "hostname": "midnet01.ring.nlnog.net",
+        "datacenter": "TRG Datacenters",
+        "lon": "-95.45905",
+        "lat": "30.066019"
+    },
+    "134.195.121.46": {
+        "coordinates": [
+            "37.471702,-121.919776"
+        ],
+        "asn": 206628,
+        "city": "Fremont",
+        "ipv4": "134.195.121.46",
+        "ipv6": "2602:fd50:20:babe::",
+        "hostname": "ericnet01.ring.nlnog.net",
+        "datacenter": "Hurricane Electric Fremont 2",
+        "lon": "-121.919776",
+        "lat": "37.471702"
+    },
+    "185.2.152.103": {
+        "coordinates": [
+            "59.422471,17.918073"
+        ],
+        "asn": 42695,
+        "city": "",
+        "ipv4": "185.2.152.103",
+        "ipv6": "2a03:b000:202:5::103",
+        "hostname": "citynetwork02.ring.nlnog.net",
+        "datacenter": "",
+        "lon": "17.918073",
+        "lat": "59.422471"
+    },
+    "95.111.216.171": {
+        "coordinates": [
+            "-33.918198,151.1893"
+        ],
+        "asn": 202053,
+        "city": "Sydney",
+        "ipv4": "95.111.216.171",
+        "ipv6": "2a04:3546:8000:1000:d42a:dcff:fe53:5a6e",
+        "hostname": "upcloud10.ring.nlnog.net",
+        "datacenter": "",
+        "lon": "151.1893",
+        "lat": "-33.918198"
+    },
+    "193.200.238.41": {
+        "coordinates": [
+            "59.1720854,10.20663"
+        ],
+        "asn": 56655,
+        "city": "",
+        "ipv4": "193.200.238.41",
+        "ipv6": "2a03:94e0:ffff:193:200:238::41",
+        "hostname": "terrahost01.ring.nlnog.net",
+        "datacenter": "Terrahost K10",
+        "lon": "10.20663",
+        "lat": "59.1720854"
+    },
+    "172.105.15.136": {
+        "coordinates": [
+            "43.651154,-79.361791"
+        ],
+        "asn": 63949,
+        "city": "Toronto",
+        "ipv4": "172.105.15.136",
+        "ipv6": "2600:3c04::f03c:91ff:fe58:25b5",
+        "hostname": "linode09.ring.nlnog.net",
+        "datacenter": "",
+        "lon": "-79.361791",
+        "lat": "43.651154"
+    },
+    "145.40.89.71": {
+        "coordinates": [
+            "39.037339,-77.480542"
+        ],
+        "asn": 54825,
+        "city": "",
+        "ipv4": "145.40.89.71",
+        "ipv6": "2604:1380:45f1:2200::7",
+        "hostname": "eqxmetal01.ring.nlnog.net",
+        "datacenter": "Equinix DC13",
+        "lon": "-77.480542",
+        "lat": "39.037339"
+    },
+    "217.195.114.152": {
+        "coordinates": [
+            "52.332794,4.919612"
+        ],
+        "asn": 34012,
+        "city": "Amsterdam",
+        "ipv4": "217.195.114.152",
+        "ipv6": "2a03:5500:1:2:217:195:114:152",
+        "hostname": "vellance01.ring.nlnog.net",
+        "datacenter": "euNetworks",
+        "lon": "4.919612",
+        "lat": "52.332794"
+    },
+    "172.105.42.29": {
+        "coordinates": [
+            "19.114242,72.893027"
+        ],
+        "asn": 63949,
+        "city": "Mumbai",
+        "ipv4": "172.105.42.29",
+        "ipv6": "2400:8904::f03c:91ff:fe58:25f5",
+        "hostname": "linode10.ring.nlnog.net",
+        "datacenter": "",
+        "lon": "72.893027",
+        "lat": "19.114242"
+    },
+    "5.1.66.6": {
+        "coordinates": [
+            "48.1929976,16.351240"
+        ],
+        "asn": 212567,
+        "city": "Wien",
+        "ipv4": "5.1.66.6",
+        "ipv6": "2001:678:e68:ff00::6",
+        "hostname": "freifunkm01.ring.nlnog.net",
+        "datacenter": "Datasix Vienna",
+        "lon": "16.351240",
+        "lat": "48.1929976"
+    },
+    "200.160.6.171": {
+        "coordinates": [
+            "-23.601489,-46.6968907"
+        ],
+        "asn": 22548,
+        "city": "S\u00e3o Paulo",
+        "ipv4": "200.160.6.171",
+        "ipv6": "2001:12ff:0:6172::171",
+        "hostname": "nicbr01.ring.nlnog.net",
+        "datacenter": "",
+        "lon": "-46.6968907",
+        "lat": "-23.601489"
+    },
+    "212.45.52.2": {
+        "coordinates": [
+            "52.53998,5.702248"
+        ],
+        "asn": 12414,
+        "city": "Dronten",
+        "ipv4": "212.45.52.2",
+        "ipv6": "2001:9e0:400:53:212:45:52:2",
+        "hostname": "solcon01.ring.nlnog.net",
+        "datacenter": null,
+        "lon": "5.702248",
+        "lat": "52.53998"
+    },
+    "109.238.49.65": {
+        "coordinates": [
+            "55.728542,12.376454"
+        ],
+        "asn": 12617,
+        "city": "",
+        "ipv4": "109.238.49.65",
+        "ipv6": "2a02:9d0:3023:1::2",
+        "hostname": "sentia03.ring.nlnog.net",
+        "datacenter": "",
+        "lon": "12.376454",
+        "lat": "55.728542"
+    },
+    "217.61.244.212": {
+        "coordinates": [
+            "59.391339,17.875982"
+        ],
+        "asn": 48579,
+        "city": "Stockholm",
+        "ipv4": "217.61.244.212",
+        "ipv6": "2a07:2180::217:61:244:212",
+        "hostname": "elastx02.ring.nlnog.net",
+        "datacenter": "Equinix SK3",
+        "lon": "17.875982",
+        "lat": "59.391339"
+    },
+    "77.246.27.26": {
+        "coordinates": [
+            "51.46214,-1.00757"
+        ],
+        "asn": 34442,
+        "city": "Reading",
+        "ipv4": "77.246.27.26",
+        "ipv6": "2a00:1990:2727::2726",
+        "hostname": "amatis01.ring.nlnog.net",
+        "datacenter": "amatis Networks Reading",
+        "lon": "-1.00757",
+        "lat": "51.46214"
+    },
+    "185.108.16.206": {
+        "coordinates": [
+            "59.907565,30.261185"
+        ],
+        "asn": 51093,
+        "city": "-",
+        "ipv4": "185.108.16.206",
+        "ipv6": "2a06:0300:B:B::2",
+        "hostname": "vmcity01.ring.nlnog.net",
+        "datacenter": "Filanco DC",
+        "lon": "30.261185",
+        "lat": "59.907565"
+    },
+    "213.5.10.55": {
+        "coordinates": [
+            "52.22694,21.00164"
+        ],
+        "asn": 49895,
+        "city": "Warsaw",
+        "ipv4": "213.5.10.55",
+        "ipv6": "2a00:e800:10::55",
+        "hostname": "dcenterpl01.ring.nlnog.net",
+        "datacenter": "",
+        "lon": "21.00164",
+        "lat": "52.22694"
+    },
+    "204.246.114.130": {
+        "coordinates": [
+            "44.999817,-93.271956"
+        ],
+        "asn": 25720,
+        "city": "Minneapolis",
+        "ipv4": "204.246.114.130",
+        "ipv6": "2607:4700:c128:356::130",
+        "hostname": "honeycomb01.ring.nlnog.net",
+        "datacenter": "Honeycomb - Minneapolis, MN, USA",
+        "lon": "-93.271956",
+        "lat": "44.999817"
+    },
+    "45.150.40.179": {
+        "coordinates": [
+            "52.3564,4.9512"
+        ],
+        "asn": 45009,
+        "city": "Amsterdam",
+        "ipv4": "45.150.40.179",
+        "ipv6": "2a0f:9200:0:4000::179",
+        "hostname": "bytepark01.ring.nlnog.net",
+        "datacenter": "NIKHEF",
+        "lon": "4.9512",
+        "lat": "52.3564"
+    },
+    "128.3.121.244": {
+        "coordinates": [
+            "37.8768,-122.2527"
+        ],
+        "asn": 16,
+        "city": "Berkeley",
+        "ipv4": "128.3.121.244",
+        "ipv6": "2620:83:8000:105::a",
+        "hostname": "lbl01.ring.nlnog.net",
+        "datacenter": "1 Cyclotron Way, Berkeley, CA",
+        "lon": "-122.2527",
+        "lat": "37.8768"
+    },
+    "212.237.146.133": {
+        "coordinates": [
+            "59.421969,17.917702"
+        ],
+        "asn": 48579,
+        "city": "",
+        "ipv4": "212.237.146.133",
+        "ipv6": "2a07:2180:0:6:212:237:146:133",
+        "hostname": "elastx03.ring.nlnog.net",
+        "datacenter": "Interxion STO5",
+        "lon": "17.917702",
+        "lat": "59.421969"
+    },
+    "51.77.110.247": {
+        "coordinates": [
+            "51.5,-0.126"
+        ],
+        "asn": 16276,
+        "city": "London",
+        "ipv4": "51.77.110.247",
+        "ipv6": "2001:41d0:801:1000::d3",
+        "hostname": "ovh08.ring.nlnog.net",
+        "datacenter": "London - UK1",
+        "lon": "-0.126",
+        "lat": "51.5"
+    },
+    "66.207.196.130": {
+        "coordinates": [
+            "43.638090,-79.425509"
+        ],
+        "asn": 21949,
+        "city": "Toronto",
+        "ipv4": "66.207.196.130",
+        "ipv6": "2607:F0C8:1:1::1",
+        "hostname": "beanfield01.ring.nlnog.net",
+        "datacenter": "",
+        "lon": "-79.425509",
+        "lat": "43.638090"
+    },
+    "195.200.224.123": {
+        "coordinates": [
+            "50.875425,4.499401"
+        ],
+        "asn": 50156,
+        "city": "Zaventem",
+        "ipv4": "195.200.224.123",
+        "ipv6": "2001:67c:344:1010:5054:ff:feca:6f60",
+        "hostname": "boxed-it01.ring.nlnog.net",
+        "datacenter": "Unix-Solutions Datacenter",
+        "lon": "4.499401",
+        "lat": "50.875425"
+    },
+    "37.252.235.214": {
+        "coordinates": [
+            "48.192978,16.353436"
+        ],
+        "asn": 42473,
+        "city": "Wien",
+        "ipv4": "37.252.235.214",
+        "ipv6": "2a00:11c0:d:5:37:252:235:214",
+        "hostname": "anexia01.ring.nlnog.net",
+        "datacenter": "DATASIX, Vienna",
+        "lon": "16.353436",
+        "lat": "48.192978"
+    },
+    "31.3.8.51": {
+        "coordinates": [
+            "52.200527,6.0251531"
+        ],
+        "asn": 5524,
+        "city": "Apeldoorn",
+        "ipv4": "31.3.8.51",
+        "ipv6": "2a03:4f00:20:0:250:56ff:fe01:57",
+        "hostname": "breedbandnl01.ring.nlnog.net",
+        "datacenter": "ITB2 Apeldoorn",
+        "lon": "6.0251531",
+        "lat": "52.200527"
+    },
+    "139.162.106.78": {
+        "coordinates": [
+            "35.622869,139.747979"
+        ],
+        "asn": 63949,
+        "city": "Shinagawa",
+        "ipv4": "139.162.106.78",
+        "ipv6": "2400:8902::f03c:91ff:feac:60af",
+        "hostname": "linode08.ring.nlnog.net",
+        "datacenter": "Equinix TY7",
+        "lon": "139.747979",
+        "lat": "35.622869"
+    },
+    "45.121.183.100": {
+        "coordinates": [
+            "-26.1379478,28.1958262"
+        ],
+        "asn": 2635,
+        "city": "Germiston",
+        "ipv4": "45.121.183.100",
+        "ipv6": "2403:6b80:ffff:0000:0000:0000:2d79:b764",
+        "hostname": "automattic01.ring.nlnog.net",
+        "datacenter": "Teraco Johannesburg JB1",
+        "lon": "28.1958262",
+        "lat": "-26.1379478"
+    },
+    "217.115.1.67": {
+        "coordinates": [
+            "52.465530,13.368666"
+        ],
+        "asn": 31078,
+        "city": "Berlin",
+        "ipv4": "217.115.1.67",
+        "ipv6": "2a00:1328:e000:456::67",
+        "hostname": "netsign01.ring.nlnog.net",
+        "datacenter": null,
+        "lon": "13.368666",
+        "lat": "52.465530"
+    },
+    "188.117.58.137": {
+        "coordinates": [
+            "60.218018,24.879240"
+        ],
+        "asn": 29422,
+        "city": "Helsinki",
+        "ipv4": "188.117.58.137",
+        "ipv6": "2001:1bc8:200:f::2",
+        "hostname": "nebula01.ring.nlnog.net",
+        "datacenter": "",
+        "lon": "24.879240",
+        "lat": "60.218018"
+    },
+    "31.204.150.13": {
+        "coordinates": [
+            "51.923030,4.431590"
+        ],
+        "asn": 49544,
+        "city": "Rotterdam",
+        "ipv4": "31.204.150.13",
+        "ipv6": "2a00:1630:2:1c08::1",
+        "hostname": "i3d01.ring.nlnog.net",
+        "datacenter": "Smartdc, Rotterdam, Netherlands",
+        "lon": "4.431590",
+        "lat": "51.923030"
+    },
+    "212.83.212.122": {
+        "coordinates": [
+            "51.686672,5.359043"
+        ],
+        "asn": 9150,
+        "city": "'s-Hertogenbosch",
+        "ipv4": "212.83.212.122",
+        "ipv6": "2001:4018:1000:b::2",
+        "hostname": "interconnect01.ring.nlnog.net",
+        "datacenter": null,
+        "lon": "5.359043",
+        "lat": "51.686672"
+    },
+    "109.74.240.242": {
+        "coordinates": [
+            "51.2796973,0.5490267"
+        ],
+        "asn": 50300,
+        "city": "Maidstone",
+        "ipv4": "109.74.240.242",
+        "ipv6": "2a00:1c10:0:1002::242",
+        "hostname": "custodian01.ring.nlnog.net",
+        "datacenter": "Custodian Datacentres (CDC)",
+        "lon": "0.5490267",
+        "lat": "51.2796973"
+    },
+    "46.19.36.12": {
+        "coordinates": [
+            "52.391090,4.665314"
+        ],
+        "asn": 196752,
+        "city": "Haarlem",
+        "ipv4": "46.19.36.12",
+        "ipv6": "2a02:2770::21a:4aff:feac:4576",
+        "hostname": "tilaa01.ring.nlnog.net",
+        "datacenter": null,
+        "lon": "4.665314",
+        "lat": "52.391090"
+    },
+    "87.237.165.30": {
+        "coordinates": [
+            "52.3332,4.9192883"
+        ],
+        "asn": 59760,
+        "city": "Amsterdam",
+        "ipv4": "87.237.165.30",
+        "ipv6": "2a0e:a6c1:0:2100:87:237:165:30",
+        "hostname": "mlab01.ring.nlnog.net",
+        "datacenter": "EU-Networks",
+        "lon": "4.9192883",
+        "lat": "52.3332"
+    },
+    "87.116.6.32": {
+        "coordinates": [
+            "56.069733,9.992248"
+        ],
+        "asn": 31027,
+        "city": "Hrning",
+        "ipv4": "87.116.6.32",
+        "ipv6": "2a02:188:2:d6::32",
+        "hostname": "globalconnect02.ring.nlnog.net",
+        "datacenter": "Nianet Skanderborg",
+        "lon": "9.992248",
+        "lat": "56.069733"
+    },
+    "185.65.241.51": {
+        "coordinates": [
+            "49.001023927,8.385116458"
+        ],
+        "asn": 202329,
+        "city": "Karlsruhe",
+        "ipv4": "185.65.241.51",
+        "ipv6": "2001:678:6e0:1006::f",
+        "hostname": "freifunkkr01.ring.nlnog.net",
+        "datacenter": "",
+        "lon": "8.385116458",
+        "lat": "49.001023927"
+    },
+    "204.15.11.33": {
+        "coordinates": [
+            "47.6143459,-122.3407"
+        ],
+        "asn": 13331,
+        "city": "Seattle",
+        "ipv4": "204.15.11.33",
+        "ipv6": "2620:11c:5001:1099::33",
+        "hostname": "metapeer01.ring.nlnog.net",
+        "datacenter": "Lunavi",
+        "lon": "-122.3407",
+        "lat": "47.6143459"
+    },
+    "139.59.43.142": {
+        "coordinates": [
+            "12.843064,77.656476"
+        ],
+        "asn": 14061,
+        "city": "Bengaluru",
+        "ipv4": "139.59.43.142",
+        "ipv6": "2400:6180:100:d0::cf4:b001",
+        "hostname": "digitalocean05.ring.nlnog.net",
+        "datacenter": "NetMagic Bangalore",
+        "lon": "77.656476",
+        "lat": "12.843064"
+    },
+    "64.73.64.140": {
+        "coordinates": [
+            "44.8509862,-93.6008136"
+        ],
+        "asn": 3599,
+        "city": "Chaska",
+        "ipv4": "64.73.64.140",
+        "ipv6": "2607:FEE0:2001:d::10",
+        "hostname": "cdw03.ring.nlnog.net",
+        "datacenter": "Flexential MSP1",
+        "lon": "-93.6008136",
+        "lat": "44.8509862"
+    },
+    "88.213.188.38": {
+        "coordinates": [
+            "47.6933420,8.6294460"
+        ],
+        "asn": 35518,
+        "city": "Schaffhausen",
+        "ipv4": "88.213.188.38",
+        "ipv6": "2a00:d80:1520:2151::38",
+        "hostname": "sasag01.ring.nlnog.net",
+        "datacenter": "DC",
+        "lon": "8.6294460",
+        "lat": "47.6933420"
+    },
+    "193.106.119.59": {
+        "coordinates": [
+            "48.815068,2.403053"
+        ],
+        "asn": 34019,
+        "city": "Ivry-sur-Seine",
+        "ipv4": "193.106.119.59",
+        "ipv6": "2001:67c:1740:9008::59",
+        "hostname": "hivane01.ring.nlnog.net",
+        "datacenter": "",
+        "lon": "2.403053",
+        "lat": "48.815068"
+    },
+    "205.173.255.242": {
+        "coordinates": [
+            "45.4988753,-73.5666958"
+        ],
+        "asn": 40470,
+        "city": "Montreal",
+        "ipv4": "205.173.255.242",
+        "ipv6": "2607:4480:2:1:205:173:255:242",
+        "hostname": "protectedca01.ring.nlnog.net",
+        "datacenter": "MetroOptic Data Center, 875 Rue Saint-Antoine O, Montreal QC, Canada, H3C 1A6",
+        "lon": "-73.5666958",
+        "lat": "45.4988753"
+    },
+    "5.158.213.65": {
+        "coordinates": [
+            "51.5114035,-0.0036667"
+        ],
+        "asn": 2914,
+        "city": "",
+        "ipv4": "5.158.213.65",
+        "ipv6": "2001:728:0:5000::1533",
+        "hostname": "ntt02.ring.nlnog.net",
+        "datacenter": "NTT",
+        "lon": "-0.0036667",
+        "lat": "51.5114035"
+    },
+    "2.59.64.36": {
+        "coordinates": [
+            "51.0294412,3.6875606"
+        ],
+        "asn": 34762,
+        "city": "Gent",
+        "ipv4": "2.59.64.36",
+        "ipv6": "2a09:e940:0:1000:0020:5906:4036:1",
+        "hostname": "xplose01.ring.nlnog.net",
+        "datacenter": "Datacenter Gent",
+        "lon": "3.6875606",
+        "lat": "51.0294412"
+    },
+    "129.143.77.1": {
+        "coordinates": [
+            "48.745500,9.1037"
+        ],
+        "asn": 553,
+        "city": "Stuttgart",
+        "ipv4": "129.143.77.1",
+        "ipv6": "2001:7c0:0:77::1",
+        "hostname": "belwue01.ring.nlnog.net",
+        "datacenter": null,
+        "lon": "9.1037",
+        "lat": "48.745500"
+    },
+    "170.39.197.44": {
+        "coordinates": [
+            "45.457080,-73.841200"
+        ],
+        "asn": 33185,
+        "city": "",
+        "ipv4": "170.39.197.44",
+        "ipv6": "2602:fd23:0:11::44",
+        "hostname": "hivedc01.ring.nlnog.net",
+        "datacenter": "Vantage QC42",
+        "lon": "-73.841200",
+        "lat": "45.457080"
+    },
+    "46.227.66.10": {
+        "coordinates": [
+            "59.359621,17.980499"
+        ],
+        "asn": 3399,
+        "city": "Solna",
+        "ipv4": "46.227.66.10",
+        "ipv6": "2A03:8600:0:132::2",
+        "hostname": "obenetwork01.ring.nlnog.net",
+        "datacenter": null,
+        "lon": "17.980499",
+        "lat": "59.359621"
+    },
+    "213.209.102.95": {
+        "coordinates": [
+            "53.706308,9.994200"
+        ],
+        "asn": 15943,
+        "city": "",
+        "ipv4": "213.209.102.95",
+        "ipv6": "2a02:2028:d000::9",
+        "hostname": "wilhelmtel01.ring.nlnog.net",
+        "datacenter": "Norderstedt, Schleswig-Holstein, Germany",
+        "lon": "9.994200",
+        "lat": "53.706308"
+    },
+    "23.141.112.9": {
+        "coordinates": [
+            "37.471829,-121.9202"
+        ],
+        "asn": 34553,
+        "city": "Fremont",
+        "ipv4": "23.141.112.9",
+        "ipv6": "2602:809:3009::9",
+        "hostname": "natesales01.ring.nlnog.net",
+        "datacenter": "Hurricane Electric FMT2",
+        "lon": "-121.9202",
+        "lat": "37.471829"
+    },
+    "195.54.164.109": {
+        "coordinates": [
+            "52.465779,13.369905"
+        ],
+        "asn": 50472,
+        "city": "Berlin",
+        "ipv4": "195.54.164.109",
+        "ipv6": "2001:67c:20a0:13::109",
+        "hostname": "c3noc01.ring.nlnog.net",
+        "datacenter": "Speedbone (https://www.peeringdb.com/fac/155)",
+        "lon": "13.369905",
+        "lat": "52.465779"
+    },
+    "74.118.39.82": {
+        "coordinates": [
+            "43.680131,-79.588882"
+        ],
+        "asn": 13851,
+        "city": "Toronto",
+        "ipv4": "74.118.39.82",
+        "ipv6": "2607:c180::1",
+        "hostname": "7lnetworks01.ring.nlnog.net",
+        "datacenter": "7L Networks Inc",
+        "lon": "-79.588882",
+        "lat": "43.680131"
+    },
+    "98.128.171.68": {
+        "coordinates": [
+            "59.347910,18.038740"
+        ],
+        "asn": 8473,
+        "city": "Stockholm",
+        "ipv4": "98.128.171.68",
+        "ipv6": "2001:9b0:fff5:6::4",
+        "hostname": "bahnhof01.ring.nlnog.net",
+        "datacenter": "ST:ERIK",
+        "lon": "18.038740",
+        "lat": "59.347910"
+    },
+    "5.61.190.124": {
+        "coordinates": [
+            "51.333773,12.364357"
+        ],
+        "asn": 58243,
+        "city": "Leipzig",
+        "ipv4": "5.61.190.124",
+        "ipv6": "2a01:5240:2::124",
+        "hostname": "teleag01.ring.nlnog.net",
+        "datacenter": "HL komm ZNK",
+        "lon": "12.364357",
+        "lat": "51.333773"
+    },
+    "78.33.35.246": {
+        "coordinates": [
+            "52.67917,-2.41528"
+        ],
+        "asn": 8468,
+        "city": "Telford",
+        "ipv4": "78.33.35.246",
+        "ipv6": "2001:4d48:face:e::2",
+        "hostname": "entanet01.ring.nlnog.net",
+        "datacenter": "Entanet International Ltd, Stafford Park 6Telford, Shropshire TF3 3AT, United Kingdom",
+        "lon": "-2.41528",
+        "lat": "52.67917"
+    },
+    "45.142.247.147": {
+        "coordinates": [
+            "38.950668,-77.364517"
+        ],
+        "asn": 57695,
+        "city": "",
+        "ipv4": "45.142.247.147",
+        "ipv6": "2a0e:6902:2002:14c:5054:ff:fe68:df5c",
+        "hostname": "misaka02.ring.nlnog.net",
+        "datacenter": "CoreSite VA1",
+        "lon": "-77.364517",
+        "lat": "38.950668"
+    },
+    "91.239.97.26": {
+        "coordinates": [
+            "46.16554,14.30661"
+        ],
+        "asn": 198644,
+        "city": null,
+        "ipv4": "91.239.97.26",
+        "ipv6": "2001:67c:27e4:15::26",
+        "hostname": "go6lab01.ring.nlnog.net",
+        "datacenter": null,
+        "lon": "14.30661",
+        "lat": "46.16554"
+    },
+    "98.143.95.34": {
+        "coordinates": [
+            "49.2436891,-122.9695433"
+        ],
+        "asn": 19171,
+        "city": "Burnaby",
+        "ipv4": "98.143.95.34",
+        "ipv6": "2607:4100:0000:0200::2",
+        "hostname": "stargate01.ring.nlnog.net",
+        "datacenter": "",
+        "lon": "-122.9695433",
+        "lat": "49.2436891"
+    },
+    "176.122.99.75": {
+        "coordinates": [
+            "50.436046,30.500155"
+        ],
+        "asn": 50581,
+        "city": "Kiev",
+        "ipv4": "176.122.99.75",
+        "ipv6": "2001:67c:2d40::4b",
+        "hostname": "utelecom01.ring.nlnog.net",
+        "datacenter": "NewTelco Ukraine",
+        "lon": "30.500155",
+        "lat": "50.436046"
+    },
+    "72.36.126.205": {
+        "coordinates": [
+            "40.1131082,-88.2265234"
+        ],
+        "asn": 40387,
+        "city": "Urbana",
+        "ipv4": "72.36.126.205",
+        "ipv6": "2620:0:e10:400a::5",
+        "hostname": "iccn01.ring.nlnog.net",
+        "datacenter": "Digital Computer Laboratory, 1304 Springfield Ave, Urbana, IL 61801, United States",
+        "lon": "-88.2265234",
+        "lat": "40.1131082"
+    },
+    "93.94.224.87": {
+        "coordinates": [
+            "52.343983,4.828710"
+        ],
+        "asn": 25151,
+        "city": "Amsterdam",
+        "ipv4": "93.94.224.87",
+        "ipv6": "2a01:518:1:58:2::2",
+        "hostname": "cyso01.ring.nlnog.net",
+        "datacenter": null,
+        "lon": "4.828710",
+        "lat": "52.343983"
+    },
+    "94.142.247.64": {
+        "coordinates": [
+            "52.393104,4.8493927"
+        ],
+        "asn": 8283,
+        "city": "Amsterdam",
+        "ipv4": "94.142.247.64",
+        "ipv6": "2a02:898:0:201::2",
+        "hostname": "coloclue01.ring.nlnog.net",
+        "datacenter": "DCG",
+        "lon": "4.8493927",
+        "lat": "52.393104"
+    },
+    "185.70.197.76": {
+        "coordinates": [
+            "52.189965,20.920738"
+        ],
+        "asn": 202053,
+        "city": "Warszawa",
+        "ipv4": "185.70.197.76",
+        "ipv6": "2a04:3544:8000:1000:d42a:dcff:fe53:763f",
+        "hostname": "upcloud11.ring.nlnog.net",
+        "datacenter": "",
+        "lon": "20.920738",
+        "lat": "52.189965"
+    },
+    "185.63.175.128": {
+        "coordinates": [
+            "43.602910,6.970141"
+        ],
+        "asn": 200435,
+        "city": "",
+        "ipv4": "185.63.175.128",
+        "ipv6": "2a04:f600:4454:48:8000:1856:3175:128",
+        "hostname": "titandc01.ring.nlnog.net",
+        "datacenter": "Titan Datacenter DC1",
+        "lon": "6.970141",
+        "lat": "43.602910"
+    },
+    "92.223.105.92": {
+        "coordinates": [
+            "49.579569,6.109962"
+        ],
+        "asn": 199524,
+        "city": "Luxembourg",
+        "ipv4": "92.223.105.92",
+        "ipv6": "2a03:90c0:83:2908::95",
+        "hostname": "gcore01.ring.nlnog.net",
+        "datacenter": "European Data Hub S.A.",
+        "lon": "6.109962",
+        "lat": "49.579569"
+    },
+    "85.31.196.24": {
+        "coordinates": [
+            "43.310226,5.373356"
+        ],
+        "asn": 30781,
+        "city": "Marseille",
+        "ipv4": "85.31.196.24",
+        "ipv6": "2a01:240:101::24",
+        "hostname": "jaguarnetwork01.ring.nlnog.net",
+        "datacenter": null,
+        "lon": "5.373356",
+        "lat": "43.310226"
+    },
+    "18.231.44.45": {
+        "coordinates": [
+            "-23.54894,-46.63882"
+        ],
+        "asn": 16509,
+        "city": null,
+        "ipv4": "18.231.44.45",
+        "ipv6": "2600:1f1e:d87:9300::7",
+        "hostname": "amazon07.ring.nlnog.net",
+        "datacenter": "54.232.107.5",
+        "lon": "-46.63882",
+        "lat": "-23.54894"
+    },
+    "185.98.14.190": {
+        "coordinates": [
+            "45.7867243,16.028345100000024"
+        ],
+        "asn": 198785,
+        "city": "Zagreb",
+        "ipv4": "185.98.14.190",
+        "ipv6": "2a04:a7c0:a001:dc01::b962:ebe",
+        "hostname": "sedmiodjel01.ring.nlnog.net",
+        "datacenter": "Databox",
+        "lon": "16.028345100000024",
+        "lat": "45.7867243"
+    },
+    "104.200.18.129": {
+        "coordinates": [
+            "32.791539,-96.815154"
+        ],
+        "asn": 63949,
+        "city": "Dallas",
+        "ipv4": "104.200.18.129",
+        "ipv6": "2600:3c00::f03c:91ff:febb:803b",
+        "hostname": "linode04.ring.nlnog.net",
+        "datacenter": "Softlayer DAL06",
+        "lon": "-96.815154",
+        "lat": "32.791539"
+    },
+    "195.191.81.31": {
+        "coordinates": [
+            "45.360123,28.828377"
+        ],
+        "asn": 205365,
+        "city": "",
+        "ipv4": "195.191.81.31",
+        "ipv6": "2a00:1908:fffc:ffff:ffff:b33f:f00d:b4b3",
+        "hostname": "fetzer01.ring.nlnog.net",
+        "datacenter": "",
+        "lon": "28.828377",
+        "lat": "45.360123"
+    },
+    "62.141.35.164": {
+        "coordinates": [
+            "51.267277,6.817657"
+        ],
+        "asn": 24961,
+        "city": "",
+        "ipv4": "62.141.35.164",
+        "ipv6": "2001:4ba0:1337:1::2",
+        "hostname": "myloc01.ring.nlnog.net",
+        "datacenter": "myLoc managed IT AG DUS1",
+        "lon": "6.817657",
+        "lat": "51.267277"
+    },
+    "212.8.252.107": {
+        "coordinates": [
+            "52.001417,4.210808"
+        ],
+        "asn": 49981,
+        "city": "Westland",
+        "ipv4": "212.8.252.107",
+        "ipv6": "2a00:7c80:0:dd::107",
+        "hostname": "worldstream01.ring.nlnog.net",
+        "datacenter": "Greenhouse Datacenters NLDW3",
+        "lon": "4.210808",
+        "lat": "52.001417"
+    },
+    "93.93.68.99": {
+        "coordinates": [
+            "37.4847,-5.93039"
+        ],
+        "asn": 39020,
+        "city": "",
+        "ipv4": "93.93.68.99",
+        "ipv6": "2a00:1d70:1::68:69",
+        "hostname": "comvive01.ring.nlnog.net",
+        "datacenter": "Comvive Datacenter",
+        "lon": "-5.93039",
+        "lat": "37.4847"
+    },
+    "212.10.11.214": {
+        "coordinates": [
+            "55.5123951,9.5047194"
+        ],
+        "asn": 39642,
+        "city": "Kolding",
+        "ipv4": "212.10.11.214",
+        "ipv6": "2a03:7400:2205:1::d6",
+        "hostname": "norlys01.ring.nlnog.net",
+        "datacenter": "Norlys Datacenter, Kolding",
+        "lon": "9.5047194",
+        "lat": "55.5123951"
+    },
+    "192.162.230.35": {
+        "coordinates": [
+            "48.32839,11.74318"
+        ],
+        "asn": 197164,
+        "city": "Hallbergmoos",
+        "ipv4": "192.162.230.35",
+        "ipv6": "2001:67c:2274:4021::101",
+        "hostname": "isarnet01.ring.nlnog.net",
+        "datacenter": null,
+        "lon": "11.74318",
+        "lat": "48.32839"
+    },
+    "92.54.7.29": {
+        "coordinates": [
+            "41.351884,2.13707"
+        ],
+        "asn": 8426,
+        "city": "Barcelona",
+        "ipv4": "92.54.7.29",
+        "ipv6": "2a02:a0:1:1::9",
+        "hostname": "claranet06.ring.nlnog.net",
+        "datacenter": "Carrer l'Acer, 32, 08038 Barcelona, Spain",
+        "lon": "2.13707",
+        "lat": "41.351884"
+    },
+    "93.159.158.251": {
+        "coordinates": [
+            "50.0734344,19.9132153"
+        ],
+        "asn": 49102,
+        "city": "Krakow",
+        "ipv4": "93.159.158.251",
+        "ipv6": "2a00:1578:cafe::666",
+        "hostname": "connectedpl01.ring.nlnog.net",
+        "datacenter": "As Connected Sp. z o. o. We have own datacenter located in Biprostal building, flor -1.",
+        "lon": "19.9132153",
+        "lat": "50.0734344"
+    },
+    "198.129.33.90": {
+        "coordinates": [
+            "37.8752777778,-122.253055556"
+        ],
+        "asn": 293,
+        "city": "Berkeley",
+        "ipv4": "198.129.33.90",
+        "ipv6": "2001:400:201:8000::2",
+        "hostname": "es01.ring.nlnog.net",
+        "datacenter": "ESNet",
+        "lon": "-122.253055556",
+        "lat": "37.8752777778"
+    },
+    "46.30.8.23": {
+        "coordinates": [
+            "51.511122,-0.003533"
+        ],
+        "asn": 35266,
+        "city": "London",
+        "ipv4": "46.30.8.23",
+        "ipv6": "2a01:b000:5:1::a",
+        "hostname": "exnetworks01.ring.nlnog.net",
+        "datacenter": "Global Switch 2",
+        "lon": "-0.003533",
+        "lat": "51.511122"
+    },
+    "117.120.13.125": {
+        "coordinates": [
+            "-33.918198,151.1893"
+        ],
+        "asn": 45671,
+        "city": "Sydney",
+        "ipv4": "117.120.13.125",
+        "ipv6": "2400:8100:ffff:0:117:120:13:125",
+        "hostname": "serversaustralia01.ring.nlnog.net",
+        "datacenter": "Equinix SY1",
+        "lon": "151.1893",
+        "lat": "-33.918198"
+    },
+    "41.223.244.135": {
+        "coordinates": [
+            "-29.779300,30.992610"
+        ],
+        "asn": 32437,
+        "city": "Newlands East",
+        "ipv4": "41.223.244.135",
+        "ipv6": "2c0f:f178:ffff:ffff::2",
+        "hostname": "thusa01.ring.nlnog.net",
+        "datacenter": "Teraco DB1",
+        "lon": "30.992610",
+        "lat": "-29.779300"
+    },
+    "207.98.65.50": {
+        "coordinates": [
+            "44.046106,-123.070386"
+        ],
+        "asn": 3701,
+        "city": "Eugene",
+        "ipv4": "207.98.65.50",
+        "ipv6": "2605:bc80:0:2::50",
+        "hostname": "nero01.ring.nlnog.net",
+        "datacenter": "Eugene, OR, USA",
+        "lon": "-123.070386",
+        "lat": "44.046106"
+    },
+    "128.127.31.126": {
+        "coordinates": [
+            "51.51138,-0.00180"
+        ],
+        "asn": 47474,
+        "city": "London",
+        "ipv4": "128.127.31.126",
+        "ipv6": "2a01:a000:0:5::10",
+        "hostname": "virtualone01.ring.nlnog.net",
+        "datacenter": "Telehouse",
+        "lon": "-0.00180",
+        "lat": "51.51138"
+    },
+    "84.88.14.229": {
+        "coordinates": [
+            "41.387549,2.111557"
+        ],
+        "asn": 13041,
+        "city": "Barcelona",
+        "ipv4": "84.88.14.229",
+        "ipv6": "2001:40B0:1:1122:CE5C:A007:0:2",
+        "hostname": "csuc01.ring.nlnog.net",
+        "datacenter": "",
+        "lon": "2.111557",
+        "lat": "41.387549"
+    },
+    "109.105.111.80": {
+        "coordinates": [
+            "59.341984,18.062366"
+        ],
+        "asn": 2603,
+        "city": "Stockholm",
+        "ipv4": "109.105.111.80",
+        "ipv6": "2001:948:4:6::80",
+        "hostname": "nordunet01.ring.nlnog.net",
+        "datacenter": "",
+        "lon": "18.062366",
+        "lat": "59.341984"
+    },
+    "67.221.244.126": {
+        "coordinates": [
+            "46.07583,14.484447"
+        ],
+        "asn": 8038,
+        "city": "Ljubljana",
+        "ipv4": "67.221.244.126",
+        "ipv6": "2607:fae0:a000:5::126",
+        "hostname": "6connect01.ring.nlnog.net",
+        "datacenter": "Xenya Ljubljana",
+        "lon": "14.484447",
+        "lat": "46.07583"
+    },
+    "217.61.244.211": {
+        "coordinates": [
+            "59.2635269,18.105685799999947"
+        ],
+        "asn": 48579,
+        "city": "Stockholm",
+        "ipv4": "217.61.244.211",
+        "ipv6": "2a07:2180::217:61:244:211",
+        "hostname": "elastx01.ring.nlnog.net",
+        "datacenter": "Equinix SK2",
+        "lon": "18.105685799999947",
+        "lat": "59.2635269"
+    },
+    "163.7.129.0": {
+        "coordinates": [
+            174.783,
+            -36.85
+        ],
+        "asn": "AS38022",
+        "city": "Auckland",
+        "ipv4": "163.7.129.0/26",
+        "ipv6": "2404:138:4009::/64",
+        "hostname": "REANNZ National Research and Education Network",
+        "lon": -36.85,
+        "lat": 174.783
+    },
+    "80.239.169.0": {
+        "coordinates": [
+            4.7639,
+            52.3086
+        ],
+        "asn": "AS1299",
+        "city": "Amsterdam",
+        "ipv4": "80.239.169.0/26",
+        "ipv6": "2001:2030:32::/64",
+        "hostname": "Telia Company AB",
+        "lon": 52.3086,
+        "lat": 4.7639
+    },
+    "77.67.114.64": {
+        "coordinates": [
+            4.7639,
+            52.3086
+        ],
+        "asn": "AS3257",
+        "city": "Amsterdam",
+        "ipv4": "77.67.114.64/26",
+        "ipv6": "2001:668:1f:5f::/64",
+        "hostname": "GTT Communications Inc.",
+        "lon": 52.3086,
+        "lat": 4.7639
+    },
+    "195.89.145.0": {
+        "coordinates": [
+            4.7639,
+            52.3086
+        ],
+        "asn": "AS1273",
+        "city": "Amsterdam",
+        "ipv4": "195.89.145.0/26",
+        "ipv6": "2001:5002:100:21::/64",
+        "hostname": "Vodafone Group PLC",
+        "lon": 52.3086,
+        "lat": 4.7639
+    },
+    "213.244.128.128": {
+        "coordinates": [
+            4.7639,
+            52.3086
+        ],
+        "asn": "AS3356",
+        "city": "Amsterdam",
+        "ipv4": "213.244.128.128/26",
+        "ipv6": "2001:4c08:2003:2::/64",
+        "hostname": "Level 3 Parent, LLC",
+        "lon": 52.3086,
+        "lat": 4.7639
+    },
+    "162.213.96.128": {
+        "coordinates": [
+            4.7639,
+            52.3086
+        ],
+        "asn": "AS6762",
+        "city": "Amsterdam",
+        "ipv4": "162.213.96.128/26",
+        "ipv6": "2001:41a8:104:4::/64",
+        "hostname": "TELECOM ITALIA SPARKLE S.p.A.",
+        "lon": 52.3086,
+        "lat": 4.7639
+    },
+    "34.91.170.199": {
+        "coordinates": [
+            4.7639,
+            52.3086
+        ],
+        "asn": "AS396982",
+        "city": "Amsterdam",
+        "ipv4": "34.91.170.199/32",
+        "ipv6": "2600:1900:4060:f014::/128",
+        "hostname": "Google LLC",
+        "lon": 52.3086,
+        "lat": 4.7639
+    },
+    "195.89.146.192": {
+        "coordinates": [
+            17.9186,
+            59.6519
+        ],
+        "asn": "AS1273",
+        "city": "Stockholm",
+        "ipv4": "195.89.146.192/26",
+        "ipv6": "2001:5012:100:24::/64",
+        "hostname": "Vodafone Group PLC",
+        "lon": 59.6519,
+        "lat": 17.9186
+    },
+    "213.242.86.64": {
+        "coordinates": [
+            17.9186,
+            59.6519
+        ],
+        "asn": "AS3356",
+        "city": "Stockholm",
+        "ipv4": "213.242.86.64/26",
+        "ipv6": "2001:4c08:2003:44::/64",
+        "hostname": "Level 3 Parent, LLC",
+        "lon": 59.6519,
+        "lat": 17.9186
+    },
+    "62.115.225.128": {
+        "coordinates": [
+            17.9186,
+            59.6519
+        ],
+        "asn": "AS1299",
+        "city": "Stockholm",
+        "ipv4": "62.115.225.128/26",
+        "ipv6": "2001:2030:0:38::/64",
+        "hostname": "Telia Company AB",
+        "lon": 59.6519,
+        "lat": 17.9186
+    },
+    "77.67.119.64": {
+        "coordinates": [
+            17.9186,
+            59.6519
+        ],
+        "asn": "AS3257",
+        "city": "Stockholm",
+        "ipv4": "77.67.119.64/26",
+        "ipv6": "2001:668:1f:6a::/64",
+        "hostname": "GTT Communications Inc.",
+        "lon": 59.6519,
+        "lat": 17.9186
+    },
+    "193.142.125.64": {
+        "coordinates": [
+            17.9186,
+            59.6519
+        ],
+        "asn": "AS6453",
+        "city": "Stockholm",
+        "ipv4": "193.142.125.64/26",
+        "ipv6": "2a01:3e0:1b01:2::/64",
+        "hostname": "TATA COMMUNICATIONS (AMERICA) INC",
+        "lon": 59.6519,
+        "lat": 17.9186
+    },
+    "193.201.166.128": {
+        "coordinates": [
+            23.9444,
+            37.9364
+        ],
+        "asn": "AS203348",
+        "city": "Athens",
+        "ipv4": "193.201.166.128/26",
+        "ipv6": "2001:648:25e0::/64",
+        "hostname": "Hellenic Telecommunications and Post Commision",
+        "lon": 37.9364,
+        "lat": 23.9444
+    },
+    "38.112.151.64": {
+        "coordinates": [
+            -84.4281,
+            33.6367
+        ],
+        "asn": "AS174",
+        "city": "Atlanta",
+        "ipv4": "38.112.151.64/26",
+        "ipv6": "2001:550:5b00:1::/64",
+        "hostname": "Cogent Communications",
+        "lon": 33.6367,
+        "lat": -84.4281
+    },
+    "64.86.200.192": {
+        "coordinates": [
+            -84.4281,
+            33.6367
+        ],
+        "asn": "AS6453",
+        "city": "Atlanta",
+        "ipv4": "64.86.200.192/26",
+        "ipv6": "2001:5a0:3b02::/64",
+        "hostname": "TATA COMMUNICATIONS (AMERICA) INC",
+        "lon": 33.6367,
+        "lat": -84.4281
+    },
+    "173.205.0.192": {
+        "coordinates": [
+            -84.4281,
+            33.6367
+        ],
+        "asn": "AS3257",
+        "city": "Atlanta",
+        "ipv4": "173.205.0.192/26",
+        "ipv6": "2001:668:1f:1c::/64",
+        "hostname": "GTT Communications Inc.",
+        "lon": 33.6367,
+        "lat": -84.4281
+    },
+    "209.170.91.128": {
+        "coordinates": [
+            -84.4281,
+            33.6367
+        ],
+        "asn": "AS1299",
+        "city": "Atlanta",
+        "ipv4": "209.170.91.128/26",
+        "ipv6": "2001:2030:0:42::/64",
+        "hostname": "Telia Company AB",
+        "lon": 33.6367,
+        "lat": -84.4281
+    },
+    "4.71.254.128": {
+        "coordinates": [
+            -84.4281,
+            33.6367
+        ],
+        "asn": "AS3356",
+        "city": "Atlanta",
+        "ipv4": "4.71.254.128/26",
+        "ipv6": "2001:1900:3001:c::/64",
+        "hostname": "Level 3 Parent, LLC",
+        "lon": 33.6367,
+        "lat": -84.4281
+    },
+    "91.213.30.192": {
+        "coordinates": [
+            2.0811,
+            41.2974
+        ],
+        "asn": "AS49638",
+        "city": "Barcelona",
+        "ipv4": "91.213.30.192/26",
+        "ipv6": "2001:67c:137c:5::/64",
+        "hostname": "Consorci de Serveis Universitaris de Catalunya",
+        "lon": 41.2974,
+        "lat": 2.0811
+    },
+    "188.120.127.0": {
+        "coordinates": [
+            20.2921,
+            44.8216
+        ],
+        "asn": "AS13004",
+        "city": "Belgrade",
+        "ipv4": "188.120.127.0/26",
+        "ipv6": "2001:7f8:1e:6::/64",
+        "hostname": "Serbian Open Exchange DOO",
+        "lon": 44.8216,
+        "lat": 20.2921
+    },
+    "190.98.179.192": {
+        "coordinates": [
+            -74.14329,
+            4.69715
+        ],
+        "asn": "AS12956",
+        "city": "Bogota",
+        "ipv4": "190.98.179.192/26",
+        "ipv6": "2001:1498:1:965::/64",
+        "hostname": "Telefonica International Wholesale Services",
+        "lon": 4.69715,
+        "lat": -74.14329
+    },
+    "190.90.13.64": {
+        "coordinates": [
+            -74.14329,
+            4.69715
+        ],
+        "asn": "AS262589",
+        "city": "Bogota",
+        "ipv4": "190.90.13.64/26",
+        "ipv6": "2800:310:700:1::/64",
+        "hostname": "INTERNEXA BRASIL OPERADORA DE TELECOMUNICACOES S.A",
+        "lon": 4.69715,
+        "lat": -74.14329
+    },
+    "200.189.196.128": {
+        "coordinates": [
+            -74.14329,
+            4.69715
+        ],
+        "asn": "AS3549",
+        "city": "Bogota",
+        "ipv4": "200.189.196.128/26",
+        "ipv6": "2001:13b0:4000:32::/64",
+        "hostname": "Level 3 Parent, LLC",
+        "lon": 4.69715,
+        "lat": -74.14329
+    },
+    "162.213.97.64": {
+        "coordinates": [
+            -74.14329,
+            4.69715
+        ],
+        "asn": "AS6762",
+        "city": "Bogota",
+        "ipv4": "162.213.97.64/26",
+        "ipv6": "2800:870:400:1::/64",
+        "hostname": "TELECOM ITALIA SPARKLE S.p.A.",
+        "lon": 4.69715,
+        "lat": -74.14329
+    },
+    "125.18.112.64": {
+        "coordinates": [
+            72.8681,
+            19.0886
+        ],
+        "asn": "AS9498",
+        "city": "Mumbai",
+        "ipv4": "125.18.112.64/26",
+        "ipv6": "2404:a800:2000:217::/64",
+        "hostname": "BHARTI Airtel Ltd.",
+        "lon": 19.0886,
+        "lat": 72.8681
+    },
+    "14.143.58.128": {
+        "coordinates": [
+            72.8681,
+            19.0886
+        ],
+        "asn": "AS4755",
+        "city": "Mumbai",
+        "ipv4": "14.143.58.128/26",
+        "ipv6": "2403:0:100:66::/64",
+        "hostname": "TATA Communications formerly VSNL is Leading ISP",
+        "lon": 19.0886,
+        "lat": 72.8681
+    },
+    "34.93.189.150": {
+        "coordinates": [
+            72.8681,
+            19.0886
+        ],
+        "asn": "AS396982",
+        "city": "Mumbai",
+        "ipv4": "34.93.189.150/32",
+        "ipv6": "2600:1900:40a0:f2f2::/128",
+        "hostname": "Google LLC",
+        "lon": 19.0886,
+        "lat": 72.8681
+    },
+    "195.89.146.128": {
+        "coordinates": [
+            3.3528,
+            50.4974
+        ],
+        "asn": "AS1273",
+        "city": "Brussels",
+        "ipv4": "195.89.146.128/26",
+        "ipv6": "2001:5005:200::/64",
+        "hostname": "Vodafone Group PLC",
+        "lon": 50.4974,
+        "lat": 3.3528
+    },
+    "212.3.248.192": {
+        "coordinates": [
+            3.3528,
+            50.4974
+        ],
+        "asn": "AS3356",
+        "city": "Brussels",
+        "ipv4": "212.3.248.192/26",
+        "ipv6": "2001:4c08:2003:45::/64",
+        "hostname": "Level 3 Parent, LLC",
+        "lon": 50.4974,
+        "lat": 3.3528
+    },
+    "62.115.229.192": {
+        "coordinates": [
+            3.3528,
+            50.4974
+        ],
+        "asn": "AS1299",
+        "city": "Brussels",
+        "ipv4": "62.115.229.192/26",
+        "ipv6": "2001:2030:0:39::/64",
+        "hostname": "Telia Company AB",
+        "lon": 50.4974,
+        "lat": 3.3528
+    },
+    "77.67.119.0": {
+        "coordinates": [
+            3.3528,
+            50.4974
+        ],
+        "asn": "AS3257",
+        "city": "Brussels",
+        "ipv4": "77.67.119.0/26",
+        "ipv6": "2001:668:1f:69::/64",
+        "hostname": "GTT Communications Inc.",
+        "lon": 50.4974,
+        "lat": 3.3528
+    },
+    "162.213.98.128": {
+        "coordinates": [
+            3.3528,
+            50.4974
+        ],
+        "asn": "AS6453",
+        "city": "Brussels",
+        "ipv4": "162.213.98.128/26",
+        "ipv6": "2a01:3e0:a00:1::/64",
+        "hostname": "TATA COMMUNICATIONS (AMERICA) INC",
+        "lon": 50.4974,
+        "lat": 3.3528
+    },
+    "34.79.58.167": {
+        "coordinates": [
+            3.3528,
+            50.4974
+        ],
+        "asn": "AS15169",
+        "city": "Brussels",
+        "ipv4": "34.79.58.167/32",
+        "ipv6": "2600:1900:4010:a6d4::/128",
+        "hostname": "Google LLC",
+        "lon": 50.4974,
+        "lat": 3.3528
+    },
+    "34.101.131.175": {
+        "coordinates": [
+            106.6558,
+            -6.1256
+        ],
+        "asn": "AS139190",
+        "city": "Jakarta",
+        "ipv4": "34.101.131.175/32",
+        "ipv6": "2600:1901:8170:40d1::/128",
+        "hostname": "Google LLC",
+        "lon": -6.1256,
+        "lat": 106.6558
+    },
+    "34.139.106.82": {
+        "coordinates": [
+            -80.0406,
+            32.8986
+        ],
+        "asn": "AS396982",
+        "city": "Charleston",
+        "ipv4": "34.139.106.82/32",
+        "ipv6": "2600:1900:4020:5b68::/128",
+        "hostname": "Google LLC",
+        "lon": 32.8986,
+        "lat": -80.0406
+    },
+    "34.73.52.238": {
+        "coordinates": [
+            -80.0406,
+            32.8986
+        ],
+        "asn": "AS396982",
+        "city": "Charleston",
+        "ipv4": "34.73.52.238/32",
+        "ipv6": "",
+        "hostname": "Google LLC",
+        "lon": 32.8986,
+        "lat": -80.0406
+    },
+    "34.162.22.206": {
+        "coordinates": [
+            -82.8919,
+            39.9981
+        ],
+        "asn": "AS396982",
+        "city": "Columbus",
+        "ipv4": "34.162.22.206/32",
+        "ipv6": "2600:1901:8130:246c::/128",
+        "hostname": "Google LLC",
+        "lon": 39.9981,
+        "lat": -82.8919
+    },
+    "154.114.19.64": {
+        "coordinates": [
+            18.6018,
+            -33.9724
+        ],
+        "asn": "AS2018",
+        "city": "Cape Town",
+        "ipv4": "154.114.19.64/26",
+        "ipv6": "2001:4200:0:e::/64",
+        "hostname": "TENET (The UNINET Project)",
+        "lon": -33.9724,
+        "lat": 18.6018
+    },
+    "115.113.240.192": {
+        "coordinates": [
+            77.1,
+            28.5562
+        ],
+        "asn": "AS4755",
+        "city": "New Delhi",
+        "ipv4": "115.113.240.192/26",
+        "ipv6": "2403:0:400:56::/64",
+        "hostname": "TATA Communications formerly VSNL is Leading ISP",
+        "lon": 28.5562,
+        "lat": 77.1
+    },
+    "61.246.223.0": {
+        "coordinates": [
+            77.1,
+            28.5562
+        ],
+        "asn": "AS9498",
+        "city": "New Delhi",
+        "ipv4": "61.246.223.0/26",
+        "ipv6": "",
+        "hostname": "BHARTI Airtel Ltd.",
+        "lon": 28.5562,
+        "lat": 77.1
+    },
+    "34.131.204.19": {
+        "coordinates": [
+            77.1,
+            28.5562
+        ],
+        "asn": "AS396982",
+        "city": "New Delhi",
+        "ipv4": "34.131.204.19/32",
+        "ipv6": "2600:1900:41b0:a72::/128",
+        "hostname": "Google LLC",
+        "lon": 28.5562,
+        "lat": 77.1
+    },
+    "4.34.58.0": {
+        "coordinates": [
+            -104.6737,
+            39.8561
+        ],
+        "asn": "AS3356",
+        "city": "Denver",
+        "ipv4": "4.34.58.0/26",
+        "ipv6": "2001:1900:2200:49::/64",
+        "hostname": "Level 3 Parent, LLC",
+        "lon": 39.8561,
+        "lat": -104.6737
+    },
+    "128.177.109.64": {
+        "coordinates": [
+            -104.6737,
+            39.8561
+        ],
+        "asn": "AS6461",
+        "city": "Denver",
+        "ipv4": "128.177.109.64/26",
+        "ipv6": "2001:438:fffd:2c::/64",
+        "hostname": "Zayo Bandwidth",
+        "lon": 39.8561,
+        "lat": -104.6737
+    },
+    "209.170.120.64": {
+        "coordinates": [
+            -104.6737,
+            39.8561
+        ],
+        "asn": "AS1299",
+        "city": "Denver",
+        "ipv4": "209.170.120.64/26",
+        "ipv6": "2001:2030:0:3b::/64",
+        "hostname": "Telia Company AB",
+        "lon": 39.8561,
+        "lat": -104.6737
+    },
+    "208.116.164.0": {
+        "coordinates": [
+            -104.6737,
+            39.8561
+        ],
+        "asn": "AS3257",
+        "city": "Denver",
+        "ipv4": "208.116.164.0/26",
+        "ipv6": "2001:668:1f:b3::/64",
+        "hostname": "GTT Communications Inc.",
+        "lon": 39.8561,
+        "lat": -104.6737
+    },
+    "64.86.132.64": {
+        "coordinates": [
+            -97.0381,
+            32.8969
+        ],
+        "asn": "AS6453",
+        "city": "Dallas",
+        "ipv4": "64.86.132.64/26",
+        "ipv6": "2001:5a0:3f00::/64",
+        "hostname": "TATA COMMUNICATIONS (AMERICA) INC",
+        "lon": 32.8969,
+        "lat": -97.0381
+    },
+    "4.15.35.128": {
+        "coordinates": [
+            -97.0381,
+            32.8969
+        ],
+        "asn": "AS3356",
+        "city": "Dallas",
+        "ipv4": "4.15.35.128/26",
+        "ipv6": "2001:1900:2200:44::/64",
+        "hostname": "Level 3 Parent, LLC",
+        "lon": 32.8969,
+        "lat": -97.0381
+    },
+    "128.177.163.64": {
+        "coordinates": [
+            -97.0381,
+            32.8969
+        ],
+        "asn": "AS6461",
+        "city": "Dallas",
+        "ipv4": "128.177.163.64/26",
+        "ipv6": "2001:438:fffd:30::/64",
+        "hostname": "Zayo Bandwidth",
+        "lon": 32.8969,
+        "lat": -97.0381
+    },
+    "209.170.119.128": {
+        "coordinates": [
+            -97.0381,
+            32.8969
+        ],
+        "asn": "AS1299",
+        "city": "Dallas",
+        "ipv4": "209.170.119.128/26",
+        "ipv6": "2001:2030:0:1f::/64",
+        "hostname": "Telia Company AB",
+        "lon": 32.8969,
+        "lat": -97.0381
+    },
+    "38.107.216.0": {
+        "coordinates": [
+            -97.0381,
+            32.8969
+        ],
+        "asn": "AS174",
+        "city": "Dallas",
+        "ipv4": "38.107.216.0/26",
+        "ipv6": "2001:550:2000::/64",
+        "hostname": "Cogent Communications",
+        "lon": 32.8969,
+        "lat": -97.0381
+    },
+    "34.174.167.116": {
+        "coordinates": [
+            -97.0381,
+            32.8969
+        ],
+        "asn": "AS396982",
+        "city": "Dallas",
+        "ipv4": "34.174.167.116/32",
+        "ipv6": "2600:1901:8140:9cd3::/128",
+        "hostname": "Google LLC",
+        "lon": 32.8969,
+        "lat": -97.0381
+    },
+    "193.1.12.192": {
+        "coordinates": [
+            -6.25,
+            53.4333
+        ],
+        "asn": "AS1213",
+        "city": "Dublin",
+        "ipv4": "193.1.12.192/26",
+        "ipv6": "2001:770:b5::/64",
+        "hostname": "HEAnet Limited",
+        "lon": 53.4333,
+        "lat": -6.25
+    },
+    "204.199.6.0": {
+        "coordinates": [
+            -58.5358,
+            -34.8222
+        ],
+        "asn": "AS3549",
+        "city": "Buenos Aires",
+        "ipv4": "204.199.6.0/26",
+        "ipv6": "2001:1900:2261:1705::/64",
+        "hostname": "Level 3 Parent, LLC",
+        "lon": -34.8222,
+        "lat": -58.5358
+    },
+    "200.123.196.128": {
+        "coordinates": [
+            -58.5358,
+            -34.8222
+        ],
+        "asn": "AS6762",
+        "city": "Buenos Aires",
+        "ipv4": "200.123.196.128/26",
+        "ipv6": "2800:870:0:500::/64",
+        "hostname": "TELECOM ITALIA SPARKLE S.p.A.",
+        "lon": -34.8222,
+        "lat": -58.5358
+    },
+    "181.199.209.0": {
+        "coordinates": [
+            -58.5358,
+            -34.8222
+        ],
+        "asn": "AS12956",
+        "city": "Buenos Aires",
+        "ipv4": "181.199.209.0/26",
+        "ipv6": "2800:240:13::/64",
+        "hostname": "TELEFONICA GLOBAL SOLUTIONS SL",
+        "lon": -34.8222,
+        "lat": -58.5358
+    },
+    "190.94.191.128": {
+        "coordinates": [
+            -58.5358,
+            -34.8222
+        ],
+        "asn": "AS262589",
+        "city": "Buenos Aires",
+        "ipv4": "190.94.191.128/26",
+        "ipv6": "2800:a90:10:7::/64",
+        "hostname": "INTERNEXA BRASIL OPERADORA DE TELECOMUNICACOES S.A",
+        "lon": -34.8222,
+        "lat": -58.5358
+    },
+    "200.237.203.0": {
+        "coordinates": [
+            -48.546,
+            -27.6685
+        ],
+        "asn": "AS11242",
+        "city": "Florianopolis",
+        "ipv4": "200.237.203.0/26",
+        "ipv6": "2801:80:a88:4006::/64",
+        "hostname": "Universidade Federal de Santa Catarina",
+        "lon": -27.6685,
+        "lat": -48.546
+    },
+    "80.239.199.0": {
+        "coordinates": [
+            8.5622,
+            50.0379
+        ],
+        "asn": "AS1299",
+        "city": "Frankfurt",
+        "ipv4": "80.239.199.0/26",
+        "ipv6": "2001:2030:2f::/64",
+        "hostname": "Telia Company AB",
+        "lon": 50.0379,
+        "lat": 8.5622
+    },
+    "77.67.114.0": {
+        "coordinates": [
+            8.5622,
+            50.0379
+        ],
+        "asn": "AS3257",
+        "city": "Frankfurt",
+        "ipv4": "77.67.114.0/26",
+        "ipv6": "2001:668:1f:5e::/64",
+        "hostname": "GTT Communications Inc.",
+        "lon": 50.0379,
+        "lat": 8.5622
+    },
+    "195.89.146.64": {
+        "coordinates": [
+            8.5622,
+            50.0379
+        ],
+        "asn": "AS1273",
+        "city": "Frankfurt",
+        "ipv4": "195.89.146.64/26",
+        "ipv6": "2001:5001:200:30::/64",
+        "hostname": "Vodafone Group PLC",
+        "lon": 50.0379,
+        "lat": 8.5622
+    },
+    "62.67.198.192": {
+        "coordinates": [
+            8.5622,
+            50.0379
+        ],
+        "asn": "AS3356",
+        "city": "Frankfurt",
+        "ipv4": "62.67.198.192/26",
+        "ipv6": "2001:4c08:2003:40::/64",
+        "hostname": "Level 3 Parent, LLC",
+        "lon": 50.0379,
+        "lat": 8.5622
+    },
+    "193.142.125.0": {
+        "coordinates": [
+            8.5622,
+            50.0379
+        ],
+        "asn": "AS6453",
+        "city": "Frankfurt",
+        "ipv4": "193.142.125.0/26",
+        "ipv6": "2a01:3e0:ff20:401::/64",
+        "hostname": "TATA COMMUNICATIONS (AMERICA) INC",
+        "lon": 50.0379,
+        "lat": 8.5622
+    },
+    "162.213.97.192": {
+        "coordinates": [
+            8.5622,
+            50.0379
+        ],
+        "asn": "AS6762",
+        "city": "Frankfurt",
+        "ipv4": "162.213.97.192/26",
+        "ipv6": "2001:41a8:604:2::/64",
+        "hostname": "TELECOM ITALIA SPARKLE S.p.A.",
+        "lon": 50.0379,
+        "lat": 8.5622
+    },
+    "34.159.159.206": {
+        "coordinates": [
+            8.5622,
+            50.0379
+        ],
+        "asn": "AS396982",
+        "city": "Frankfurt",
+        "ipv4": "34.159.159.206/32",
+        "ipv6": "2600:1900:40d0:3976::/128",
+        "hostname": "Google LLC",
+        "lon": 50.0379,
+        "lat": 8.5622
+    },
+    "190.98.179.128": {
+        "coordinates": [
+            -43.2588,
+            -22.8052
+        ],
+        "asn": "AS12956",
+        "city": "Rio de Janeiro",
+        "ipv4": "190.98.179.128/26",
+        "ipv6": "2001:1498:1:964::/64",
+        "hostname": "Telefonica International Wholesale Services",
+        "lon": -22.8052,
+        "lat": -43.2588
+    },
+    "162.213.97.128": {
+        "coordinates": [
+            -43.2588,
+            -22.8052
+        ],
+        "asn": "AS6762",
+        "city": "Rio de Janeiro",
+        "ipv4": "162.213.97.128/26",
+        "ipv6": "2800:870:1100:1::/64",
+        "hostname": "TELECOM ITALIA SPARKLE S.p.A.",
+        "lon": -22.8052,
+        "lat": -43.2588
+    },
+    "189.91.98.64": {
+        "coordinates": [
+            -43.2588,
+            -22.8052
+        ],
+        "asn": "AS262589",
+        "city": "Rio de Janeiro",
+        "ipv4": "189.91.98.64/26",
+        "ipv6": "2804:680:501:b::/64",
+        "hostname": "INTERNEXA BRASIL OPERADORA DE TELECOMUNICACOES S.A",
+        "lon": -22.8052,
+        "lat": -43.2588
+    },
+    "200.189.196.64": {
+        "coordinates": [
+            -43.2588,
+            -22.8052
+        ],
+        "asn": "AS3549",
+        "city": "Rio de Janeiro",
+        "ipv4": "200.189.196.64/26",
+        "ipv6": "2804:4c0:ffff:fefe::/64",
+        "hostname": "Level 3 Parent, LLC",
+        "lon": -22.8052,
+        "lat": -43.2588
+    },
+    "189.125.228.64": {
+        "coordinates": [
+            -46.473,
+            -23.4305
+        ],
+        "asn": "AS3549",
+        "city": "Sao Paulo",
+        "ipv4": "189.125.228.64/26",
+        "ipv6": "2804:4c0:ffff:fac3::/64",
+        "hostname": "Level 3 Parent, LLC",
+        "lon": -23.4305,
+        "lat": -46.473
+    },
+    "177.136.80.192": {
+        "coordinates": [
+            -46.473,
+            -23.4305
+        ],
+        "asn": "AS262589",
+        "city": "Sao Paulo",
+        "ipv4": "177.136.80.192/26",
+        "ipv6": "2804:680:15:1::/64",
+        "hostname": "INTERNEXA BRASIL OPERADORA DE TELECOMUNICACOES S.A",
+        "lon": -23.4305,
+        "lat": -46.473
+    },
+    "200.123.198.128": {
+        "coordinates": [
+            -46.473,
+            -23.4305
+        ],
+        "asn": "AS6762",
+        "city": "Sao Paulo",
+        "ipv4": "200.123.198.128/26",
+        "ipv6": "2800:870:1000:10::/64",
+        "hostname": "TELECOM ITALIA SPARKLE S.p.A.",
+        "lon": -23.4305,
+        "lat": -46.473
+    },
+    "190.98.158.0": {
+        "coordinates": [
+            -46.473,
+            -23.4305
+        ],
+        "asn": "AS12956",
+        "city": "Sao Paulo",
+        "ipv4": "190.98.158.0/26",
+        "ipv6": "2001:1498:1:960::/64",
+        "hostname": "Telefonica International Wholesale Services",
+        "lon": -23.4305,
+        "lat": -46.473
+    },
+    "34.151.220.77": {
+        "coordinates": [
+            -46.473,
+            -23.4305
+        ],
+        "asn": "AS396982",
+        "city": "Sao Paulo",
+        "ipv4": "34.151.220.77/32",
+        "ipv6": "2600:1900:40f0:7602::/128",
+        "hostname": "Google LLC",
+        "lon": -23.4305,
+        "lat": -46.473
+    },
+    "80.239.142.192": {
+        "coordinates": [
+            9.9833,
+            53.6333
+        ],
+        "asn": "AS1299",
+        "city": "Hamburg",
+        "ipv4": "80.239.142.192/26",
+        "ipv6": "2001:2030:0:19::/64",
+        "hostname": "Telia Company AB",
+        "lon": 53.6333,
+        "lat": 9.9833
+    },
+    "35.228.103.192": {
+        "coordinates": [
+            24.9633,
+            60.3172
+        ],
+        "asn": "AS396982",
+        "city": "Helsinki",
+        "ipv4": "35.228.103.192/32",
+        "ipv6": "2600:1900:4150:c32e::/128",
+        "hostname": "Google LLC",
+        "lon": 60.3172,
+        "lat": 24.9633
+    },
+    "183.178.65.0": {
+        "coordinates": [
+            113.9144,
+            22.3089
+        ],
+        "asn": "AS10103",
+        "city": "Hong Kong",
+        "ipv4": "183.178.65.0/26",
+        "ipv6": "2403:f500:4800::/64",
+        "hostname": "HK Broadband Network Ltd.",
+        "lon": 22.3089,
+        "lat": 113.9144
+    },
+    "64.235.254.0": {
+        "coordinates": [
+            113.9144,
+            22.3089
+        ],
+        "asn": "AS5580",
+        "city": "Hong Kong",
+        "ipv4": "64.235.254.0/26",
+        "ipv6": "2400:f780:1f:c::/64",
+        "hostname": "GTT Netherlands B.V.",
+        "lon": 22.3089,
+        "lat": 113.9144
+    },
+    "154.18.169.64": {
+        "coordinates": [
+            113.9144,
+            22.3089
+        ],
+        "asn": "AS174",
+        "city": "Hong Kong",
+        "ipv4": "154.18.169.64/26",
+        "ipv6": "2402:4480:400::/64",
+        "hostname": "Cogent Communications",
+        "lon": 22.3089,
+        "lat": 113.9144
+    },
+    "34.150.68.57": {
+        "coordinates": [
+            113.9144,
+            22.3089
+        ],
+        "asn": "AS396982",
+        "city": "Hong Kong",
+        "ipv4": "34.150.68.57/32",
+        "ipv6": "2600:1900:41a0:f002::/128",
+        "hostname": "Google LLC",
+        "lon": 22.3089,
+        "lat": 113.9144
+    },
+    "210.151.179.128": {
+        "coordinates": [
+            139.78,
+            35.5522
+        ],
+        "asn": "AS2518",
+        "city": "Tokyo",
+        "ipv4": "210.151.179.128/26",
+        "ipv6": "2001:260:8a::/64",
+        "hostname": "BIGLOBE Inc.",
+        "lon": 35.5522,
+        "lat": 139.78
+    },
+    "111.109.1.64": {
+        "coordinates": [
+            139.78,
+            35.5522
+        ],
+        "asn": "AS2516",
+        "city": "Tokyo",
+        "ipv4": "111.109.1.64/26",
+        "ipv6": "2001:268:809:b::/64",
+        "hostname": "KDDI Corporation",
+        "lon": 35.5522,
+        "lat": 139.78
+    },
+    "64.235.255.128": {
+        "coordinates": [
+            139.78,
+            35.5522
+        ],
+        "asn": "AS5580",
+        "city": "Tokyo",
+        "ipv4": "64.235.255.128/26",
+        "ipv6": "2400:f780:1f:d::/64",
+        "hostname": "GTT Netherlands B.V.",
+        "lon": 35.5522,
+        "lat": 139.78
+    },
+    "61.200.88.0": {
+        "coordinates": [
+            139.78,
+            35.5522
+        ],
+        "asn": "AS2914",
+        "city": "Tokyo",
+        "ipv4": "61.200.88.0/26",
+        "ipv6": "2001:218:2000:3::/64",
+        "hostname": "NTT America, Inc.",
+        "lon": 35.5522,
+        "lat": 139.78
+    },
+    "34.146.53.42": {
+        "coordinates": [
+            139.78,
+            35.5522
+        ],
+        "asn": "AS396982",
+        "city": "Tokyo",
+        "ipv4": "34.146.53.42/32",
+        "ipv6": "2600:1900:4050:46::/128",
+        "hostname": "Google LLC",
+        "lon": 35.5522,
+        "lat": 139.78
+    },
+    "74.199.156.192": {
+        "coordinates": [
+            -157.924,
+            21.3254
+        ],
+        "asn": "AS3257",
+        "city": "Honolulu",
+        "ipv4": "74.199.156.192/26",
+        "ipv6": "2001:668:1f:fe06::/64",
+        "hostname": "GTT Communications Inc.",
+        "lon": 21.3254,
+        "lat": -157.924
+    },
+    "38.90.140.128": {
+        "coordinates": [
+            -77.4558,
+            38.9444
+        ],
+        "asn": "AS174",
+        "city": "Washington",
+        "ipv4": "38.90.140.128/26",
+        "ipv6": "2001:550:200:7::/64",
+        "hostname": "Cogent Communications",
+        "lon": 38.9444,
+        "lat": -77.4558
+    },
+    "66.198.10.128": {
+        "coordinates": [
+            -77.4558,
+            38.9444
+        ],
+        "asn": "AS6453",
+        "city": "Washington",
+        "ipv4": "66.198.10.128/26",
+        "ipv6": "2001:5a0:3c03::/64",
+        "hostname": "TATA COMMUNICATIONS (AMERICA) INC",
+        "lon": 38.9444,
+        "lat": -77.4558
+    },
+    "173.205.4.0": {
+        "coordinates": [
+            -77.4558,
+            38.9444
+        ],
+        "asn": "AS3257",
+        "city": "Washington",
+        "ipv4": "173.205.4.0/26",
+        "ipv6": "2001:668:1f:21::/64",
+        "hostname": "GTT Communications Inc.",
+        "lon": 38.9444,
+        "lat": -77.4558
+    },
+    "4.35.238.192": {
+        "coordinates": [
+            -77.4558,
+            38.9444
+        ],
+        "asn": "AS3356",
+        "city": "Washington",
+        "ipv4": "4.35.238.192/26",
+        "ipv6": "2001:1900:2200:46::/64",
+        "hostname": "Level 3 Parent, LLC",
+        "lon": 38.9444,
+        "lat": -77.4558
+    },
+    "209.170.119.192": {
+        "coordinates": [
+            -77.4558,
+            38.9444
+        ],
+        "asn": "AS1299",
+        "city": "Washington",
+        "ipv4": "209.170.119.192/26",
+        "ipv6": "2001:2030:0:29::/64",
+        "hostname": "Telia Company AB",
+        "lon": 38.9444,
+        "lat": -77.4558
+    },
+    "34.85.166.60": {
+        "coordinates": [
+            -77.4558,
+            38.9444
+        ],
+        "asn": "AS396982",
+        "city": "Washington",
+        "ipv4": "34.85.166.60/32",
+        "ipv6": "2600:1900:4090:5709::/128",
+        "hostname": "Google LLC",
+        "lon": 38.9444,
+        "lat": -77.4558
+    },
+    "34.145.210.246": {
+        "coordinates": [
+            -77.4558,
+            38.9444
+        ],
+        "asn": "AS396982",
+        "city": "Washington",
+        "ipv4": "34.145.210.246/32",
+        "ipv6": "2600:1900:4090:6589::/128",
+        "hostname": "Google LLC",
+        "lon": 38.9444,
+        "lat": -77.4558
+    },
+    "34.64.61.249": {
+        "coordinates": [
+            126.44,
+            37.4633
+        ],
+        "asn": "AS396982",
+        "city": "Seoul",
+        "ipv4": "34.64.61.249/32",
+        "ipv6": "2600:1901:8180:af78::/128",
+        "hostname": "Google LLC",
+        "lon": 37.4633,
+        "lat": 126.44
+    },
+    "196.24.45.128": {
+        "coordinates": [
+            28.1335,
+            -26.2035
+        ],
+        "asn": "AS2018",
+        "city": "Johannesburg",
+        "ipv4": "196.24.45.128/26",
+        "ipv6": "2001:4200:fff0:4512::/64",
+        "hostname": "TENET (The UNINET Project)",
+        "lon": -26.2035,
+        "lat": 28.1335
+    },
+    "34.97.176.53": {
+        "coordinates": [
+            135.2328,
+            34.4342
+        ],
+        "asn": "AS396982",
+        "city": "Osaka",
+        "ipv4": "34.97.176.53/32",
+        "ipv6": "2600:1900:41d0:8f23::/128",
+        "hostname": "Google LLC",
+        "lon": 34.4342,
+        "lat": 135.2328
+    },
+    "34.125.158.248": {
+        "coordinates": [
+            -115.1522,
+            36.08
+        ],
+        "asn": "AS396982",
+        "city": "Las Vegas",
+        "ipv4": "34.125.158.248/32",
+        "ipv6": "2600:1900:4180:ed51::/128",
+        "hostname": "Google LLC",
+        "lon": 36.08,
+        "lat": -115.1522
+    },
+    "63.243.240.64": {
+        "coordinates": [
+            -118.4072,
+            33.9425
+        ],
+        "asn": "AS6453",
+        "city": "Los Angeles",
+        "ipv4": "63.243.240.64/26",
+        "ipv6": "2001:5a0:3a01::/64",
+        "hostname": "TATA COMMUNICATIONS (AMERICA) INC",
+        "lon": 33.9425,
+        "lat": -118.4072
+    },
+    "173.205.3.64": {
+        "coordinates": [
+            -118.4072,
+            33.9425
+        ],
+        "asn": "AS3257",
+        "city": "Los Angeles",
+        "ipv4": "173.205.3.64/26",
+        "ipv6": "2001:668:1f:1e::/64",
+        "hostname": "GTT Communications Inc.",
+        "lon": 33.9425,
+        "lat": -118.4072
+    },
+    "4.15.166.0": {
+        "coordinates": [
+            -118.4072,
+            33.9425
+        ],
+        "asn": "AS3356",
+        "city": "Los Angeles",
+        "ipv4": "4.15.166.0/26",
+        "ipv6": "2001:1900:2100:15::/64",
+        "hostname": "Level 3 Parent, LLC",
+        "lon": 33.9425,
+        "lat": -118.4072
+    },
+    "128.177.109.192": {
+        "coordinates": [
+            -118.4072,
+            33.9425
+        ],
+        "asn": "AS6461",
+        "city": "Los Angeles",
+        "ipv4": "128.177.109.192/26",
+        "ipv6": "2001:438:fffd:2e::/64",
+        "hostname": "Zayo Bandwidth",
+        "lon": 33.9425,
+        "lat": -118.4072
+    },
+    "38.98.51.0": {
+        "coordinates": [
+            -118.4072,
+            33.9425
+        ],
+        "asn": "AS174",
+        "city": "Los Angeles",
+        "ipv4": "38.98.51.0/26",
+        "ipv6": "2001:550:6800::/64",
+        "hostname": "Cogent Communications",
+        "lon": 33.9425,
+        "lat": -118.4072
+    },
+    "34.102.13.15": {
+        "coordinates": [
+            -118.4072,
+            33.9425
+        ],
+        "asn": "AS396982",
+        "city": "Los Angeles",
+        "ipv4": "34.102.13.15/32",
+        "ipv6": "2600:1900:4120:30e8:0:1::/128",
+        "hostname": "Google LLC",
+        "lon": 33.9425,
+        "lat": -118.4072
+    },
+    "34.102.101.93": {
+        "coordinates": [
+            -118.4072,
+            33.9425
+        ],
+        "asn": "AS396982",
+        "city": "Los Angeles",
+        "ipv4": "34.102.101.93/32",
+        "ipv6": "2600:1900:4120:7571::/128",
+        "hostname": "Google LLC",
+        "lon": 33.9425,
+        "lat": -118.4072
+    },
+    "34.94.47.22": {
+        "coordinates": [
+            -118.4072,
+            33.9425
+        ],
+        "asn": "AS396982",
+        "city": "Los Angeles",
+        "ipv4": "34.94.47.22/32",
+        "ipv6": "2600:1900:4120:8f83:0:5::/128",
+        "hostname": "Google LLC",
+        "lon": 33.9425,
+        "lat": -118.4072
+    },
+    "173.205.4.64": {
+        "coordinates": [
+            -73.8667,
+            40.7667
+        ],
+        "asn": "AS3257",
+        "city": "New York",
+        "ipv4": "173.205.4.64/26",
+        "ipv6": "2001:668:1f:22::/64",
+        "hostname": "GTT Communications Inc.",
+        "lon": 40.7667,
+        "lat": -73.8667
+    },
+    "4.35.94.0": {
+        "coordinates": [
+            -73.8667,
+            40.7667
+        ],
+        "asn": "AS3356",
+        "city": "New York",
+        "ipv4": "4.35.94.0/26",
+        "ipv6": "2001:1900:2100:14::/64",
+        "hostname": "Level 3 Parent, LLC",
+        "lon": 40.7667,
+        "lat": -73.8667
+    },
+    "128.177.119.192": {
+        "coordinates": [
+            -73.8667,
+            40.7667
+        ],
+        "asn": "AS6461",
+        "city": "New York",
+        "ipv4": "128.177.119.192/26",
+        "ipv6": "2001:438:fffd:2b::/64",
+        "hostname": "Zayo Bandwidth",
+        "lon": 40.7667,
+        "lat": -73.8667
+    },
+    "38.106.70.128": {
+        "coordinates": [
+            -73.8667,
+            40.7667
+        ],
+        "asn": "AS174",
+        "city": "New York",
+        "ipv4": "38.106.70.128/26",
+        "ipv6": "2001:550:1d00:100::/64",
+        "hostname": "Cogent Communications",
+        "lon": 40.7667,
+        "lat": -73.8667
+    },
+    "64.86.148.128": {
+        "coordinates": [
+            -73.8667,
+            40.7667
+        ],
+        "asn": "AS6453",
+        "city": "New York",
+        "ipv4": "64.86.148.128/26",
+        "ipv6": "2001:5a0:f00:501::/64",
+        "hostname": "TATA COMMUNICATIONS (AMERICA) INC",
+        "lon": 40.7667,
+        "lat": -73.8667
+    },
+    "4.14.159.64": {
+        "coordinates": [
+            -73.8667,
+            40.7667
+        ],
+        "asn": "AS3356",
+        "city": "New York",
+        "ipv4": "4.14.159.64/26",
+        "ipv6": "2001:1900:2100:2d::/64",
+        "hostname": "Level 3 Parent, LLC",
+        "lon": 40.7667,
+        "lat": -73.8667
+    },
+    "4.14.3.0": {
+        "coordinates": [
+            -73.8667,
+            40.7667
+        ],
+        "asn": "AS3356",
+        "city": "New York",
+        "ipv4": "4.14.3.0/26",
+        "ipv6": "2001:1900:2100:1::/64",
+        "hostname": "Level 3 Parent, LLC",
+        "lon": 40.7667,
+        "lat": -73.8667
+    },
+    "80.239.170.192": {
+        "coordinates": [
+            -0.4514,
+            51.4697
+        ],
+        "asn": "AS1299",
+        "city": "London",
+        "ipv4": "80.239.170.192/26",
+        "ipv6": "2001:2030:33::/64",
+        "hostname": "Telia Company AB",
+        "lon": 51.4697,
+        "lat": -0.4514
+    },
+    "77.67.114.192": {
+        "coordinates": [
+            -0.4514,
+            51.4697
+        ],
+        "asn": "AS3257",
+        "city": "London",
+        "ipv4": "77.67.114.192/26",
+        "ipv6": "2001:668:1f:61::/64",
+        "hostname": "GTT Communications Inc.",
+        "lon": 51.4697,
+        "lat": -0.4514
+    },
+    "195.89.146.0": {
+        "coordinates": [
+            -0.4514,
+            51.4697
+        ],
+        "asn": "AS1273",
+        "city": "London",
+        "ipv4": "195.89.146.0/26",
+        "ipv6": "2001:5000:1100:31::/64",
+        "hostname": "Vodafone Group PLC",
+        "lon": 51.4697,
+        "lat": -0.4514
+    },
+    "212.113.31.0": {
+        "coordinates": [
+            -0.4514,
+            51.4697
+        ],
+        "asn": "AS3356",
+        "city": "London",
+        "ipv4": "212.113.31.0/26",
+        "ipv6": "2001:4c08:2003:3c::/64",
+        "hostname": "Level 3 Parent, LLC",
+        "lon": 51.4697,
+        "lat": -0.4514
+    },
+    "162.213.96.0": {
+        "coordinates": [
+            -0.4514,
+            51.4697
+        ],
+        "asn": "AS6762",
+        "city": "London",
+        "ipv4": "162.213.96.0/26",
+        "ipv6": "2001:41a8:405:1::/64",
+        "hostname": "TELECOM ITALIA SPARKLE S.p.A.",
+        "lon": 51.4697,
+        "lat": -0.4514
+    },
+    "193.142.125.128": {
+        "coordinates": [
+            -0.4514,
+            51.4697
+        ],
+        "asn": "AS6453",
+        "city": "London",
+        "ipv4": "193.142.125.128/26",
+        "ipv6": "2a01:3e0:10:2002::/64",
+        "hostname": "TATA COMMUNICATIONS (AMERICA) INC",
+        "lon": 51.4697,
+        "lat": -0.4514
+    },
+    "35.189.86.149": {
+        "coordinates": [
+            -0.4514,
+            51.4697
+        ],
+        "asn": "AS15169",
+        "city": "London",
+        "ipv4": "35.189.86.149/32",
+        "ipv6": "2600:1900:40c0:f08e:0:1::/128",
+        "hostname": "Google LLC",
+        "lon": 51.4697,
+        "lat": -0.4514
+    },
+    "8.243.113.192": {
+        "coordinates": [
+            -77.1144,
+            -12.0219
+        ],
+        "asn": "AS3356",
+        "city": "Lima",
+        "ipv4": "8.243.113.192/26",
+        "ipv6": "2001:13b3:9000::/64",
+        "hostname": "Level 3 Parent, LLC",
+        "lon": -12.0219,
+        "lat": -77.1144
+    },
+    "200.123.196.0": {
+        "coordinates": [
+            -77.1144,
+            -12.0219
+        ],
+        "asn": "AS6762",
+        "city": "Lima",
+        "ipv4": "200.123.196.0/26",
+        "ipv6": "2800:870:3000::/64",
+        "hostname": "TELECOM ITALIA SPARKLE S.p.A.",
+        "lon": -12.0219,
+        "lat": -77.1144
+    },
+    "181.199.209.128": {
+        "coordinates": [
+            -77.1144,
+            -12.0219
+        ],
+        "asn": "AS12956",
+        "city": "Lima",
+        "ipv4": "181.199.209.128/26",
+        "ipv6": "2800:240:13:2::/64",
+        "hostname": "TELEFONICA GLOBAL SOLUTIONS SL",
+        "lon": -12.0219,
+        "lat": -77.1144
+    },
+    "191.97.58.64": {
+        "coordinates": [
+            -77.1144,
+            -12.0219
+        ],
+        "asn": "AS28032",
+        "city": "Lima",
+        "ipv4": "191.97.58.64/26",
+        "ipv6": "2800:650:300:1::/64",
+        "hostname": "INTERNEXA PERU S.A",
+        "lon": -12.0219,
+        "lat": -77.1144
+    },
+    "213.242.96.192": {
+        "coordinates": [
+            -9.1354,
+            38.7756
+        ],
+        "asn": "AS3356",
+        "city": "Lisbon",
+        "ipv4": "213.242.96.192/26",
+        "ipv6": "2001:4c08:2003:3d::/64",
+        "hostname": "Level 3 Parent, LLC",
+        "lon": 38.7756,
+        "lat": -9.1354
+    },
+    "195.89.147.128": {
+        "coordinates": [
+            -9.1354,
+            38.7756
+        ],
+        "asn": "AS1273",
+        "city": "Lisbon",
+        "ipv4": "195.89.147.128/26",
+        "ipv6": "2001:500d:200:3::/64",
+        "hostname": "Vodafone Group PLC",
+        "lon": 38.7756,
+        "lat": -9.1354
+    },
+    "162.213.98.0": {
+        "coordinates": [
+            -9.1354,
+            38.7756
+        ],
+        "asn": "AS6453",
+        "city": "Lisbon",
+        "ipv4": "162.213.98.0/26",
+        "ipv6": "2a01:3e0:1900:101::/64",
+        "hostname": "TATA COMMUNICATIONS (AMERICA) INC",
+        "lon": 38.7756,
+        "lat": -9.1354
+    },
+    "91.239.96.64": {
+        "coordinates": [
+            14.4575,
+            46.2236
+        ],
+        "asn": "AS198644",
+        "city": "Ljubljana",
+        "ipv4": "91.239.96.64/26",
+        "ipv6": "2001:67c:27e4:100::/64",
+        "hostname": "Zavod za IPv6 - go6",
+        "lon": 46.2236,
+        "lat": 14.4575
+    },
+    "102.88.1.128": {
+        "coordinates": [
+            3.3211,
+            6.5821
+        ],
+        "asn": "AS29465",
+        "city": "Lagos",
+        "ipv4": "102.88.1.128/26",
+        "ipv6": "",
+        "hostname": "MTN NIGERIA Communication limited",
+        "lon": 6.5821,
+        "lat": 3.3211
+    },
+    "121.242.229.64": {
+        "coordinates": [
+            80.1709,
+            12.9941
+        ],
+        "asn": "AS4755",
+        "city": "Chennai",
+        "ipv4": "121.242.229.64/26",
+        "ipv6": "2403:0:200:3c::/64",
+        "hostname": "TATA Communications formerly VSNL is Leading ISP",
+        "lon": 12.9941,
+        "lat": 80.1709
+    },
+    "61.95.154.64": {
+        "coordinates": [
+            80.1709,
+            12.9941
+        ],
+        "asn": "AS9498",
+        "city": "Chennai",
+        "ipv4": "61.95.154.64/26",
+        "ipv6": "2404:a800:3200:23::/64",
+        "hostname": "BHARTI Airtel Ltd.",
+        "lon": 12.9941,
+        "lat": 80.1709
+    },
+    "213.242.96.128": {
+        "coordinates": [
+            -3.5667,
+            40.4667
+        ],
+        "asn": "AS3356",
+        "city": "Madrid",
+        "ipv4": "213.242.96.128/26",
+        "ipv6": "2001:4c08:2003:3e::/64",
+        "hostname": "Level 3 Parent, LLC",
+        "lon": 40.4667,
+        "lat": -3.5667
+    },
+    "80.239.229.128": {
+        "coordinates": [
+            -3.5667,
+            40.4667
+        ],
+        "asn": "AS1299",
+        "city": "Madrid",
+        "ipv4": "80.239.229.128/26",
+        "ipv6": "2001:2030:34::/64",
+        "hostname": "Telia Company AB",
+        "lon": 40.4667,
+        "lat": -3.5667
+    },
+    "77.67.115.64": {
+        "coordinates": [
+            -3.5667,
+            40.4667
+        ],
+        "asn": "AS3257",
+        "city": "Madrid",
+        "ipv4": "77.67.115.64/26",
+        "ipv6": "2001:668:1f:63::/64",
+        "hostname": "GTT Communications Inc.",
+        "lon": 40.4667,
+        "lat": -3.5667
+    },
+    "193.142.125.192": {
+        "coordinates": [
+            -3.5667,
+            40.4667
+        ],
+        "asn": "AS6453",
+        "city": "Madrid",
+        "ipv4": "193.142.125.192/26",
+        "ipv6": "2001:5a0:2a00:201::/64",
+        "hostname": "TATA COMMUNICATIONS (AMERICA) INC",
+        "lon": 40.4667,
+        "lat": -3.5667
+    },
+    "34.175.235.120": {
+        "coordinates": [
+            -3.5667,
+            40.4667
+        ],
+        "asn": "AS396982",
+        "city": "Madrid",
+        "ipv4": "34.175.235.120/32",
+        "ipv6": "2600:1901:8100:dbfc::/128",
+        "hostname": "Google LLC",
+        "lon": 40.4667,
+        "lat": -3.5667
+    },
+    "34.129.235.132": {
+        "coordinates": [
+            144.8433,
+            -37.6733
+        ],
+        "asn": "AS396982",
+        "city": "Melbourne",
+        "ipv4": "34.129.235.132/32",
+        "ipv6": "2600:1900:41c0:feec::/128",
+        "hostname": "Google LLC",
+        "lon": -37.6733,
+        "lat": 144.8433
+    },
+    "201.174.189.64": {
+        "coordinates": [
+            -99.0719,
+            19.4361
+        ],
+        "asn": "AS32098",
+        "city": "Mexico City",
+        "ipv4": "201.174.189.64/26",
+        "ipv6": "2604:d600:1001:1::/64",
+        "hostname": "Transtelco Inc",
+        "lon": 19.4361,
+        "lat": -99.0719
+    },
+    "67.74.37.0": {
+        "coordinates": [
+            -99.0719,
+            19.4361
+        ],
+        "asn": "AS3549",
+        "city": "Mexico City",
+        "ipv4": "67.74.37.0/26",
+        "ipv6": "2001:450:2002:1b8::/64",
+        "hostname": "Level 3 Parent, LLC",
+        "lon": 19.4361,
+        "lat": -99.0719
+    },
+    "76.74.75.128": {
+        "coordinates": [
+            -99.0719,
+            19.4361
+        ],
+        "asn": "AS286",
+        "city": "Mexico City",
+        "ipv4": "76.74.75.128/26",
+        "ipv6": "2001:668:1f:ff9a::/64",
+        "hostname": "KPN B.V.",
+        "lon": 19.4361,
+        "lat": -99.0719
+    },
+    "38.77.64.192": {
+        "coordinates": [
+            -99.0719,
+            19.4361
+        ],
+        "asn": "AS174",
+        "city": "Mexico City",
+        "ipv4": "38.77.64.192/26",
+        "ipv6": "2001:550:3900::/64",
+        "hostname": "Cogent Communications",
+        "lon": 19.4361,
+        "lat": -99.0719
+    },
+    "38.109.21.0": {
+        "coordinates": [
+            -80.2667,
+            25.7833
+        ],
+        "asn": "AS174",
+        "city": "Miami",
+        "ipv4": "38.109.21.0/26",
+        "ipv6": "2001:550:6c01::/64",
+        "hostname": "Cogent Communications",
+        "lon": 25.7833,
+        "lat": -80.2667
+    },
+    "66.110.73.0": {
+        "coordinates": [
+            -80.2667,
+            25.7833
+        ],
+        "asn": "AS6453",
+        "city": "Miami",
+        "ipv4": "66.110.73.0/26",
+        "ipv6": "2001:5a0:3801::/64",
+        "hostname": "TATA COMMUNICATIONS (AMERICA) INC",
+        "lon": 25.7833,
+        "lat": -80.2667
+    },
+    "173.205.3.128": {
+        "coordinates": [
+            -80.2667,
+            25.7833
+        ],
+        "asn": "AS3257",
+        "city": "Miami",
+        "ipv4": "173.205.3.128/26",
+        "ipv6": "2001:668:1f:1f::/64",
+        "hostname": "GTT Communications Inc.",
+        "lon": 25.7833,
+        "lat": -80.2667
+    },
+    "128.177.109.0": {
+        "coordinates": [
+            -80.2667,
+            25.7833
+        ],
+        "asn": "AS6461",
+        "city": "Miami",
+        "ipv4": "128.177.109.0/26",
+        "ipv6": "2001:438:fffd:29::/64",
+        "hostname": "Zayo Bandwidth",
+        "lon": 25.7833,
+        "lat": -80.2667
+    },
+    "4.71.210.192": {
+        "coordinates": [
+            -80.2667,
+            25.7833
+        ],
+        "asn": "AS3356",
+        "city": "Miami",
+        "ipv4": "4.71.210.192/26",
+        "ipv6": "2001:1900:3001:a::/64",
+        "hostname": "Level 3 Parent, LLC",
+        "lon": 25.7833,
+        "lat": -80.2667
+    },
+    "80.239.222.0": {
+        "coordinates": [
+            9.1916,
+            45.464
+        ],
+        "asn": "AS1299",
+        "city": "Milan",
+        "ipv4": "80.239.222.0/26",
+        "ipv6": "2001:2030:30::/64",
+        "hostname": "Telia Company AB",
+        "lon": 45.464,
+        "lat": 9.1916
+    },
+    "77.67.115.0": {
+        "coordinates": [
+            9.1916,
+            45.464
+        ],
+        "asn": "AS3257",
+        "city": "Milan",
+        "ipv4": "77.67.115.0/26",
+        "ipv6": "2001:668:1f:62::/64",
+        "hostname": "GTT Communications Inc.",
+        "lon": 45.464,
+        "lat": 9.1916
+    },
+    "213.242.77.128": {
+        "coordinates": [
+            9.1916,
+            45.464
+        ],
+        "asn": "AS3356",
+        "city": "Milan",
+        "ipv4": "213.242.77.128/26",
+        "ipv6": "2001:1900:2200:af::/64",
+        "hostname": "Level 3 Parent, LLC",
+        "lon": 45.464,
+        "lat": 9.1916
+    },
+    "195.89.147.0": {
+        "coordinates": [
+            9.1916,
+            45.464
+        ],
+        "asn": "AS1273",
+        "city": "Milan",
+        "ipv4": "195.89.147.0/26",
+        "ipv6": "2001:5008:100:14::/64",
+        "hostname": "Vodafone Group PLC",
+        "lon": 45.464,
+        "lat": 9.1916
+    },
+    "162.213.96.64": {
+        "coordinates": [
+            9.1916,
+            45.464
+        ],
+        "asn": "AS6762",
+        "city": "Milan",
+        "ipv4": "162.213.96.64/26",
+        "ipv6": "2001:41a8:28:4::/64",
+        "hostname": "TELECOM ITALIA SPARKLE S.p.A.",
+        "lon": 45.464,
+        "lat": 9.1916
+    },
+    "162.213.100.64": {
+        "coordinates": [
+            9.1916,
+            45.464
+        ],
+        "asn": "AS6453",
+        "city": "Milan",
+        "ipv4": "162.213.100.64/26",
+        "ipv6": "2a01:3e0:ff90:1::/64",
+        "hostname": "TATA COMMUNICATIONS (AMERICA) INC",
+        "lon": 45.464,
+        "lat": 9.1916
+    },
+    "34.154.171.24": {
+        "coordinates": [
+            9.1916,
+            45.464
+        ],
+        "asn": "AS396982",
+        "city": "Milan",
+        "ipv4": "34.154.171.24/32",
+        "ipv6": "2600:1901:8110:97b::/128",
+        "hostname": "Google LLC",
+        "lon": 45.464,
+        "lat": 9.1916
+    },
+    "202.90.156.0": {
+        "coordinates": [
+            121.0194,
+            14.5086
+        ],
+        "asn": "AS9821",
+        "city": "Manila",
+        "ipv4": "202.90.156.0/26",
+        "ipv6": "2001:d18:0:35::/64",
+        "hostname": "Department of Science and Technology",
+        "lon": 14.5086,
+        "lat": 121.0194
+    },
+    "103.43.213.128": {
+        "coordinates": [
+            121.0194,
+            14.5086
+        ],
+        "asn": "AS63927",
+        "city": "Manila",
+        "ipv4": "103.43.213.128/26",
+        "ipv6": "2401:da80:400:3::/64",
+        "hostname": "RISE",
+        "lon": 14.5086,
+        "lat": 121.0194
+    },
+    "197.235.0.192": {
+        "coordinates": [
+            32.5725,
+            -25.9208
+        ],
+        "asn": "AS37223",
+        "city": "Maputo",
+        "ipv4": "197.235.0.192/26",
+        "ipv6": "2c0f:f308:60:61f::/64",
+        "hostname": "VM S.A",
+        "lon": -25.9208,
+        "lat": 32.5725
+    },
+    "212.73.211.64": {
+        "coordinates": [
+            5.215,
+            43.4366
+        ],
+        "asn": "AS3356",
+        "city": "Marseille",
+        "ipv4": "212.73.211.64/26",
+        "ipv6": "2001:4c08:2003:38::/64",
+        "hostname": "Level 3 Parent, LLC",
+        "lon": 43.4366,
+        "lat": 5.215
+    },
+    "154.14.11.192": {
+        "coordinates": [
+            5.215,
+            43.4366
+        ],
+        "asn": "AS3257",
+        "city": "Marseille",
+        "ipv4": "154.14.11.192/26",
+        "ipv6": "2001:668:1f:e4::/64",
+        "hostname": "GTT Communications Inc.",
+        "lon": 43.4366,
+        "lat": 5.215
+    },
+    "162.213.96.192": {
+        "coordinates": [
+            5.215,
+            43.4366
+        ],
+        "asn": "AS6762",
+        "city": "Marseille",
+        "ipv4": "162.213.96.192/26",
+        "ipv6": "2001:41a8:244::/64",
+        "hostname": "TELECOM ITALIA SPARKLE S.p.A.",
+        "lon": 43.4366,
+        "lat": 5.215
+    },
+    "162.213.98.192": {
+        "coordinates": [
+            5.215,
+            43.4366
+        ],
+        "asn": "AS6453",
+        "city": "Marseille",
+        "ipv4": "162.213.98.192/26",
+        "ipv6": "2a01:3e0:ff50:201::/64",
+        "hostname": "TATA COMMUNICATIONS (AMERICA) INC",
+        "lon": 43.4366,
+        "lat": 5.215
+    },
+    "201.174.163.192": {
+        "coordinates": [
+            -100.1063,
+            25.7783
+        ],
+        "asn": "AS32098",
+        "city": "Monterrey",
+        "ipv4": "201.174.163.192/26",
+        "ipv6": "2604:d600:c06:4::/64",
+        "hostname": "Transtelco Inc",
+        "lon": 25.7783,
+        "lat": -100.1063
+    },
+    "197.136.0.64": {
+        "coordinates": [
+            36.9258,
+            -1.3192
+        ],
+        "asn": "AS36914",
+        "city": "Nairobi",
+        "ipv4": "197.136.0.64/26",
+        "ipv6": "2c0f:fe08:10:64::/64",
+        "hostname": "Kenya Education Network",
+        "lon": -1.3192,
+        "lat": 36.9258
+    },
+    "149.20.5.64": {
+        "coordinates": [
+            -122.0667,
+            37.3833
+        ],
+        "asn": "AS1280",
+        "city": "San Francisco Bay Area",
+        "ipv4": "149.20.5.64/26",
+        "ipv6": "2001:4f8:1:1001::/64",
+        "hostname": "Internet Systems Consortium, Inc.",
+        "lon": 37.3833,
+        "lat": -122.0667
+    },
+    "38.102.163.128": {
+        "coordinates": [
+            -122.0667,
+            37.3833
+        ],
+        "asn": "AS174",
+        "city": "San Francisco Bay Area",
+        "ipv4": "38.102.163.128/26",
+        "ipv6": "2001:550:1502::/64",
+        "hostname": "Cogent Communications",
+        "lon": 37.3833,
+        "lat": -122.0667
+    },
+    "66.110.32.64": {
+        "coordinates": [
+            -122.0667,
+            37.3833
+        ],
+        "asn": "AS6453",
+        "city": "San Francisco Bay Area",
+        "ipv4": "66.110.32.64/26",
+        "ipv6": "2001:5a0:3e00::/64",
+        "hostname": "TATA COMMUNICATIONS (AMERICA) INC",
+        "lon": 37.3833,
+        "lat": -122.0667
+    },
+    "128.177.109.128": {
+        "coordinates": [
+            -122.0667,
+            37.3833
+        ],
+        "asn": "AS6461",
+        "city": "San Francisco Bay Area",
+        "ipv4": "128.177.109.128/26",
+        "ipv6": "2001:438:fffd:2d::/64",
+        "hostname": "Zayo Bandwidth",
+        "lon": 37.3833,
+        "lat": -122.0667
+    },
+    "209.170.110.192": {
+        "coordinates": [
+            -122.0667,
+            37.3833
+        ],
+        "asn": "AS1299",
+        "city": "San Francisco Bay Area",
+        "ipv4": "209.170.110.192/26",
+        "ipv6": "2001:2030:0:12::/64",
+        "hostname": "Telia Company AB",
+        "lon": 37.3833,
+        "lat": -122.0667
+    },
+    "34.132.178.43": {
+        "coordinates": [
+            -95.895,
+            41.3
+        ],
+        "asn": "AS396982",
+        "city": "Omaha",
+        "ipv4": "34.132.178.43/32",
+        "ipv6": "2600:1900:4000:2264:0:1::/128",
+        "hostname": "Google LLC",
+        "lon": 41.3,
+        "lat": -95.895
+    },
+    "38.65.210.192": {
+        "coordinates": [
+            -87.9047,
+            41.9786
+        ],
+        "asn": "AS174",
+        "city": "Chicago",
+        "ipv4": "38.65.210.192/26",
+        "ipv6": "2001:550:1b01:1::/64",
+        "hostname": "Cogent Communications",
+        "lon": 41.9786,
+        "lat": -87.9047
+    },
+    "66.198.24.64": {
+        "coordinates": [
+            -87.9047,
+            41.9786
+        ],
+        "asn": "AS6453",
+        "city": "Chicago",
+        "ipv4": "66.198.24.64/26",
+        "ipv6": "2001:5a0:4200::/64",
+        "hostname": "TATA COMMUNICATIONS (AMERICA) INC",
+        "lon": 41.9786,
+        "lat": -87.9047
+    },
+    "173.205.3.192": {
+        "coordinates": [
+            -87.9047,
+            41.9786
+        ],
+        "asn": "AS3257",
+        "city": "Chicago",
+        "ipv4": "173.205.3.192/26",
+        "ipv6": "2001:668:1f:20::/64",
+        "hostname": "GTT Communications Inc.",
+        "lon": 41.9786,
+        "lat": -87.9047
+    },
+    "128.177.163.0": {
+        "coordinates": [
+            -87.9047,
+            41.9786
+        ],
+        "asn": "AS6461",
+        "city": "Chicago",
+        "ipv4": "128.177.163.0/26",
+        "ipv6": "2001:438:fffd:2f::/64",
+        "hostname": "Zayo Bandwidth",
+        "lon": 41.9786,
+        "lat": -87.9047
+    },
+    "4.71.251.128": {
+        "coordinates": [
+            -87.9047,
+            41.9786
+        ],
+        "asn": "AS3356",
+        "city": "Chicago",
+        "ipv4": "4.71.251.128/26",
+        "ipv6": "2001:1900:3001:b::/64",
+        "hostname": "Level 3 Parent, LLC",
+        "lon": 41.9786,
+        "lat": -87.9047
+    },
+    "212.73.231.192": {
+        "coordinates": [
+            2.349,
+            48.8584
+        ],
+        "asn": "AS3356",
+        "city": "Paris",
+        "ipv4": "212.73.231.192/26",
+        "ipv6": "2001:4c08:2003:3f::/64",
+        "hostname": "Level 3 Parent, LLC",
+        "lon": 48.8584,
+        "lat": 2.349
+    },
+    "80.239.222.64": {
+        "coordinates": [
+            2.349,
+            48.8584
+        ],
+        "asn": "AS1299",
+        "city": "Paris",
+        "ipv4": "80.239.222.64/26",
+        "ipv6": "2001:2030:35::/64",
+        "hostname": "Telia Company AB",
+        "lon": 48.8584,
+        "lat": 2.349
+    },
+    "77.67.119.128": {
+        "coordinates": [
+            2.349,
+            48.8584
+        ],
+        "asn": "AS3257",
+        "city": "Paris",
+        "ipv4": "77.67.119.128/26",
+        "ipv6": "2001:668:1f:6b::/64",
+        "hostname": "GTT Communications Inc.",
+        "lon": 48.8584,
+        "lat": 2.349
+    },
+    "195.89.147.192": {
+        "coordinates": [
+            2.349,
+            48.8584
+        ],
+        "asn": "AS1273",
+        "city": "Paris",
+        "ipv4": "195.89.147.192/26",
+        "ipv6": "2001:5003:300:e::/64",
+        "hostname": "Vodafone Group PLC",
+        "lon": 48.8584,
+        "lat": 2.349
+    },
+    "162.213.97.0": {
+        "coordinates": [
+            2.349,
+            48.8584
+        ],
+        "asn": "AS6762",
+        "city": "Paris",
+        "ipv4": "162.213.97.0/26",
+        "ipv6": "2001:41a8:205::/64",
+        "hostname": "TELECOM ITALIA SPARKLE S.p.A.",
+        "lon": 48.8584,
+        "lat": 2.349
+    },
+    "162.213.100.0": {
+        "coordinates": [
+            2.349,
+            48.8584
+        ],
+        "asn": "AS6453",
+        "city": "Paris",
+        "ipv4": "162.213.100.0/26",
+        "ipv6": "2a01:3e0:ff80:8001::/64",
+        "hostname": "TATA COMMUNICATIONS (AMERICA) INC",
+        "lon": 48.8584,
+        "lat": 2.349
+    },
+    "34.155.83.192": {
+        "coordinates": [
+            2.349,
+            48.8584
+        ],
+        "asn": "AS396982",
+        "city": "Paris",
+        "ipv4": "34.155.83.192/32",
+        "ipv6": "2600:1901:8120:8014::/128",
+        "hostname": "Google LLC",
+        "lon": 48.8584,
+        "lat": 2.349
+    },
+    "34.168.208.61": {
+        "coordinates": [
+            -122.5975,
+            45.5886
+        ],
+        "asn": "AS396982",
+        "city": "Portland",
+        "ipv4": "34.168.208.61/32",
+        "ipv6": "2600:1900:4040:ed0d:0:1::/128",
+        "hostname": "Google LLC",
+        "lon": 45.5886,
+        "lat": -122.5975
+    },
+    "35.247.89.22": {
+        "coordinates": [
+            -122.5975,
+            45.5886
+        ],
+        "asn": "AS15169",
+        "city": "Portland",
+        "ipv4": "35.247.89.22/32",
+        "ipv6": "",
+        "hostname": "Google LLC",
+        "lon": 45.5886,
+        "lat": -122.5975
+    },
+    "49.255.54.64": {
+        "coordinates": [
+            115.9669,
+            -31.9403
+        ],
+        "asn": "AS4826",
+        "city": "Perth",
+        "ipv4": "49.255.54.64/26",
+        "ipv6": "2402:7800:6006:1::/64",
+        "hostname": "Vocus Connect International Backbone",
+        "lon": -31.9403,
+        "lat": 115.9669
+    },
+    "162.213.101.0": {
+        "coordinates": [
+            115.9669,
+            -31.9403
+        ],
+        "asn": "AS38195",
+        "city": "Perth",
+        "ipv4": "162.213.101.0/26",
+        "ipv6": "2401:d000:b180::/64",
+        "hostname": "Superloop",
+        "lon": -31.9403,
+        "lat": 115.9669
+    },
+    "195.122.159.128": {
+        "coordinates": [
+            14.4167,
+            50.0833
+        ],
+        "asn": "AS3356",
+        "city": "Prague",
+        "ipv4": "195.122.159.128/26",
+        "ipv6": "2001:4c08:2003:42::/64",
+        "hostname": "Level 3 Parent, LLC",
+        "lon": 50.0833,
+        "lat": 14.4167
+    },
+    "80.239.156.128": {
+        "coordinates": [
+            14.4167,
+            50.0833
+        ],
+        "asn": "AS1299",
+        "city": "Prague",
+        "ipv4": "80.239.156.128/26",
+        "ipv6": "2001:2030:31::/64",
+        "hostname": "Telia Company AB",
+        "lon": 50.0833,
+        "lat": 14.4167
+    },
+    "77.67.114.128": {
+        "coordinates": [
+            14.4167,
+            50.0833
+        ],
+        "asn": "AS3257",
+        "city": "Prague",
+        "ipv4": "77.67.114.128/26",
+        "ipv6": "2001:668:1f:60::/64",
+        "hostname": "GTT Communications Inc.",
+        "lon": 50.0833,
+        "lat": 14.4167
+    },
+    "195.89.147.64": {
+        "coordinates": [
+            14.4167,
+            50.0833
+        ],
+        "asn": "AS1273",
+        "city": "Prague",
+        "ipv4": "195.89.147.64/26",
+        "ipv6": "2001:5016:100:3::/64",
+        "hostname": "Vodafone Group PLC",
+        "lon": 50.0833,
+        "lat": 14.4167
+    },
+    "162.213.98.64": {
+        "coordinates": [
+            14.4167,
+            50.0833
+        ],
+        "asn": "AS6453",
+        "city": "Prague",
+        "ipv4": "162.213.98.64/26",
+        "ipv6": "2a01:3e0:3a00:1::/64",
+        "hostname": "TATA COMMUNICATIONS (AMERICA) INC",
+        "lon": 50.0833,
+        "lat": 14.4167
+    },
+    "8.243.188.192": {
+        "coordinates": [
+            -70.7856,
+            -33.3928
+        ],
+        "asn": "AS3356",
+        "city": "Santiago",
+        "ipv4": "8.243.188.192/26",
+        "ipv6": "2001:1900:2261:1709::/64",
+        "hostname": "Level 3 Parent, LLC",
+        "lon": -33.3928,
+        "lat": -70.7856
+    },
+    "200.123.196.64": {
+        "coordinates": [
+            -70.7856,
+            -33.3928
+        ],
+        "asn": "AS6762",
+        "city": "Santiago",
+        "ipv4": "200.123.196.64/26",
+        "ipv6": "2800:870:2000:100::/64",
+        "hostname": "TELECOM ITALIA SPARKLE S.p.A.",
+        "lon": -33.3928,
+        "lat": -70.7856
+    },
+    "181.199.209.64": {
+        "coordinates": [
+            -70.7856,
+            -33.3928
+        ],
+        "asn": "AS12956",
+        "city": "Santiago",
+        "ipv4": "181.199.209.64/26",
+        "ipv6": "2800:240:13:1::/64",
+        "hostname": "TELEFONICA GLOBAL SOLUTIONS SL",
+        "lon": -33.3928,
+        "lat": -70.7856
+    },
+    "190.211.173.64": {
+        "coordinates": [
+            -70.7856,
+            -33.3928
+        ],
+        "asn": "AS52280",
+        "city": "Santiago",
+        "ipv4": "190.211.173.64/26",
+        "ipv6": "2800:670:10:a::/64",
+        "hostname": "INTERNEXA Chile S.A.",
+        "lon": -33.3928,
+        "lat": -70.7856
+    },
+    "34.176.106.68": {
+        "coordinates": [
+            -70.7856,
+            -33.3928
+        ],
+        "asn": "AS396982",
+        "city": "Santiago",
+        "ipv4": "34.176.106.68/32",
+        "ipv6": "2600:1901:4010:c39::/128",
+        "hostname": "Google LLC",
+        "lon": -33.3928,
+        "lat": -70.7856
+    },
+    "63.243.224.0": {
+        "coordinates": [
+            -122.3094,
+            47.4489
+        ],
+        "asn": "AS6453",
+        "city": "Seattle",
+        "ipv4": "63.243.224.0/26",
+        "ipv6": "2001:5a0:4400::/64",
+        "hostname": "TATA COMMUNICATIONS (AMERICA) INC",
+        "lon": 47.4489,
+        "lat": -122.3094
+    },
+    "173.205.3.0": {
+        "coordinates": [
+            -122.3094,
+            47.4489
+        ],
+        "asn": "AS3257",
+        "city": "Seattle",
+        "ipv4": "173.205.3.0/26",
+        "ipv6": "2001:668:1f:1d::/64",
+        "hostname": "GTT Communications Inc.",
+        "lon": 47.4489,
+        "lat": -122.3094
+    },
+    "4.71.157.128": {
+        "coordinates": [
+            -122.3094,
+            47.4489
+        ],
+        "asn": "AS3356",
+        "city": "Seattle",
+        "ipv4": "4.71.157.128/26",
+        "ipv6": "2001:1900:2100:16::/64",
+        "hostname": "Level 3 Parent, LLC",
+        "lon": 47.4489,
+        "lat": -122.3094
+    },
+    "209.170.110.128": {
+        "coordinates": [
+            -122.3094,
+            47.4489
+        ],
+        "asn": "AS1299",
+        "city": "Seattle",
+        "ipv4": "209.170.110.128/26",
+        "ipv6": "2001:2030:0:a::/64",
+        "hostname": "Telia Company AB",
+        "lon": 47.4489,
+        "lat": -122.3094
+    },
+    "38.102.0.64": {
+        "coordinates": [
+            -122.3094,
+            47.4489
+        ],
+        "asn": "AS174",
+        "city": "Seattle",
+        "ipv4": "38.102.0.64/26",
+        "ipv6": "2001:550:3200:1::/64",
+        "hostname": "Cogent Communications",
+        "lon": 47.4489,
+        "lat": -122.3094
+    },
+    "180.87.97.64": {
+        "coordinates": [
+            103.988,
+            1.355
+        ],
+        "asn": "AS6453",
+        "city": "Singapore",
+        "ipv4": "180.87.97.64/26",
+        "ipv6": "2405:2000:301::/64",
+        "hostname": "TATA COMMUNICATIONS (AMERICA) INC",
+        "lon": 1.355,
+        "lat": 103.988
+    },
+    "34.124.169.175": {
+        "coordinates": [
+            103.988,
+            1.355
+        ],
+        "asn": "AS15169",
+        "city": "Singapore",
+        "ipv4": "34.124.169.175/32",
+        "ipv6": "2600:1900:4080:5afb::/128",
+        "hostname": "Google LLC",
+        "lon": 1.355,
+        "lat": 103.988
+    },
+    "34.106.93.110": {
+        "coordinates": [
+            -111.9778,
+            40.7883
+        ],
+        "asn": "AS396982",
+        "city": "Salt Lake City",
+        "ipv4": "34.106.93.110/32",
+        "ipv6": "2600:1900:4170:2ab0::/128",
+        "hostname": "Google LLC",
+        "lon": 40.7883,
+        "lat": -111.9778
+    },
+    "212.221.42.128": {
+        "coordinates": [
+            23.4083,
+            42.695
+        ],
+        "asn": "AS3257",
+        "city": "Sofia",
+        "ipv4": "212.221.42.128/26",
+        "ipv6": "2001:668:1f:fe6f::/64",
+        "hostname": "GTT Communications Inc.",
+        "lon": 42.695,
+        "lat": 23.4083
+    },
+    "209.170.79.0": {
+        "coordinates": [
+            23.4083,
+            42.695
+        ],
+        "asn": "AS1299",
+        "city": "Sofia",
+        "ipv4": "209.170.79.0/26",
+        "ipv6": "2001:2030:0:3::/64",
+        "hostname": "Telia Company AB",
+        "lon": 42.695,
+        "lat": 23.4083
+    },
+    "81.167.39.0": {
+        "coordinates": [
+            5.6378,
+            58.8767
+        ],
+        "asn": "AS29695",
+        "city": "Stavanger",
+        "ipv4": "81.167.39.0/26",
+        "ipv6": "2a01:798:0:13::/64",
+        "hostname": "Altibox AS",
+        "lon": 58.8767,
+        "lat": 5.6378
+    },
+    "203.5.76.128": {
+        "coordinates": [
+            151.177,
+            -33.9461
+        ],
+        "asn": "AS7575",
+        "city": "Sydney",
+        "ipv4": "203.5.76.128/26",
+        "ipv6": "2001:388:d0::/64",
+        "hostname": "Australian Academic and Reasearch Network (AARNet)",
+        "lon": -33.9461,
+        "lat": 151.177
+    },
+    "67.199.149.64": {
+        "coordinates": [
+            151.177,
+            -33.9461
+        ],
+        "asn": "AS3257",
+        "city": "Sydney",
+        "ipv4": "67.199.149.64/26",
+        "ipv6": "2001:668:1f:fe1a::/64",
+        "hostname": "GTT Communications Inc.",
+        "lon": -33.9461,
+        "lat": 151.177
+    },
+    "175.45.79.64": {
+        "coordinates": [
+            151.177,
+            -33.9461
+        ],
+        "asn": "AS4826",
+        "city": "Sydney",
+        "ipv4": "175.45.79.64/26",
+        "ipv6": "2402:7800:200f:1::/64",
+        "hostname": "Vocus",
+        "lon": -33.9461,
+        "lat": 151.177
+    },
+    "162.213.101.64": {
+        "coordinates": [
+            151.177,
+            -33.9461
+        ],
+        "asn": "AS38195",
+        "city": "Sydney",
+        "ipv4": "162.213.101.64/26",
+        "ipv6": "2401:d000:3180::/64",
+        "hostname": "Superloop",
+        "lon": -33.9461,
+        "lat": 151.177
+    },
+    "35.201.6.115": {
+        "coordinates": [
+            151.177,
+            -33.9461
+        ],
+        "asn": "AS396982",
+        "city": "Sydney",
+        "ipv4": "35.201.6.115/32",
+        "ipv6": "2600:1900:40b0:16a4::/128",
+        "hostname": "Google LLC",
+        "lon": -33.9461,
+        "lat": 151.177
+    },
+    "213.149.127.0": {
+        "coordinates": [
+            18.7616,
+            42.1078
+        ],
+        "asn": "AS8585",
+        "city": "Podgorica",
+        "ipv4": "213.149.127.0/26",
+        "ipv6": "2a00:fe80:0:104::/64",
+        "hostname": "Crnogorski Telekom a.d.Podgorica",
+        "lon": 42.1078,
+        "lat": 18.7616
+    },
+    "41.188.12.64": {
+        "coordinates": [
+            47.4788,
+            -18.7969
+        ],
+        "asn": "AS37054",
+        "city": "Antananarivo",
+        "ipv4": "41.188.12.64/26",
+        "ipv6": "",
+        "hostname": "Telecom Malagasy",
+        "lon": -18.7969,
+        "lat": 47.4788
+    },
+    "163.22.28.0": {
+        "coordinates": [
+            121.224,
+            25.0778
+        ],
+        "asn": "AS1659",
+        "city": "Taipei",
+        "ipv4": "163.22.28.0/26",
+        "ipv6": "2001:e10:6840:28::/64",
+        "hostname": "Taiwan Academic Network (TANet) Information Center",
+        "lon": 25.0778,
+        "lat": 121.224
+    },
+    "35.194.150.141": {
+        "coordinates": [
+            121.224,
+            25.0778
+        ],
+        "asn": "AS396982",
+        "city": "Taipei",
+        "ipv4": "35.194.150.141/32",
+        "ipv6": "2600:1900:4030:ddef:0:1::/128",
+        "hostname": "Google LLC",
+        "lon": 25.0778,
+        "lat": 121.224
+    },
+    "194.116.85.192": {
+        "coordinates": [
+            7.6497,
+            45.2008
+        ],
+        "asn": "AS41364",
+        "city": "Turin",
+        "ipv4": "194.116.85.192/26",
+        "ipv6": "2a07:1ec0:775::/48",
+        "hostname": "CONSORZIO TOP IX - TORINO E PIEMONTE EXCHANGE POINT CC",
+        "lon": 45.2008,
+        "lat": 7.6497
+    },
+    "41.231.21.0": {
+        "coordinates": [
+            10.2291,
+            36.8516
+        ],
+        "asn": "AS2609",
+        "city": "Tunis",
+        "ipv4": "41.231.21.0/26",
+        "ipv6": "2001:4350:3000:1::/64",
+        "hostname": "Tunisia BackBone AS",
+        "lon": 36.8516,
+        "lat": 10.2291
+    },
+    "34.118.70.240": {
+        "coordinates": [
+            20.9672,
+            52.1658
+        ],
+        "asn": "AS396982",
+        "city": "Warsaw",
+        "ipv4": "34.118.70.240/32",
+        "ipv6": "2600:1900:4140:a999::/128",
+        "hostname": "Google LLC",
+        "lon": 52.1658,
+        "lat": 20.9672
+    },
+    "163.7.129.64": {
+        "coordinates": [
+            174.805,
+            -41.3272
+        ],
+        "asn": "AS38022",
+        "city": "Wellington",
+        "ipv4": "163.7.129.64/26",
+        "ipv6": "2404:138:4009:1::/64",
+        "hostname": "REANNZ National Research and Education Network",
+        "lon": -41.3272,
+        "lat": 174.805
+    },
+    "209.51.169.128": {
+        "coordinates": [
+            -64.6738,
+            46.1073
+        ],
+        "asn": "AS6939",
+        "city": "Moncton",
+        "ipv4": "209.51.169.128/26",
+        "ipv6": "2001:470:1:820::/64",
+        "hostname": "Hurricane Electric LLC",
+        "lon": 46.1073,
+        "lat": -64.6738
+    },
+    "216.66.10.64": {
+        "coordinates": [
+            -64.6738,
+            46.1073
+        ],
+        "asn": "AS6939",
+        "city": "Moncton",
+        "ipv4": "216.66.10.64/26",
+        "ipv6": "2001:470:1:ed6::/64",
+        "hostname": "Hurricane Electric LLC",
+        "lon": 46.1073,
+        "lat": -64.6738
+    },
+    "216.66.14.64": {
+        "coordinates": [
+            -73.7497,
+            45.4576
+        ],
+        "asn": "AS6939",
+        "city": "Montreal",
+        "ipv4": "216.66.14.64/26",
+        "ipv6": "2001:470:1:48f::/64",
+        "hostname": "Hurricane Electric LLC",
+        "lon": 45.4576,
+        "lat": -73.7497
+    },
+    "76.74.83.192": {
+        "coordinates": [
+            -73.7497,
+            45.4576
+        ],
+        "asn": "AS286",
+        "city": "Montreal",
+        "ipv4": "76.74.83.192/26",
+        "ipv6": "2001:668:1f:ffa3::/64",
+        "hostname": "KPN B.V.",
+        "lon": 45.4576,
+        "lat": -73.7497
+    },
+    "162.213.100.192": {
+        "coordinates": [
+            -73.7497,
+            45.4576
+        ],
+        "asn": "AS6453",
+        "city": "Montreal",
+        "ipv4": "162.213.100.192/26",
+        "ipv6": "2001:5a0:ffe0:80::/64",
+        "hostname": "TATA COMMUNICATIONS (AMERICA) INC",
+        "lon": 45.4576,
+        "lat": -73.7497
+    },
+    "209.95.149.128": {
+        "coordinates": [
+            -73.7497,
+            45.4576
+        ],
+        "asn": "AS1299",
+        "city": "Montreal",
+        "ipv4": "209.95.149.128/26",
+        "ipv6": "2001:2030:0:54::/64",
+        "hostname": "Telia Company AB",
+        "lon": 45.4576,
+        "lat": -73.7497
+    },
+    "38.129.52.128": {
+        "coordinates": [
+            -73.7497,
+            45.4576
+        ],
+        "asn": "AS174",
+        "city": "Montreal",
+        "ipv4": "38.129.52.128/26",
+        "ipv6": "2001:550:600::/64",
+        "hostname": "Cogent Communications",
+        "lon": 45.4576,
+        "lat": -73.7497
+    },
+    "34.95.21.36": {
+        "coordinates": [
+            -73.7497,
+            45.4576
+        ],
+        "asn": "AS396982",
+        "city": "Montreal",
+        "ipv4": "34.95.21.36/32",
+        "ipv6": "2600:1900:40e0:7615::/128",
+        "hostname": "Google LLC",
+        "lon": 45.4576,
+        "lat": -73.7497
+    },
+    "209.170.101.0": {
+        "coordinates": [
+            -123.1837,
+            49.1902
+        ],
+        "asn": "AS1299",
+        "city": "Vancouver",
+        "ipv4": "209.170.101.0/26",
+        "ipv6": "2001:2030:0:5c::/64",
+        "hostname": "Telia Company AB",
+        "lon": 49.1902,
+        "lat": -123.1837
+    },
+    "38.88.76.0": {
+        "coordinates": [
+            -123.1837,
+            49.1902
+        ],
+        "asn": "AS174",
+        "city": "Vancouver",
+        "ipv4": "38.88.76.0/26",
+        "ipv6": "2001:550:7200:1::/64",
+        "hostname": "Cogent Communications",
+        "lon": 49.1902,
+        "lat": -123.1837
+    },
+    "74.199.130.0": {
+        "coordinates": [
+            -123.1837,
+            49.1902
+        ],
+        "asn": "AS286",
+        "city": "Vancouver",
+        "ipv4": "74.199.130.0/26",
+        "ipv6": "2001:668:1f:ffe8::/64",
+        "hostname": "GTT Communications, Inc.",
+        "lon": 49.1902,
+        "lat": -123.1837
+    },
+    "184.105.31.0": {
+        "coordinates": [
+            -97.2373,
+            49.906
+        ],
+        "asn": "AS6939",
+        "city": "Winnipeg",
+        "ipv4": "184.105.31.0/26",
+        "ipv6": "2001:470:1:ed7::/64",
+        "hostname": "Hurricane Electric LLC",
+        "lon": 49.906,
+        "lat": -97.2373
+    },
+    "64.62.161.128": {
+        "coordinates": [
+            -114.0106,
+            51.1315
+        ],
+        "asn": "AS6939",
+        "city": "Calgary",
+        "ipv4": "64.62.161.128/26",
+        "ipv6": "2001:470:1:ed5::/64",
+        "hostname": "Hurricane Electric LLC",
+        "lon": 51.1315,
+        "lat": -114.0106
+    },
+    "209.120.241.0": {
+        "coordinates": [
+            -79.6306,
+            43.6767
+        ],
+        "asn": "AS3257",
+        "city": "Toronto",
+        "ipv4": "209.120.241.0/26",
+        "ipv6": "2001:668:1f:ff0d::/64",
+        "hostname": "GTT Communications Inc.",
+        "lon": 43.6767,
+        "lat": -79.6306
+    },
+    "162.213.100.128": {
+        "coordinates": [
+            -79.6306,
+            43.6767
+        ],
+        "asn": "AS6453",
+        "city": "Toronto",
+        "ipv4": "162.213.100.128/26",
+        "ipv6": "2001:5a0:800:301::/64",
+        "hostname": "TATA COMMUNICATIONS (AMERICA) INC",
+        "lon": 43.6767,
+        "lat": -79.6306
+    },
+    "209.170.101.64": {
+        "coordinates": [
+            -79.6306,
+            43.6767
+        ],
+        "asn": "AS1299",
+        "city": "Toronto",
+        "ipv4": "209.170.101.64/26",
+        "ipv6": "2001:2030:0:5d::/64",
+        "hostname": "Telia Company AB",
+        "lon": 43.6767,
+        "lat": -79.6306
+    },
+    "38.111.126.64": {
+        "coordinates": [
+            -79.6306,
+            43.6767
+        ],
+        "asn": "AS174",
+        "city": "Toronto",
+        "ipv4": "38.111.126.64/26",
+        "ipv6": "2001:550:900::/64",
+        "hostname": "Cogent Communications",
+        "lon": 43.6767,
+        "lat": -79.6306
+    },
+    "34.130.103.14": {
+        "coordinates": [
+            -79.6306,
+            43.6767
+        ],
+        "asn": "AS396982",
+        "city": "Toronto",
+        "ipv4": "34.130.103.14/32",
+        "ipv6": "2600:1900:41e0:35a9::/128",
+        "hostname": "Google LLC",
+        "lon": 43.6767,
+        "lat": -79.6306
+    },
+    "34.65.61.93": {
+        "coordinates": [
+            8.5492,
+            47.4647
+        ],
+        "asn": "AS396982",
+        "city": "Zurich",
+        "ipv4": "34.65.61.93/32",
+        "ipv6": "2600:1900:4160:623a::/128",
+        "hostname": "Google LLC",
+        "lon": 47.4647,
+        "lat": 8.5492
+    }
+}

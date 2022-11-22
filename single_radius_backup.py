@@ -67,7 +67,7 @@ class SingleRadius():
             A.append(a_asn)
         except KeyError:
             print(f'Address {addr} can\'t be mapped to ASN')
-            return []
+            return [], []
         
         # Step (2): Add to C the cities where AS(t) has a probe 
         # TODO: use RIPE Atlas Client to do this 
@@ -79,9 +79,7 @@ class SingleRadius():
         # Get network object for target asn (asn is stored as int in pdb client)
         network = self.pdb_c.get_network(int(a_asn))
         
-        if network is None: 
-            print(f'No network object for address {addr}')
-            return []
+        if network is None: return [], []
 
         # Step (4): Add to C the cities with IXPs where AS(t) is present
         for city in network.ixp_cities:
@@ -105,14 +103,13 @@ class SingleRadius():
 
         # Select probes based on the last paragraph in Section 3.1 
         if A or C:
-            probe_ids = self.select_probes(addr, A, C)
+            probe_ids = self.select_probes(A, C)
         else:
-            print(f'A & C both empty for address {addr}')
             probe_ids = []
 
         return probe_ids 
 
-    def select_probes(self, addr, A, C):
+    def select_probes(self, A, C):
         probe_ids = []
         try: 
             # Step 1): Select up to 100 random probes from AS(t)
@@ -120,32 +117,23 @@ class SingleRadius():
             probes = random.sample(probes, min([len(probes), 100]))
             probe_ids += probes 
 
-            # Step 2): Select up to 5 random probes from each AS in A 
+            # Step 2): Select up to 10 random probes from each AS in A 
             for asn in A[1:]:  # skip asn that target addr is in 
-                if len(probe_ids) < 200:
+                if len(probe_ids) < 500:
                     asn_p = self.ra_c.get_probes_in_asn(asn)
-                    rand_10_probes = random.sample(asn_p, min([len(asn_p), 5]))
+                    rand_10_probes = random.sample(asn_p, min([len(asn_p), 10]))
                     probe_ids += rand_10_probes
                 else:
                     break 
         except KeyError:
             pass 
-        
-        if not probe_ids:
-            print(f'No RIPE probe in AS for address {addr}')
 
         return [str(p_id) for p_id in probe_ids]
 
-    def select_random_probes(self):
-        probes = self.ra_c.get_all_probes() 
-        return [str(addr) for addr in random.sample(probes, 300)]
-
     def measure_addr(self, addr):
         probes = self.initial_probe_selection(addr)
-
-        if not probes: # probes is empty
-            probes = self.select_random_probes() 
         self.ra_c.create_measurement(addr, probes)
+
 
     def terminate(self):
         with open(self.as_neighbour_fn, 'w') as f:
