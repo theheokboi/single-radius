@@ -32,8 +32,10 @@ with open('analysis.csv', 'r') as f:
         m_d = great_circle(m_lon, m_lat, g_lon, g_lat)
         i_d = great_circle(i_lon, i_lat, g_lon, g_lat)
 
-        if t_d > m_d+i_d:
-            print(t_d, m_d, i_d)
+        """ 
+        if 131 < t_d:
+            print(f'{t_d}, {t_lon}, {t_lat}, {g_lon}, {g_lat}')
+        """ 
 
 
         ipmap_err_dist.append(t_d)
@@ -43,15 +45,66 @@ with open('analysis.csv', 'r') as f:
 ipmap_err_dist = sorted(ipmap_err_dist) 
 mmind_err_dist = sorted(mmind_err_dist)
 iinfo_err_dist = sorted(iinfo_err_dist)
+ipmap_err_dist = list(map(lambda x: x if x > 1 else 1, ipmap_err_dist))
+mmind_err_dist = list(map(lambda x: x if x > 1 else 1, mmind_err_dist))
+iinfo_err_dist = list(map(lambda x: x if x > 1 else 1, iinfo_err_dist))
 
-# exit(-1)
-import plotly.express as px
 import pandas as pd
-df_t = pd.DataFrame({'t_err': ipmap_err_dist, 'm_err': mmind_err_dist, 'i_err': iinfo_err_dist})
+df_t = pd.DataFrame({'single-radius': ipmap_err_dist, 'MaxMind': mmind_err_dist, 'IPinfo': iinfo_err_dist})
+df_m = df_t.melt(var_name='dataset')
+
+import seaborn as sns
+import matplotlib.pyplot as plt
+
+fig, ax = plt.subplots()
+fig.set_size_inches(10, 5)
+# fig.tight_layout()
+
+sns.ecdfplot(
+    ax=ax,
+    data=df_t, 
+    x='single-radius',
+    label='single-radius',
+    log_scale=True,
+    color='blue'
+)
+sns.ecdfplot(
+    ax=ax,
+    data=df_t, 
+    x='IPinfo',
+    label='IPinfo',
+    log_scale=True,
+    ls=':',
+    color='orange'
+)
+sns.ecdfplot(
+    ax=ax,
+    data=df_t, 
+    x='MaxMind',
+    label='MaxMind',
+    log_scale=True,
+    ls=':',
+    color='green'
+)
 
 
-fig = px.ecdf(df_t, x=['t_err', 'm_err', 'i_err'], log_x=True)
-fig.show()
+ax.legend()
+ax.set_xlim(0.75, 15000)
+ax.set_yticks([0.00,0.25,0.5,0.75, 1.00])
+ax.set_xticks([1, 10, 40, 100, 1000, 10000])
+ax.set_ylim(0, 1.05)
+ax.set_xlabel('Error Distance from Ground Truth Location (km)', size='x-large')
+ax.set_ylabel('CDF', size='x-large')
+
+# ax.set_xticks(range(1,32))
+plt.xticks(fontsize='large')
+plt.yticks(fontsize='large')
+plt.axvline(x=40, color='magenta', linestyle="dashed")
+plt.legend(loc='lower right', fontsize='large')
+plt.grid()
+# plt.show()
+fig.savefig('error.jpg', dpi=300, bbox_inches='tight')
+
 
 
 

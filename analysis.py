@@ -6,6 +6,9 @@ import scipy.constants as constant
 from myripe import RIPEAtlasClient
 from ripe.atlas.cousteau import AtlasResultsRequest
 
+with open('coords.json') as f:
+    coords = json.load(f)
+
 ra_c = RIPEAtlasClient() 
 
 def get_loc(addr, results):
@@ -30,13 +33,20 @@ def get_loc(addr, results):
     p_lon, p_lat = ra_c.PID_TO_RIPE_PROBE[l_pid]['geometry']['coordinates'] 
     print(f'Lowest one way RTT is {lowest_rtt*1000: .2f} ms')
 
+    key = (round(p_lat, 4), round(p_lon, 4))
+    key = str(key)
+
+    if key not in coords:
+        print(f'Getting loc for {key}')
+        r = requests.get(f'https://ipmap-api.ripe.net/v1/worlds/reverse/{t_lat}/{t_lon}').json()
+        coords[key] = r 
+
     radius = lowest_rtt*(2/3)*(constant.speed_of_light/1000) # m to km 
     print(radius, 'Km')
-    response = requests.get(f'https://ipmap-api.ripe.net/v1/worlds/reverse/{p_lat}/{p_lon}')
     
-    city   = response.json()['locations'][0]['cityNameAscii']
-    c_code = response.json()['locations'][0]['countryCodeAlpha2']
-    country = response.json()['locations'][0]['countryName']
+    city   = coords[key]['locations'][0]['cityNameAscii']
+    c_code = coords[key]['locations'][0]['countryCodeAlpha2']
+    country = coords[key]['locations'][0]['countryName']
 
     return city, c_code, country, p_lon, p_lat
 
