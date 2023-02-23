@@ -29,23 +29,7 @@ class MeasurementPool {
             console.log("Cache exceeded capacity, sleeping 10 seconds")
             await sleep(20)
         }
-        let definitions = [
-            {
-                "target" : "ripe.net",
-                "description" : "pinging",
-                "af" : 4,
-                "type" : "ping",
-            }   
-        ]
-
-        let p = [
-            {
-                "type" : "probe",
-                "value" : probes,
-                "requested" : probes.length
-            }
-        ]
-
+        
         let form = {
             "definitions": [
               {
