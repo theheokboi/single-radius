@@ -1,19 +1,124 @@
 import glob 
 import json
+import haversine as hs
 import requests
+import numpy as np
 import pprint
+import re
 import scipy.constants as constant
+import time
 from myripe import RIPEAtlasClient
 from ripe.atlas.cousteau import AtlasResultsRequest
+from mypdb import PeeringDB, Location
+from geopy.geocoders import Nominatim
+
+
+geolocator = Nominatim(user_agent="geoapiExercises",timeout=30)
+pdb = PeeringDB()
 
 with open('coords.json') as f:
     coords = json.load(f)
 
 ra_c = RIPEAtlasClient() 
 
+def lat_lon_to_city(latitude, longitude):
+    try:
+        time.sleep(2)
+        location = geolocator.reverse(str(latitude)+","+str(longitude),language='en')
+        address = location.raw['address']
+        city = address.get('city', '')
+        country_code = address.get('country_code', '')
+        return city, country_code
+    except Exception:
+        return "", ""
+
+def translate_country_code_to_country(cc):
+    return pycountry.countries.get(alpha_2=cc).name
+
+
+def get_city_opendata_population(city, country):
+    #{'city': {'type': 'uri', 'value': 'http://www.wikidata.org/entity/Q64'},
+    # 'population': {'datatype': 'http://www.w3.org/2001/XMLSchema#decimal',
+    #  'type': 'literal',
+    #  'value': '3613495'},
+    # 'country': {'type': 'uri', 'value': 'http://www.wikidata.org/entity/Q183'},
+    # 'cityLabel': {'xml:lang': 'en', 'type': 'literal', 'value': 'Berlin'},
+    # 'countryLabel': {'xml:lang': 'en', 'type': 'literal', 'value': 'Germany'}}
+    try:
+        tmp = 'https://public.opendatasoft.com/api/records/1.0/search/?dataset=geonames-all-cities-with-a-population-1000&q=%s&sort=population&facet=country&refine.country=%s'
+        cmd = tmp % (city, country)
+        res = requests.get(cmd)
+        dct = json.loads(res.content)
+        out = dct['records'][0]['fields']
+        return out['population']
+    except Exception as e:
+        print(e)
+        print("Exception getting population info")
+        return 0
+
+def city_ranking(city_info, probe_loc):
+    # Rank cities
+    cities = []
+    delimiters = ', ', ' and ', ' - ', '/'
+    pattern = '|'.join(map(re.escape, delimiters))
+
+    for type, lst in city_info.items():
+        if type=="city_coords":
+            for c in lst:
+                city, country  = lat_lon_to_city(c[1],c[0])
+                if city and country:
+                    cities.append((city.lower(), country.lower()))
+        else:
+            for loc in lst:
+                curr = re.split(pattern, loc[0])
+                cities.append((curr[0].lower(), loc[1].lower()))
+                
+
+    populations = []
+    fac_ixp  = []
+    distances = []
+
+    cities = dict.fromkeys(cities)
+    cities = list(cities.keys())
+    for city, country in cities:
+        time.sleep(5)
+        population = get_city_opendata_population(city, country)
+
+        city_coords = geolocator.geocode(city) 
+        distance = hs.haversine(probe_loc,  (city_coords.latitude, city_coords.longitude))
+
+        fac_ixp_curr = pdb.get_num_of_ixps_and_facs_by_city((city,country))
+
+        populations.append(population)
+        distances.append(distance)
+        fac_ixp.append(fac_ixp_curr)
+
+
+    pop_scores = np.argsort(populations) # [0, 1, 2]
+    fac_ixp_scores = np.argsort(fac_ixp) # [1, 0, 2]
+    distance_scores = np.argsort(-1* np.array(distances)) # [1, 2, 0]
+    print(distance_scores)
+    metrics = np.array([])# compute a score for each city, then rank cities
+    for index, city in enumerate(cities):
+        pop_score = np.where(pop_scores == index)[0] + 1
+        pop_score = pop_score[0]
+        fac_ixp_score = np.where(fac_ixp_scores == index)[0] + 1
+        fac_ixp_score = fac_ixp_score[0]
+        distance_score = np.where(distance_scores == index)[0] + 1
+        distance_score = distance_score[0]
+        score = pop_score*4 + fac_ixp_score*3 + distance_score*2
+        print(score)
+        metrics = np.append(metrics,score)
+
+    indices = np.argsort(metrics)
+    print(indices)
+    return cities[indices[-1]] # last index corresponds to the most likely city
+    
 def get_loc(addr, results):
     measurements = list() 
-
+    with open("static/addr_to_city_list.json") as f:
+        city_info = json.load(f)
+    
     for msm in results:
         avg_rtt = msm['avg'] 
         if avg_rtt == -1:
@@ -32,7 +137,8 @@ def get_loc(addr, results):
     l_pid = measurements[0]['prb_id']
     p_lon, p_lat = ra_c.PID_TO_RIPE_PROBE[l_pid]['geometry']['coordinates'] 
     print(f'Lowest one way RTT is {lowest_rtt*1000: .2f} ms')
-
+    city = city_ranking(city_info[addr], (p_lat, p_lon))
+    print("City with best ranking is : {}".format(city))
     key = (round(p_lat, 4), round(p_lon, 4))
     key = str(key)
 
