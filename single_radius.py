@@ -15,6 +15,8 @@ class SingleRadius():
 
         self.as_neighbour = {}
         self.as_neighbour_fn = f'{STATIC_PATH}/as_neighbours.json'
+        self.addr_to_city_list_fn = f'{STATIC_PATH}/addr_to_city_list.json'
+        self.addr_to_city_list = {} 
 
 
         self.pyt = pytricia.PyTricia()
@@ -59,7 +61,8 @@ class SingleRadius():
         """Section 3.1 of paper https://www.caida.org/catalog/papers/2020_ripe_ipmap_active_geolocation/ripe_ipmap_active_geolocation.pdf"""
 
         A = list()
-        C = list() 
+        C_str    = list() 
+        C_coords = list() 
         
         # Step (1): Add AS(t) to A 
         try:
@@ -70,11 +73,12 @@ class SingleRadius():
             return []
         
         # Step (2): Add to C the cities where AS(t) has a probe 
-        # TODO: use RIPE Atlas Client to do this 
+        city_coords = self.ra_c.get_coords_by_asn(int(a_asn))
+        C_coords += city_coords 
 
         # Step (3): Add to A the ASes neighbours (BGP distance of 1) of AS(t)
         neighbours = self.get_as_neighbours(a_asn)
-        A += neighbours 
+        A += neighbours
 
         # Get network object for target asn (asn is stored as int in pdb client)
         network = self.pdb_c.get_network(int(a_asn))
@@ -84,9 +88,13 @@ class SingleRadius():
             return []
 
         # Step (4): Add to C the cities with IXPs where AS(t) is present
-        for city in network.ixp_cities:
-            if city not in C:
-                C.append(city)
+        for loc in network.ixp_cities:
+            for c in loc.city:
+                if c not in C_str:
+                    C_str.append(loc)
+        # for city in network.ixp_cities:
+        #     if city not in C:
+        #         C.append(city)
 
         # Step (5): Add to A the ASes present at the IXPs identified in step (4) 
         for ixp_as in network.ixp_ases:
@@ -94,9 +102,14 @@ class SingleRadius():
                 A.append(ixp_as)
         
         # Step (6): Add to C all the cities corresponding to the facilites where AS(t) is present
-        for city in network.fac_cities:
-            if city not in C:
-                C.append(city)
+        for loc in network.fac_cities:
+            for c in loc.city:
+                if c not in C_str:
+                    C_str.append(loc)
+
+        # for city in network.fac_cities:
+        #     if city not in C:
+        #         C.append(city)
 
         # Step (7): Add to A the ASes peering at facilities identified in step (6)  
         for fac_as in network.fac_ases:
@@ -104,15 +117,19 @@ class SingleRadius():
                 A.append(fac_as)      
 
         # Select probes based on the last paragraph in Section 3.1 
-        if A or C:
-            probe_ids = self.select_probes(addr, A, C)
+        if A or C_str or C_coords:
+            self.addr_to_city_list[addr] = {
+                'city_str': C_str, 
+                'city_coords': C_coords 
+            }
+            probe_ids = self.select_probes(addr, A, C_str, C_coords)
         else:
             print(f'A & C both empty for address {addr}')
             probe_ids = []
 
         return probe_ids 
 
-    def select_probes(self, addr, A, C):
+    def select_probes(self, addr, A, C_str, C_coords):
         probe_ids = []
         try: 
             # Step 1): Select up to 100 random probes from AS(t)
@@ -145,13 +162,25 @@ class SingleRadius():
 
         if not probes: # probes is empty
             probes = self.select_random_probes() 
-        self.ra_c.create_measurement(addr, probes)
+        m_id = self.ra_c.create_measurement(addr, probes)
 
     def terminate(self):
         with open(self.as_neighbour_fn, 'w') as f:
             json.dump(self.as_neighbour, f)
         
+        with open(self.addr_to_city_list_fn, 'w') as f:
+            json.dump(self.addr_to_city_list, f)
+        
         self.ra_c.terminate()
 
+
+if __name__ == '__main__':
+    from mypdb import PeeringDB
+    from myripe import RIPEAtlasClient
+    pdb_c = PeeringDB()
+    ra_c  = RIPEAtlasClient('3c94fc15-d506-4168-86d0-c139ccf0a58a') 
+    sr = SingleRadius(pdb_c, ra_c)
+
+    sr.initial_probe_selection('45.138.229.91')
 
 

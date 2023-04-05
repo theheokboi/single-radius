@@ -1,6 +1,9 @@
 import re 
 from peeringdb.client import Client
 from peeringdb import resource 
+from collections import namedtuple
+Location = namedtuple('Location', ['city', 'country'])
+
 
 class PDBNetwork():
     def __init__(self, n_gen):
@@ -49,8 +52,6 @@ class PeeringDB():
     def __init__(self):
         self.client = Client() 
         self.ASN_TO_PID = None 
-        
-        
         self._get_asn_to_id()
 
         # Misc variables 
@@ -73,7 +74,8 @@ class PeeringDB():
         for ixp in n.ixps:
             ix   = self.client.get(resource.InternetExchange, ixp.ixlan_id)
             ix_city = re.split(self.regex_pattern, ix.city)
-            n.ixp_cities += ix_city 
+
+            n.ixp_cities += [Location(ix_city, str(ix.country))]
 
             ixlan = self.client.get(resource.InternetExchangeLan, ixp.ixlan_id)
             # all ASes peered at this ixp 
@@ -86,7 +88,8 @@ class PeeringDB():
             # all ASes peered at this fac 
             as_at_fac = list(set([x.local_asn for x in fac.netfac_set.all()]))
             
-            n.fac_cities += fac_city 
+            n.fac_cities += [Location(fac_city , str(fac.country))]
+            # n.fac_cities += fac_city 
             n.fac_ases += as_at_fac
 
         n.ixp_ases = list(set(n.ixp_ases))

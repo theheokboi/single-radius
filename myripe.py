@@ -56,6 +56,14 @@ class RIPEAtlasClient():
             probes = [probe['id'] for probe in self.ASN_TO_RIPE_PROBE[asn]]
         return probes
     
+    def get_coords_by_asn(self, asn):
+        coords = [] 
+        
+        if asn in self.ASN_TO_RIPE_PROBE:
+            coords = [coord['geometry']['coordinates'] for coord in self.ASN_TO_RIPE_PROBE[asn]]
+        
+        return coords 
+    
     def create_measurement(self, t_addr, probes, m_type='ping'):
         if not probes:
             # self.log_f.write(f'{t_addr},0\n')
@@ -100,8 +108,9 @@ class RIPEAtlasClient():
 
             if m_id == 0:
                 pprint.pprint(response)
-        
-            self.live_measurements += 1 
+            self.live_measurements += 1'
+
+            return m_id  
         else:
             try:
                 err = response['error']
@@ -120,6 +129,11 @@ class RIPEAtlasClient():
 
     def terminate(self):
         self.log_f.close()
+
+
+if __name__ == '__main__':
+    ra_c = RIPEAtlasClient() 
+    print(ra_c.get_coords_by_asn(206238)) 
 
 
     

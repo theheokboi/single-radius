@@ -28,10 +28,9 @@ with open('RDNS.json', 'r') as f:
     rdns = {addr.strip().strip("'"): hss for addr, hss in rdns.items()}
 
 with open(file_name, 'r') as f:
-    addrs = json.load(f)
-
-for addr in addrs.keys():
-    cdn_addr.append(addr)
+    for addr in f:
+        addr = addr.strip() 
+        cdn_addr.append(addr)
 
 unknown_addr = []
 
