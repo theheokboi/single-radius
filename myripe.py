@@ -26,7 +26,6 @@ class RIPEAtlasClient():
 
         self._setup()
     
-
     def _setup(self): 
         with open(f'{STATIC_PATH}/RIPE_Probes.json', 'r') as f:
             probes = json.load(f)
@@ -40,12 +39,12 @@ class RIPEAtlasClient():
 
             self.ALL_PROBES.append(pid)
             
-            if asn not in self.ASN_TO_RIPE_PROBE:
+            if asn not in self.ASN_TO_RIPE_PROBE: # asn: [probe_1, probe_2, ...]
                 self.ASN_TO_RIPE_PROBE[asn] = [probe]
             else:
                 self.ASN_TO_RIPE_PROBE[asn] += [probe]
                 
-            if pid not in self.PID_TO_RIPE_PROBE:
+            if pid not in self.PID_TO_RIPE_PROBE: # probe id to probe object 
                 self.PID_TO_RIPE_PROBE[pid] = probe
         
         self.log_f = open(f'{self.log_fname}', 'w')
@@ -56,7 +55,7 @@ class RIPEAtlasClient():
             probes = [probe['id'] for probe in self.ASN_TO_RIPE_PROBE[asn]]
         return probes
     
-    def get_coords_by_asn(self, asn):
+    def get_probes_coords_by_asn(self, asn): # get all probe coordinates in an asn 
         coords = [] 
         
         if asn in self.ASN_TO_RIPE_PROBE:
@@ -66,7 +65,6 @@ class RIPEAtlasClient():
     
     def create_measurement(self, t_addr, probes, m_type='ping'):
         if not probes:
-            # self.log_f.write(f'{t_addr},0\n')
             print(f'No probes for {t_addr}...')
             return 
 
@@ -104,11 +102,11 @@ class RIPEAtlasClient():
     
         if is_success:
             m_id = response['measurements'][0] # measurement id 
-            self.log_f.write(f'{t_addr},{m_id}\n')
+            self.log_f.write(f'{t_addr},{m_id}\n') # target address to measurement id mapping 
 
             if m_id == 0:
                 pprint.pprint(response)
-            self.live_measurements += 1'
+            self.live_measurements += 1
 
             return m_id  
         else:
@@ -117,6 +115,7 @@ class RIPEAtlasClient():
 
                 if err['code'] == 102: # You are not permitted to run more than 100 concurrent measurements
                     print('Sleeping for 5 mins...')
+                    pprint(err)
                     time.sleep(5*60)
                 else:
                     pprint.pprint(err)
@@ -133,7 +132,9 @@ class RIPEAtlasClient():
 
 if __name__ == '__main__':
     ra_c = RIPEAtlasClient() 
-    print(ra_c.get_coords_by_asn(206238)) 
+
+    print(ra_c.get_probes_in_asn(206238))
+    print(ra_c.get_probes_coords_by_asn(206238)) 
 
 
     

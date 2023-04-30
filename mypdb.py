@@ -1,10 +1,9 @@
 import re 
 from peeringdb.client import Client
 from peeringdb import resource 
+from fuzzywuzzy import fuzz
 from collections import namedtuple
 Location = namedtuple('Location', ['city', 'country'])
-from fuzzywuzzy import fuzz
-
 
 class PDBNetwork():
     def __init__(self, n_gen):
@@ -69,21 +68,23 @@ class PeeringDB():
     def get_num_of_ixps_and_facs_by_city(self, loc):
         count = 0 
 
+        l_city, l_country = loc[0], loc[1]
+        # l_city, l_country = loc.city, loc.country
         ix = self.client.all(resource.InternetExchange)
         fc = self.client.all(resource.Facility)
         
         for ixp in ix:
-            if ixp.country == loc[1] and (fuzz.ratio(loc[0], ixp.city) > self.fz_threshold):
+            if ixp.country == l_country and (fuzz.ratio(l_city.lower(), ixp.city.lower()) > self.fz_threshold):
                 count += 1 
         for fac in fc:
-            if fac.country == loc[1] and (fuzz.ratio(loc[0], fac.city) > self.fz_threshold):
+            if fac.country == l_country and (fuzz.ratio(l_city.lower(), fac.city.lower()) > self.fz_threshold):
                 count += 1
 
         return count 
             
     def get_network(self, asn):
-        try:
-            p_id = self.ASN_TO_PID[asn] # get peeringdb id for target asn 
+        try: # get peeringdb id for target asn 
+            p_id = self.ASN_TO_PID[asn] 
         except KeyError:
             print(f'Target ASN {asn} does not exist in PeeringDB.')
             return None 
@@ -92,8 +93,6 @@ class PeeringDB():
 
         for ixp in n.ixps:
             ix   = self.client.get(resource.InternetExchange, ixp.ixlan_id)
-            # ix_city = re.split(self.regex_pattern, ix.city)
-            # n.ixp_cities += [Location(ix_city, str(ix.country))]
             n.ixp_cities += [Location(ix.city, str(ix.country))]
 
             ixlan = self.client.get(resource.InternetExchangeLan, ixp.ixlan_id)
@@ -103,13 +102,10 @@ class PeeringDB():
         
         for fac in n.facs:
             fac = self.client.get(resource.Facility, fac.fac_id)
-            # fac_city = re.split(self.regex_pattern, fac.city)
             # all ASes peered at this fac 
             as_at_fac = list(set([x.local_asn for x in fac.netfac_set.all()]))
             
             n.fac_cities += [Location(fac.city , str(fac.country))]
-            # n.fac_cities += [Location(fac_city , str(fac.country))]
-            # n.fac_cities += fac_city 
             n.fac_ases += as_at_fac
 
         n.ixp_ases = list(set(n.ixp_ases))
@@ -121,12 +117,13 @@ class PeeringDB():
 if __name__ == '__main__':
     pdb = PeeringDB()
     net = pdb.get_network(9924)
-
     
-    print(net.ixp_cities)
-    print(net.fac_cities)
+    for i in net.ixp_cities:
+        print(i)
+    for i in net.fac_cities:
+        print(i)
     print(len(net.ixp_ases))
     print(len(net.fac_ases))
 
-    pdb.get_num_of_ixps_and_facs_by_city('test') 
+    print(pdb.get_num_of_ixps_and_facs_by_city(('tokyo', 'JP')))
     
