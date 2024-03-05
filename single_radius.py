@@ -51,12 +51,17 @@ class SingleRadius():
             self.as_neighbour[asn] = self._fetch_as_neighbours(asn)    
         return self.as_neighbour[asn]
 
-    def _fetch_as_neighbours(self, asn): 
-        response = requests.get(f"{self.remote}?resource={asn}")
-        all_neighbours = sorted(response.json()['data']['neighbours'], key=lambda x: x['power'])
-
-        # select only ases that are one hop away 
-        return list([x['asn'] for x in filter(lambda x: x['power'] == 1, all_neighbours)])
+    def _fetch_as_neighbours(self, asn):
+        try:
+            response = requests.get(f"{self.remote}?resource={asn}")
+            all_neighbours = sorted(response.json()['data']['neighbours'], key=lambda x: x['power'])
+            # select only ases that are one hop away 
+            return [x['asn'] for x in filter(lambda x: x['power'] == 1, all_neighbours)]
+        except Exception as e:
+            print(f"Failed to fetch neighbours from remote for ASN {asn}: {e}")
+            print(f"Getting neighbors for ASN {asn} from local")
+            # Attempt to get neighbours offline using as_relationships
+            return as_relationships.get_neighbors(asn)
 
     def _get_addr_asn(self, addr):
         return self.pyt.get(addr)
