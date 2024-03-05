@@ -4,6 +4,7 @@ import random
 import requests 
 
 import pytricia 
+import as_relationships
 
 
 STATIC_PATH = 'static'
