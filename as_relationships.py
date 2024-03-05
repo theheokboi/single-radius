@@ -98,9 +98,9 @@ def create_networkx_graph(as_subset=None):
                     if connected_as not in g:
                         g.add_node(connected_as)
                     if relationship == 'C2P':
-                        g.add_edge(connected_as, as_number, rel=-1, relationship='c2p')
-                    elif relationship == 'P2C':
                         g.add_edge(as_number, connected_as, rel=-1, relationship='c2p')
+                    elif relationship == 'P2C':
+                        g.add_edge(as_number, connected_as, rel=-1, relationship='p2c')
                     else:  # P2P relationship
                         g.add_edge(as_number, connected_as, rel=0, relationship='p2p')
                         g.add_edge(connected_as, as_number, rel=0, relationship='p2p')
